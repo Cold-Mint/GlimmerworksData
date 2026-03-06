@@ -1,0 +1,20 @@
+resourceId = "player"
+isPlayer = true
+moveSpeed = 5
+shape = "rectangle"
+bodyType = 2
+friction = 100.0
+height = 3.0
+width = 1.8
+categoryBits = 1
+maskBits = 2
+fixedRotation = true
+allowBodySleep = false
+[[appearance]]
+x = 0.0
+y = 0.0
+id = "body_0"
+[appearance.texture]
+packId = "@self"
+resourceType = "texture"
+resourceKey = "player.png"

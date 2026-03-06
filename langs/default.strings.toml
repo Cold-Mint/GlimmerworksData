@@ -1,110 +1,110 @@
 [[string]]
-resourceKey = "dataPacksName"
+resourceId = "dataPacksName"
 value = "GlimmerWorks"
 
 [[string]]
-resourceKey = "dataPacksDescription"
+resourceId = "dataPacksDescription"
 value = "The official core data pack for GlimmerWorks, providing essential game definitions and content."
 
 [[string]]
-resourceKey = "dirt"
+resourceId = "dirt"
 value = "dirt"
 
 [[string]]
-resourceKey = "grass"
+resourceId = "grass"
 value = "grass"
 
 [[string]]
-resourceKey = "sand"
+resourceId = "sand"
 value = "sand"
 
 
 [[string]]
-resourceKey = "snow"
+resourceId = "snow"
 value = "snow"
 
 
 [[string]]
-resourceKey = "wooden_pickaxe"
+resourceId = "wooden_pickaxe"
 value = "wooden pickaxe"
 
 
 [[string]]
-resourceKey = "simple_dig"
+resourceId = "simple_dig"
 value = "Simple dig module"
 
 
 
 [[string]]
-resourceKey = "standard_dig"
+resourceId = "standard_dig"
 value = "Standard dig module"
 
 
 [[string]]
-resourceKey = "oak_wood"
+resourceId = "oak_wood"
 value = "oak wood"
 
 
 [[string]]
-resourceKey = "oak_leaf"
+resourceId = "oak_leaf"
 value = "oak leaf"
 
 
 [[string]]
-resourceKey = "oak"
+resourceId = "oak"
 value = "oak"
 
 
 [[string]]
-resourceKey = "area_marker"
+resourceId = "area_marker"
 value = "Precision surveying instrument"
 
 [[string]]
-resourceKey = "mining_gain_1"
+resourceId = "mining_gain_1"
 value = "Mining Bonus I"
 
 
 [[string]]
-resourceKey = "mining_gain_2"
+resourceId = "mining_gain_2"
 value = "Mining Bonus II"
 
 
 [[string]]
-resourceKey = "mining_gain_3"
+resourceId = "mining_gain_3"
 value = "Mining Bonus III"
 
 [[string]]
-resourceKey = "mining_gain_4"
+resourceId = "mining_gain_4"
 value = "Mining Bonus IV"
 
 [[string]]
-resourceKey = "mining_gain_5"
+resourceId = "mining_gain_5"
 value = "Mining Bonus V"
 
 [[string]]
-resourceKey = "precision_mining"
+resourceId = "precision_mining"
 value = "Precision Mining"
 
 [[string]]
-resourceKey = "fumble_chance_1"
+resourceId = "fumble_chance_1"
 value = "Fumble I"
 
 [[string]]
-resourceKey = "fumble_chance_2"
+resourceId = "fumble_chance_2"
 value = "Fumble II"
 
 [[string]]
-resourceKey = "fumble_chance_3"
+resourceId = "fumble_chance_3"
 value = "Fumble III"
 
 [[string]]
-resourceKey = "chain_mining_1"
+resourceId = "chain_mining_1"
 value = "Chain Mining I"
 
 [[string]]
-resourceKey = "chain_mining_2"
+resourceId = "chain_mining_2"
 value = "Chain Mining II"
 
 [[string]]
-resourceKey = "chain_mining_3"
+resourceId = "chain_mining_3"
 value = "Chain Mining III"

@@ -1,4 +1,4 @@
-resourceKey = "fumble_chance_3"
+resourceId = "fumble_chance_3"
 canUseAlone = false
 ability = "none"
 

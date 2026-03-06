@@ -1,4 +1,4 @@
-resourceKey = "plains"
+resourceId = "plains"
 humidity = 0.5
 temperature = 0.5
 weirdness = 0.0

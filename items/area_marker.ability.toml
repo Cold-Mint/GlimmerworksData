@@ -1,4 +1,4 @@
-resourceKey = "area_marker"
+resourceId = "area_marker"
 canUseAlone = true
 ability = "areaMarker"
 

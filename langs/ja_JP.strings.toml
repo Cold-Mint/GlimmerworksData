@@ -1,107 +1,107 @@
 [[string]]
-resourceKey = "dataPacksName"
+resourceId = "dataPacksName"
 value = "グリマーワークス"
 
 [[string]]
-resourceKey = "dataPacksDescription"
+resourceId = "dataPacksDescription"
 value = "グリマーワークス公式コアデータパックです。ゲームの基本定義とコンテンツを提供します。"
 
 [[string]]
-resourceKey = "dirt"
+resourceId = "dirt"
 value = "土"
 
 [[string]]
-resourceKey = "grass"
+resourceId = "grass"
 value = "草土"
 
 
 [[string]]
-resourceKey = "sand"
+resourceId = "sand"
 value = "砂"
 
 
 [[string]]
-resourceKey = "snow"
+resourceId = "snow"
 value = "雪"
 
 
 [[string]]
-resourceKey = "wooden_pickaxe"
+resourceId = "wooden_pickaxe"
 value = "木のつるはし"
 
 
 [[string]]
-resourceKey = "simple_dig"
+resourceId = "simple_dig"
 value = "簡易採掘モジュール"
 
 
 [[string]]
-resourceKey = "standard_dig"
+resourceId = "standard_dig"
 value = "標準採掘モジュール"
 
 
 [[string]]
-resourceKey = "oak_wood"
+resourceId = "oak_wood"
 value = "オークの木板"
 
 
 [[string]]
-resourceKey = "oak_leaf"
+resourceId = "oak_leaf"
 value = "オークの葉"
 
 [[string]]
-resourceKey = "oak"
+resourceId = "oak"
 value = "オーク"
 
 
 [[string]]
-resourceKey = "area_marker"
+resourceId = "area_marker"
 value = "せいみつそくていき"
 
 [[string]]
-resourceKey = "mining_gain_1"
+resourceId = "mining_gain_1"
 value = "採掘ブーストⅠ"
 
 [[string]]
-resourceKey = "mining_gain_2"
+resourceId = "mining_gain_2"
 value = "採掘ブーストⅡ"
 
 [[string]]
-resourceKey = "mining_gain_3"
+resourceId = "mining_gain_3"
 value = "採掘ブーストⅢ"
 
 [[string]]
-resourceKey = "mining_gain_4"
+resourceId = "mining_gain_4"
 value = "採掘ブーストⅣ"
 
 [[string]]
-resourceKey = "mining_gain_5"
+resourceId = "mining_gain_5"
 value = "採掘ブーストⅤ"
 
 [[string]]
-resourceKey = "precision_mining"
+resourceId = "precision_mining"
 value = "せいみつさいくつ"
 
 [[string]]
-resourceKey = "fumble_chance_1"
+resourceId = "fumble_chance_1"
 value = "滑り手 I"
 
 [[string]]
-resourceKey = "fumble_chance_2"
+resourceId = "fumble_chance_2"
 value = "滑り手 II"
 
 [[string]]
-resourceKey = "fumble_chance_3"
+resourceId = "fumble_chance_3"
 value = "滑り手 III"
 
 [[string]]
-resourceKey = "chain_mining_1"
+resourceId = "chain_mining_1"
 value = "チェーン収集 I"
 
 [[string]]
-resourceKey = "chain_mining_2"
+resourceId = "chain_mining_2"
 value = "チェーン収集 II"
 
 [[string]]
-resourceKey = "chain_mining_3"
+resourceId = "chain_mining_3"
 value = "チェーン収集 III"

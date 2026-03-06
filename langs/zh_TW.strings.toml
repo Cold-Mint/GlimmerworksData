@@ -1,106 +1,106 @@
 [[string]]
-resourceKey = "dataPacksName"
+resourceId = "dataPacksName"
 value = "微光工坊"
 
 [[string]]
-resourceKey = "dataPacksDescription"
+resourceId = "dataPacksDescription"
 value = "微光工坊官方核心資料包，提供遊戲的基礎定義和內容。"
 
 [[string]]
-resourceKey = "dirt"
+resourceId = "dirt"
 value = "泥土"
 
 
 [[string]]
-resourceKey = "grass"
+resourceId = "grass"
 value = "草地"
 
 
 [[string]]
-resourceKey = "sand"
+resourceId = "sand"
 value = "沙子"
 
 
 [[string]]
-resourceKey = "snow"
+resourceId = "snow"
 value = "雪"
 
 
 [[string]]
-resourceKey = "wooden_pickaxe"
+resourceId = "wooden_pickaxe"
 value = "木鎬"
 
 [[string]]
-resourceKey = "simple_dig"
+resourceId = "simple_dig"
 value = "簡易挖掘模組"
 
 
 [[string]]
-resourceKey = "standard_dig"
+resourceId = "standard_dig"
 value = "標準挖掘模組"
 
 [[string]]
-resourceKey = "oak_wood"
+resourceId = "oak_wood"
 value = "橡木木闆"
 
 [[string]]
-resourceKey = "oak_leaf"
+resourceId = "oak_leaf"
 value = "橡木樹葉"
 
 
 [[string]]
-resourceKey = "oak"
+resourceId = "oak"
 value = "橡木"
 
 
 [[string]]
-resourceKey = "area_marker"
+resourceId = "area_marker"
 value = "精準測繪儀"
 
 [[string]]
-resourceKey = "mining_gain_1"
+resourceId = "mining_gain_1"
 value = "採掘增益I"
 
 [[string]]
-resourceKey = "mining_gain_2"
+resourceId = "mining_gain_2"
 value = "採掘增益II"
 
 [[string]]
-resourceKey = "mining_gain_3"
+resourceId = "mining_gain_3"
 value = "採掘增益III"
 
 [[string]]
-resourceKey = "mining_gain_4"
+resourceId = "mining_gain_4"
 value = "採掘增益IV"
 
 [[string]]
-resourceKey = "mining_gain_5"
+resourceId = "mining_gain_5"
 value = "採掘增益V"
 
 [[string]]
-resourceKey = "precision_mining"
+resourceId = "precision_mining"
 value = "精準采集"
 
 [[string]]
-resourceKey = "fumble_chance_1"
+resourceId = "fumble_chance_1"
 value = "手滑I"
 
 [[string]]
-resourceKey = "fumble_chance_2"
+resourceId = "fumble_chance_2"
 value = "手滑II"
 
 [[string]]
-resourceKey = "fumble_chance_3"
+resourceId = "fumble_chance_3"
 value = "手滑III"
 
 [[string]]
-resourceKey = "chain_mining_1"
+resourceId = "chain_mining_1"
 value = "連鎖採集I"
 
 [[string]]
-resourceKey = "chain_mining_2"
+resourceId = "chain_mining_2"
 value = "連鎖採集II"
 
 [[string]]
-resourceKey = "chain_mining_3"
+resourceId = "chain_mining_3"
 value = "連鎖採集III"

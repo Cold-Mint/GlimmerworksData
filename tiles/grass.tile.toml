@@ -1,4 +1,4 @@
-resourceKey = "grass"
+resourceId = "grass"
 physicsType = 1
 hardness = 0.82
 layerType = 0

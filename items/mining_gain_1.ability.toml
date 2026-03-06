@@ -1,4 +1,4 @@
-resourceKey = "mining_gain_1"
+resourceId = "mining_gain_1"
 canUseAlone = false
 ability = "none"
 

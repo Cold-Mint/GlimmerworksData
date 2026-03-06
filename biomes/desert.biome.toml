@@ -1,4 +1,4 @@
-resourceKey = "desert"
+resourceId = "desert"
 humidity = 0.2
 temperature = 0.8
 weirdness = 0.0

@@ -1,4 +1,4 @@
-resourceKey = "oak"
+resourceId = "oak"
 
 [[mandatory]]
 min = 1

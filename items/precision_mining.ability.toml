@@ -1,4 +1,4 @@
-resourceKey = "precision_mining"
+resourceId = "precision_mining"
 canUseAlone = false
 ability = "none"
 

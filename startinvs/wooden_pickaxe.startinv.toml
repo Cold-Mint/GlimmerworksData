@@ -1,4 +1,4 @@
-resourceKey = "wooden_pickaxe"
+resourceId = "wooden_pickaxe"
 [[addItems]]
 packId = "@self"
 resourceType = "composable"

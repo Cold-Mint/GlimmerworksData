@@ -1,4 +1,4 @@
-resourceKey = "oak_wood"
+resourceId = "oak_wood"
 physicsType = 1
 hardness = 0.9
 layerType = 0

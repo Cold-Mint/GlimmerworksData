@@ -1,4 +1,4 @@
-resourceKey = "chain_mining_1"
+resourceId = "chain_mining_1"
 canUseAlone = true
 ability = "none"
 

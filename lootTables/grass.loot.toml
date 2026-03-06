@@ -1,4 +1,4 @@
-resourceKey = "grass"
+resourceId = "grass"
 
 [[mandatory]]
 min = 1

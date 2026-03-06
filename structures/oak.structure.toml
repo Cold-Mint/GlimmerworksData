@@ -1,4 +1,4 @@
-resourceKey = "oak"
+resourceId = "oak"
 generatorId = "tree"
 #Trees must grow on the surface.
 #树木必须生成在表面。

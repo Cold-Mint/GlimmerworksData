@@ -1,4 +1,4 @@
-resourceKey = "start_room"
+resourceId = "start_room"
 generatorId = "static"
 [[tileInfo]]
 x = 0
