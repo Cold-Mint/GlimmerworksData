@@ -1,12 +1,13 @@
 resourceId = "wooden_pickaxe"
 [[addItems]]
+amount = 1
+[addItems.item]
 packId = "@self"
 resourceType = "composable"
 resourceKey = "wooden_pickaxe"
-[[addItems.args]]
-name = "item_0"
-type = "ref"
-[addItems.args.data]
+[[addItems.abilityItemRef]]
+amount = 1
+[addItems.abilityItemRef.item]
 packId = "@self"
 resourceType = "ability"
 resourceKey = "standard_dig"

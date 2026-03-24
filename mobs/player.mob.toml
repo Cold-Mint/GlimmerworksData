@@ -1,20 +1,65 @@
 resourceId = "player"
 isPlayer = true
 moveSpeed = 5
-shape = "rectangle"
 bodyType = 2
-friction = 100.0
-height = 3.0
-width = 1.8
+allowBodySleep = false
+friction = 0.0
+fixedRotation = true
+
+
+[textureOffset]
+x = -0.7
+y = 1.0
+
+[box2dFilter]
 categoryBits = 1
 maskBits = 2
-fixedRotation = true
-allowBodySleep = false
-[[appearance]]
-x = 0.0
-y = 0.0
-id = "body_0"
-[appearance.texture]
+
+[shape]
+packId = "@self"
+resourceType = "shape"
+resourceKey = "player_shape"
+
+[texture]
 packId = "@self"
 resourceType = "texture"
 resourceKey = "player.png"
+
+[[groundCheckRayCast]]
+[groundCheckRayCast.origin]
+x = 0.0
+y = 0.0
+
+[groundCheckRayCast.translation]
+x = 0.0
+y = -1.2
+
+[groundCheckRayCast.filter]
+categoryBits = 1
+maskBits = 2
+
+[[groundCheckRayCast]]
+[groundCheckRayCast.origin]
+x = -0.6
+y = 0.0
+
+[groundCheckRayCast.translation]
+x = -0.0
+y = -1.2
+
+[groundCheckRayCast.filter]
+categoryBits = 1
+maskBits = 2
+
+[[groundCheckRayCast]]
+[groundCheckRayCast.origin]
+x = 0.6
+y = 0.0
+
+[groundCheckRayCast.translation]
+x = -0.0
+y = -1.2
+
+[groundCheckRayCast.filter]
+categoryBits = 1
+maskBits = 2

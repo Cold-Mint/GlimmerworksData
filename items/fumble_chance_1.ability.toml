@@ -13,7 +13,4 @@ resourceType = "string"
 resourceKey = "fumble_chance_1"
 
 [abilityConfig]
-[[abilityConfig.definition]]
-key = "fumbleChance"
-type = "float"
-value = 0.05
+fumbleProbability = 0.05

@@ -14,11 +14,6 @@ packId = "@self"
 resourceType = "string"
 resourceKey = "grass"
 
-[description]
-packId = "@self"
-resourceType = "string"
-resourceKey = "grass_description"
-
 [lootTable]
 packId = "@self"
 resourceType = "loot"

@@ -13,7 +13,4 @@ resourceType = "string"
 resourceKey = "mining_gain_4"
 
 [abilityConfig]
-[[abilityConfig.definition]]
-key = "efficiency"
-type = "float"
-value = 2.4
+miningEfficiency = 2.4

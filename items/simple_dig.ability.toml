@@ -13,12 +13,5 @@ resourceType = "string"
 resourceKey = "simple_dig"
 
 [abilityConfig]
-[[abilityConfig.definition]]
-key = "canMineBlock"
-type = "bool"
-value = true
-
-[[abilityConfig.definition]]
-key = "efficiency"
-type = "float"
-value = 0.7
+allowMineBlock = true
+miningEfficiency = 0.7

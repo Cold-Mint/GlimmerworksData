@@ -13,7 +13,4 @@ resourceType = "string"
 resourceKey = "chain_mining_1"
 
 [abilityConfig]
-[[abilityConfig.definition]]
-key = "chainMiningRadius"
-type = "int"
-value = 3
+chainMiningRadius = 3

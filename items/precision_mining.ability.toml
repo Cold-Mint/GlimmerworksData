@@ -13,7 +13,4 @@ resourceType = "string"
 resourceKey = "precision_mining"
 
 [abilityConfig]
-[[abilityConfig.definition]]
-key = "precisionMining"
-type = "bool"
-value = true
+enablePrecisionMining = true

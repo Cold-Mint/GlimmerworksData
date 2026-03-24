@@ -12,8 +12,3 @@ resourceKey = "tiles/dirt.png"
 packId = "@self"
 resourceType = "string"
 resourceKey = "dirt"
-
-[description]
-packId = "@self"
-resourceType = "string"
-resourceKey = "dirt_description"

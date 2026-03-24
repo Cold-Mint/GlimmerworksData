@@ -13,8 +13,3 @@ resourceKey = "tiles/oak_leaf.png"
 packId = "@self"
 resourceType = "string"
 resourceKey = "oak_leaf"
-
-[description]
-packId = "@self"
-resourceType = "string"
-resourceKey = "oak_leaf_description"
