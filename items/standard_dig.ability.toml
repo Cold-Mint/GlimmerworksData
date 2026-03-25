@@ -5,7 +5,7 @@ ability = "dig"
 [texture]
 packId = "@self"
 resourceType = "texture"
-resourceKey = "items/function_module.png"
+resourceKey = "items/function_module"
 
 [name]
 packId = "@self"

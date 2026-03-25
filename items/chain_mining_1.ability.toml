@@ -5,7 +5,7 @@ ability = "none"
 [texture]
 packId = "@self"
 resourceType = "texture"
-resourceKey = "items/data_module.png"
+resourceKey = "items/data_module"
 
 [name]
 packId = "@self"

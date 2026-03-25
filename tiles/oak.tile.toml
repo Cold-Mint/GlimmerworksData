@@ -8,7 +8,7 @@ allowChainMining = true
 [texture]
 packId = "@self"
 resourceType = "texture"
-resourceKey = "tiles/oak.png"
+resourceKey = "tiles/oak"
 
 [name]
 packId = "@self"
@@ -19,4 +19,14 @@ resourceKey = "oak"
 packId = "@self"
 resourceType = "loot"
 resourceKey = "oak"
+
+[breakSFX]
+packId = "@self"
+resourceType = "audio"
+resourceKey = "sfx/block_break"
+
+[blockPlaceSFX]
+packId = "@self"
+resourceType = "audio"
+resourceKey = "sfx/block_place"
 

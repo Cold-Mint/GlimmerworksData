@@ -6,9 +6,19 @@ layerType = 0
 [texture]
 packId = "@self"
 resourceType = "texture"
-resourceKey = "tiles/sand.png"
+resourceKey = "tiles/sand"
 
 [name]
 packId = "@self"
 resourceType = "string"
 resourceKey = "sand"
+
+[breakSFX]
+packId = "@self"
+resourceType = "audio"
+resourceKey = "sfx/block_break"
+
+[blockPlaceSFX]
+packId = "@self"
+resourceType = "audio"
+resourceKey = "sfx/block_place"

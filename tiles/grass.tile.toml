@@ -7,7 +7,7 @@ customLootTable = true
 [texture]
 packId = "@self"
 resourceType = "texture"
-resourceKey = "tiles/grass.png"
+resourceKey = "tiles/grass"
 
 [name]
 packId = "@self"
@@ -18,3 +18,13 @@ resourceKey = "grass"
 packId = "@self"
 resourceType = "loot"
 resourceKey = "grass"
+
+[breakSFX]
+packId = "@self"
+resourceType = "audio"
+resourceKey = "sfx/block_break"
+
+[blockPlaceSFX]
+packId = "@self"
+resourceType = "audio"
+resourceKey = "sfx/block_place"

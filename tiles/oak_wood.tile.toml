@@ -6,9 +6,19 @@ layerType = 0
 [texture]
 packId = "@self"
 resourceType = "texture"
-resourceKey = "tiles/oak_wood.png"
+resourceKey = "tiles/oak_wood"
 
 [name]
 packId = "@self"
 resourceType = "string"
 resourceKey = "oak_wood"
+
+[breakSFX]
+packId = "@self"
+resourceType = "audio"
+resourceKey = "sfx/block_break"
+
+[blockPlaceSFX]
+packId = "@self"
+resourceType = "audio"
+resourceKey = "sfx/block_place"
