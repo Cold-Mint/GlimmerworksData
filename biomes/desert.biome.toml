@@ -1,19 +1,19 @@
 elevation = 0.5
 erosion = 1.0
 humidity = 0.2
-resource_id = 'desert'
+resource_id = "desert"
 temperature = 0.8
 weirdness = 0.0
 
 [bgm]
-pack_id = '@self'
-resource_key = 'bgm/biome_desert'
-resource_type = 'audio'
+pack_id = "@self"
+resource_key = "bgm/biome_desert"
+resource_type = "audio"
 
 [[decorator]]
-id = 'fill'
+id = "fill"
 
 [[decorator.data]]
-pack_id = '@self'
-resource_key = 'sand'
-resource_type = 'tile'
+pack_id = "@self"
+resource_key = "sand"
+resource_type = "tile"

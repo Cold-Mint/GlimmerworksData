@@ -1,20 +1,20 @@
-author = 'Cold-Mint'
-id = 'glimmerworks'
+author = "Cold-Mint"
+id = "glimmerworks"
 min_game_version = 1
 res_pack = false
-version_name = '1.0'
+version_name = "1.0"
 version_number = 1
 
 [description]
-pack_id = '@self'
-resource_key = 'dataPacksDescription'
-resource_type = 'string'
+pack_id = "@self"
+resource_key = "dataPacksDescription"
+resource_type = "string"
 
 [name]
-pack_id = '@self'
-resource_key = 'dataPacksName'
-resource_type = 'string'
+pack_id = "@self"
+resource_key = "dataPacksName"
+resource_type = "string"
 
 [[pack_dependencies]]
 min_version = 1
-pack_id = '@core'
+pack_id = "@core"

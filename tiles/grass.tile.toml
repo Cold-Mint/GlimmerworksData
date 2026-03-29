@@ -2,29 +2,29 @@ custom_loot_table = true
 hardness = 0.82
 layer_type = 0
 physics_type = 1
-resource_id = 'grass'
-
-[place_sfx]
-pack_id = '@self'
-resource_key = 'sfx/block_place'
-resource_type = 'audio'
+resource_id = "grass"
 
 [break_sfx]
-pack_id = '@self'
-resource_key = 'sfx/block_break'
-resource_type = 'audio'
+pack_id = "@self"
+resource_key = "sfx/block_break"
+resource_type = "audio"
 
 [loot_table]
-pack_id = '@self'
-resource_key = 'grass'
-resource_type = 'loot'
+pack_id = "@self"
+resource_key = "grass"
+resource_type = "loot"
 
 [name]
-pack_id = '@self'
-resource_key = 'grass'
-resource_type = 'string'
+pack_id = "@self"
+resource_key = "grass"
+resource_type = "string"
+
+[place_sfx]
+pack_id = "@self"
+resource_key = "sfx/block_place"
+resource_type = "audio"
 
 [texture]
-pack_id = '@self'
-resource_key = 'tiles/grass'
-resource_type = 'texture'
+pack_id = "@self"
+resource_key = "tiles/grass"
+resource_type = "texture"

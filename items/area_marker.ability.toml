@@ -1,13 +1,13 @@
-ability = 'areaMarker'
+ability = "areaMarker"
 can_use_alone = true
-resource_id = 'area_marker'
+resource_id = "area_marker"
 
 [name]
-pack_id = '@self'
-resource_key = 'area_marker'
-resource_type = 'string'
+pack_id = "@self"
+resource_key = "area_marker"
+resource_type = "string"
 
 [texture]
-pack_id = '@self'
-resource_key = 'items/data_module'
-resource_type = 'texture'
+pack_id = "@self"
+resource_key = "items/data_module"
+resource_type = "texture"

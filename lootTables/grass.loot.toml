@@ -1,10 +1,10 @@
-resource_id = 'grass'
+resource_id = "grass"
 
 [[mandatory]]
 max = 1
 min = 1
 
 [mandatory.item]
-pack_id = '@self'
-resource_key = 'dirt'
-resource_type = 'tile'
+pack_id = "@self"
+resource_key = "dirt"
+resource_type = "tile"

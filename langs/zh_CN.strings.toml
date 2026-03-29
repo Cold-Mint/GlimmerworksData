@@ -1,99 +1,99 @@
 [[string]]
-resource_id = 'dataPacksName'
-value = '微光工坊'
+resource_id = "dataPacksName"
+value = "微光工坊"
 
 [[string]]
-resource_id = 'dataPacksDescription'
-value = '微光工坊官方核心数据包，提供游戏的基础定义和内容。'
+resource_id = "dataPacksDescription"
+value = "微光工坊官方核心数据包，提供游戏的基础定义和内容。"
 
 [[string]]
-resource_id = 'dirt'
-value = '泥土'
+resource_id = "dirt"
+value = "泥土"
 
 [[string]]
-resource_id = 'grass'
-value = '草地'
+resource_id = "grass"
+value = "草地"
 
 [[string]]
-resource_id = 'sand'
-value = '沙子'
+resource_id = "sand"
+value = "沙子"
 
 [[string]]
-resource_id = 'snow'
-value = '雪'
+resource_id = "snow"
+value = "雪"
 
 [[string]]
-resource_id = 'wooden_pickaxe'
-value = '木镐'
+resource_id = "wooden_pickaxe"
+value = "木镐"
 
 [[string]]
-resource_id = 'simple_dig'
-value = '简易挖掘模块'
+resource_id = "simple_dig"
+value = "简易挖掘模块"
 
 [[string]]
-resource_id = 'standard_dig'
-value = '标准挖掘模块'
+resource_id = "standard_dig"
+value = "标准挖掘模块"
 
 [[string]]
-resource_id = 'oak_wood'
-value = '橡木木板'
+resource_id = "oak_wood"
+value = "橡木木板"
 
 [[string]]
-resource_id = 'oak_leaf'
-value = '橡木树叶'
+resource_id = "oak_leaf"
+value = "橡木树叶"
 
 [[string]]
-resource_id = 'oak'
-value = '橡木'
+resource_id = "oak"
+value = "橡木"
 
 [[string]]
-resource_id = 'area_marker'
-value = '精准测绘仪'
+resource_id = "area_marker"
+value = "精准测绘仪"
 
 [[string]]
-resource_id = 'mining_gain_1'
-value = '挖掘增益I'
+resource_id = "mining_gain_1"
+value = "挖掘增益I"
 
 [[string]]
-resource_id = 'mining_gain_2'
-value = '挖掘增益II'
+resource_id = "mining_gain_2"
+value = "挖掘增益II"
 
 [[string]]
-resource_id = 'mining_gain_3'
-value = '挖掘增益III'
+resource_id = "mining_gain_3"
+value = "挖掘增益III"
 
 [[string]]
-resource_id = 'mining_gain_4'
-value = '挖掘增益IV'
+resource_id = "mining_gain_4"
+value = "挖掘增益IV"
 
 [[string]]
-resource_id = 'mining_gain_5'
-value = '挖掘增益V'
+resource_id = "mining_gain_5"
+value = "挖掘增益V"
 
 [[string]]
-resource_id = 'precision_mining'
-value = '精准采集'
+resource_id = "precision_mining"
+value = "精准采集"
 
 [[string]]
-resource_id = 'fumble_chance_1'
-value = '手滑I'
+resource_id = "fumble_chance_1"
+value = "手滑I"
 
 [[string]]
-resource_id = 'fumble_chance_2'
-value = '手滑II'
+resource_id = "fumble_chance_2"
+value = "手滑II"
 
 [[string]]
-resource_id = 'fumble_chance_3'
-value = '手滑III'
+resource_id = "fumble_chance_3"
+value = "手滑III"
 
 [[string]]
-resource_id = 'chain_mining_1'
-value = '连锁采集I'
+resource_id = "chain_mining_1"
+value = "连锁采集I"
 
 [[string]]
-resource_id = 'chain_mining_2'
-value = '连锁采集II'
+resource_id = "chain_mining_2"
+value = "连锁采集II"
 
 [[string]]
-resource_id = 'chain_mining_3'
-value = '连锁采集III'
+resource_id = "chain_mining_3"
+value = "连锁采集III"

@@ -1,97 +1,97 @@
-generator_id = 'tree'
-resource_id = 'oak'
+generator_id = "tree"
+resource_id = "oak"
 
 [[condition]]
-processor_id = 'surface'
+processor_id = "surface"
 
 [[condition]]
-processor_id = 'biome'
+processor_id = "biome"
 
 [condition.config]
 [[condition.config.definition]]
-key = 'biome_0'
-type = 'ref'
+key = "biome_0"
+type = "ref"
 
 [condition.config.definition.value]
-pack_id = '@self'
-resource_key = 'plains'
-resource_type = 'biome'
+pack_id = "@self"
+resource_key = "plains"
+resource_type = "biome"
 
 [[condition]]
-processor_id = 'height'
+processor_id = "height"
 
 [condition.config]
 [[condition.config.definition]]
-key = 'maxHeightPercent'
-type = 'float'
+key = "maxHeightPercent"
+type = "float"
 value = 0.8
 
 [[condition.config.definition]]
-key = 'minHeightPercent'
-type = 'float'
+key = "minHeightPercent"
+type = "float"
 value = 0.2
 
 [[condition]]
-processor_id = 'hSpacing'
+processor_id = "hSpacing"
 
 [condition.config]
 [[condition.config.definition]]
-key = 'minDistance'
-type = 'int'
+key = "minDistance"
+type = "int"
 value = 5
 
 [[data]]
-pack_id = '@self'
-resource_key = 'oak_leaf'
-resource_type = 'tile'
+pack_id = "@self"
+resource_key = "oak_leaf"
+resource_type = "tile"
 
 [[data]]
-pack_id = '@self'
-resource_key = 'oak'
-resource_type = 'tile'
+pack_id = "@self"
+resource_key = "oak"
+resource_type = "tile"
 
 [generator_config]
 [[generator_config.definition]]
-key = 'leafDataIndex'
-type = 'int'
+key = "leafDataIndex"
+type = "int"
 value = 0
 
 [[generator_config.definition]]
-key = 'trunkDataIndex'
-type = 'int'
+key = "trunkDataIndex"
+type = "int"
 value = 1
 
 [[generator_config.definition]]
-key = 'trunkHeightMax'
-type = 'int'
+key = "trunkHeightMax"
+type = "int"
 value = 9
 
 [[generator_config.definition]]
-key = 'trunkHeightMin'
-type = 'int'
+key = "trunkHeightMin"
+type = "int"
 value = 3
 
 [[generator_config.definition]]
-key = 'hasLeaves'
-type = 'bool'
+key = "hasLeaves"
+type = "bool"
 value = true
 
 [[generator_config.definition]]
-key = 'leafRadius'
-type = 'int'
+key = "leafRadius"
+type = "int"
 value = 3
 
 [[generator_config.definition]]
-key = 'leafClusterCount'
-type = 'int'
+key = "leafClusterCount"
+type = "int"
 value = 1
 
 [[generator_config.definition]]
-key = 'leafVerticalSpacing'
-type = 'int'
+key = "leafVerticalSpacing"
+type = "int"
 value = 1
 
 [[generator_config.definition]]
-key = 'trunkWidth'
-type = 'int'
+key = "trunkWidth"
+type = "int"
 value = 1

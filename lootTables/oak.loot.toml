@@ -1,10 +1,10 @@
-resource_id = 'oak'
+resource_id = "oak"
 
 [[mandatory]]
 max = 3
 min = 1
 
 [mandatory.item]
-pack_id = '@self'
-resource_key = 'oak_wood'
-resource_type = 'tile'
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = "tile"

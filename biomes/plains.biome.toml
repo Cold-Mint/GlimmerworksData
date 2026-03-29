@@ -1,27 +1,27 @@
 elevation = 0.5
 erosion = 1.0
 humidity = 0.5
-resource_id = 'plains'
+resource_id = "plains"
 temperature = 0.5
 weirdness = 0.0
 
 [bgm]
-pack_id = '@self'
-resource_key = 'bgm/biome_plains'
-resource_type = 'audio'
+pack_id = "@self"
+resource_key = "bgm/biome_plains"
+resource_type = "audio"
 
 [[decorator]]
-id = 'fill'
+id = "fill"
 
 [[decorator.data]]
-pack_id = '@self'
-resource_key = 'dirt'
-resource_type = 'tile'
+pack_id = "@self"
+resource_key = "dirt"
+resource_type = "tile"
 
 [[decorator]]
-id = 'surface'
+id = "surface"
 
 [[decorator.data]]
-pack_id = '@self'
-resource_key = 'grass'
-resource_type = 'tile'
+pack_id = "@self"
+resource_key = "grass"
+resource_type = "tile"

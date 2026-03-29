@@ -1,17 +1,17 @@
-ability = 'dig'
+ability = "dig"
 can_use_alone = false
-resource_id = 'simple_dig'
+resource_id = "simple_dig"
 
 [ability_config]
 allow_mine_block = true
 mining_efficiency = 0.7
 
 [name]
-pack_id = '@self'
-resource_key = 'simple_dig'
-resource_type = 'string'
+pack_id = "@self"
+resource_key = "simple_dig"
+resource_type = "string"
 
 [texture]
-pack_id = '@self'
-resource_key = 'items/function_module'
-resource_type = 'texture'
+pack_id = "@self"
+resource_key = "items/function_module"
+resource_type = "texture"

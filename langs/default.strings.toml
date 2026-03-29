@@ -1,99 +1,99 @@
 [[string]]
-resource_id = 'dataPacksName'
-value = 'GlimmerWorks'
+resource_id = "dataPacksName"
+value = "GlimmerWorks"
 
 [[string]]
-resource_id = 'dataPacksDescription'
-value = 'The official core data pack for GlimmerWorks, providing essential game definitions and content.'
+resource_id = "dataPacksDescription"
+value = "The official core data pack for GlimmerWorks, providing essential game definitions and content."
 
 [[string]]
-resource_id = 'dirt'
-value = 'dirt'
+resource_id = "dirt"
+value = "dirt"
 
 [[string]]
-resource_id = 'grass'
-value = 'grass'
+resource_id = "grass"
+value = "grass"
 
 [[string]]
-resource_id = 'sand'
-value = 'sand'
+resource_id = "sand"
+value = "sand"
 
 [[string]]
-resource_id = 'snow'
-value = 'snow'
+resource_id = "snow"
+value = "snow"
 
 [[string]]
-resource_id = 'wooden_pickaxe'
-value = 'wooden pickaxe'
+resource_id = "wooden_pickaxe"
+value = "wooden pickaxe"
 
 [[string]]
-resource_id = 'simple_dig'
-value = 'Simple dig module'
+resource_id = "simple_dig"
+value = "Simple dig module"
 
 [[string]]
-resource_id = 'standard_dig'
-value = 'Standard dig module'
+resource_id = "standard_dig"
+value = "Standard dig module"
 
 [[string]]
-resource_id = 'oak_wood'
-value = 'oak wood'
+resource_id = "oak_wood"
+value = "oak wood"
 
 [[string]]
-resource_id = 'oak_leaf'
-value = 'oak leaf'
+resource_id = "oak_leaf"
+value = "oak leaf"
 
 [[string]]
-resource_id = 'oak'
-value = 'oak'
+resource_id = "oak"
+value = "oak"
 
 [[string]]
-resource_id = 'area_marker'
-value = 'Precision surveying instrument'
+resource_id = "area_marker"
+value = "Precision surveying instrument"
 
 [[string]]
-resource_id = 'mining_gain_1'
-value = 'Mining Bonus I'
+resource_id = "mining_gain_1"
+value = "Mining Bonus I"
 
 [[string]]
-resource_id = 'mining_gain_2'
-value = 'Mining Bonus II'
+resource_id = "mining_gain_2"
+value = "Mining Bonus II"
 
 [[string]]
-resource_id = 'mining_gain_3'
-value = 'Mining Bonus III'
+resource_id = "mining_gain_3"
+value = "Mining Bonus III"
 
 [[string]]
-resource_id = 'mining_gain_4'
-value = 'Mining Bonus IV'
+resource_id = "mining_gain_4"
+value = "Mining Bonus IV"
 
 [[string]]
-resource_id = 'mining_gain_5'
-value = 'Mining Bonus V'
+resource_id = "mining_gain_5"
+value = "Mining Bonus V"
 
 [[string]]
-resource_id = 'precision_mining'
-value = 'Precision Mining'
+resource_id = "precision_mining"
+value = "Precision Mining"
 
 [[string]]
-resource_id = 'fumble_chance_1'
-value = 'Fumble I'
+resource_id = "fumble_chance_1"
+value = "Fumble I"
 
 [[string]]
-resource_id = 'fumble_chance_2'
-value = 'Fumble II'
+resource_id = "fumble_chance_2"
+value = "Fumble II"
 
 [[string]]
-resource_id = 'fumble_chance_3'
-value = 'Fumble III'
+resource_id = "fumble_chance_3"
+value = "Fumble III"
 
 [[string]]
-resource_id = 'chain_mining_1'
-value = 'Chain Mining I'
+resource_id = "chain_mining_1"
+value = "Chain Mining I"
 
 [[string]]
-resource_id = 'chain_mining_2'
-value = 'Chain Mining II'
+resource_id = "chain_mining_2"
+value = "Chain Mining II"
 
 [[string]]
-resource_id = 'chain_mining_3'
-value = 'Chain Mining III'
+resource_id = "chain_mining_3"
+value = "Chain Mining III"

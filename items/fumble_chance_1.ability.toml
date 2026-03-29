@@ -1,16 +1,16 @@
-ability = 'none'
+ability = "none"
 can_use_alone = false
-resource_id = 'fumble_chance_1'
+resource_id = "fumble_chance_1"
 
 [ability_config]
 fumble_probability = 0.05
 
 [name]
-pack_id = '@self'
-resource_key = 'fumble_chance_1'
-resource_type = 'string'
+pack_id = "@self"
+resource_key = "fumble_chance_1"
+resource_type = "string"
 
 [texture]
-pack_id = '@self'
-resource_key = 'items/data_module'
-resource_type = 'texture'
+pack_id = "@self"
+resource_key = "items/data_module"
+resource_type = "texture"

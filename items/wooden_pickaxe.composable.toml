@@ -1,12 +1,12 @@
-resource_id = 'wooden_pickaxe'
+resource_id = "wooden_pickaxe"
 slot_size = 3
 
 [name]
-pack_id = '@self'
-resource_key = 'wooden_pickaxe'
-resource_type = 'string'
+pack_id = "@self"
+resource_key = "wooden_pickaxe"
+resource_type = "string"
 
 [texture]
-pack_id = '@self'
-resource_key = 'items/pickaxe'
-resource_type = 'texture'
+pack_id = "@self"
+resource_key = "items/pickaxe"
+resource_type = "texture"

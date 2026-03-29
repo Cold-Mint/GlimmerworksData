@@ -1,16 +1,16 @@
-ability = 'none'
+ability = "none"
 can_use_alone = true
-resource_id = 'chain_mining_3'
+resource_id = "chain_mining_3"
 
 [ability_config]
 chain_mining_radius = 9
 
 [name]
-pack_id = '@self'
-resource_key = 'chain_mining_3'
-resource_type = 'string'
+pack_id = "@self"
+resource_key = "chain_mining_3"
+resource_type = "string"
 
 [texture]
-pack_id = '@self'
-resource_key = 'items/data_module'
-resource_type = 'texture'
+pack_id = "@self"
+resource_key = "items/data_module"
+resource_type = "texture"
