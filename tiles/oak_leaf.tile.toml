@@ -1,25 +1,25 @@
-resourceId = "oak_leaf"
-physicsType = 1
+allow_chain_mining = true
 hardness = 0.2
-layerType = 0
-allowChainMining = true
+layer_type = 0
+physics_type = 1
+resource_id = 'oak_leaf'
 
-[texture]
-packId = "@self"
-resourceType = "texture"
-resourceKey = "tiles/oak_leaf"
+[place_sfx]
+pack_id = '@self'
+resource_key = 'sfx/block_place'
+resource_type = 'audio'
+
+[break_sfx]
+pack_id = '@self'
+resource_key = 'sfx/block_break'
+resource_type = 'audio'
 
 [name]
-packId = "@self"
-resourceType = "string"
-resourceKey = "oak_leaf"
+pack_id = '@self'
+resource_key = 'oak_leaf'
+resource_type = 'string'
 
-[breakSFX]
-packId = "@self"
-resourceType = "audio"
-resourceKey = "sfx/block_break"
-
-[blockPlaceSFX]
-packId = "@self"
-resourceType = "audio"
-resourceKey = "sfx/block_place"
+[texture]
+pack_id = '@self'
+resource_key = 'tiles/oak_leaf'
+resource_type = 'texture'

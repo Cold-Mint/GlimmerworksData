@@ -1,32 +1,31 @@
-resourceId = "oak"
-physicsType = 1
+allow_chain_mining = true
+custom_loot_table = true
 hardness = 1.5
-layerType = 0
-customLootTable = true
-allowChainMining = true
+layer_type = 0
+physics_type = 1
+resource_id = 'oak'
 
-[texture]
-packId = "@self"
-resourceType = "texture"
-resourceKey = "tiles/oak"
+[place_sfx]
+pack_id = '@self'
+resource_key = 'sfx/block_place'
+resource_type = 'audio'
+
+[break_sfx]
+pack_id = '@self'
+resource_key = 'sfx/block_break'
+resource_type = 'audio'
+
+[loot_table]
+pack_id = '@self'
+resource_key = 'oak'
+resource_type = 'loot'
 
 [name]
-packId = "@self"
-resourceType = "string"
-resourceKey = "oak"
+pack_id = '@self'
+resource_key = 'oak'
+resource_type = 'string'
 
-[lootTable]
-packId = "@self"
-resourceType = "loot"
-resourceKey = "oak"
-
-[breakSFX]
-packId = "@self"
-resourceType = "audio"
-resourceKey = "sfx/block_break"
-
-[blockPlaceSFX]
-packId = "@self"
-resourceType = "audio"
-resourceKey = "sfx/block_place"
-
+[texture]
+pack_id = '@self'
+resource_key = 'tiles/oak'
+resource_type = 'texture'

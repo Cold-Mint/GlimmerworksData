@@ -1,85 +1,97 @@
-resourceId = "oak"
-generatorId = "tree"
-#Trees must grow on the surface.
-#树木必须生成在表面。
+generator_id = 'tree'
+resource_id = 'oak'
+
 [[condition]]
-processorId = "surface"
+processor_id = 'surface'
+
 [[condition]]
-processorId = "biome"
+processor_id = 'biome'
+
+[condition.config]
 [[condition.config.definition]]
-key = "biome_0"
-type = "ref"
+key = 'biome_0'
+type = 'ref'
+
 [condition.config.definition.value]
-packId = "@self"
-resourceType = "biome"
-resourceKey = "plains"
+pack_id = '@self'
+resource_key = 'plains'
+resource_type = 'biome'
+
 [[condition]]
-processorId = "height"
+processor_id = 'height'
+
+[condition.config]
 [[condition.config.definition]]
-key = "maxHeightPercent"
-type = "float"
+key = 'maxHeightPercent'
+type = 'float'
 value = 0.8
+
 [[condition.config.definition]]
-key = "minHeightPercent"
-type = "float"
+key = 'minHeightPercent'
+type = 'float'
 value = 0.2
+
 [[condition]]
-processorId = "hSpacing"
+processor_id = 'hSpacing'
+
+[condition.config]
 [[condition.config.definition]]
-key = "minDistance"
-type = "int"
+key = 'minDistance'
+type = 'int'
 value = 5
+
 [[data]]
-packId = "@self"
-resourceType = "tile"
-resourceKey = "oak_leaf"
+pack_id = '@self'
+resource_key = 'oak_leaf'
+resource_type = 'tile'
+
 [[data]]
-packId = "@self"
-resourceType = "tile"
-resourceKey = "oak"
-[generatorConfig]
-#树叶索引
-[[generatorConfig.definition]]
-key = "leafDataIndex"
-type = "int"
+pack_id = '@self'
+resource_key = 'oak'
+resource_type = 'tile'
+
+[generator_config]
+[[generator_config.definition]]
+key = 'leafDataIndex'
+type = 'int'
 value = 0
-#树干索引
-[[generatorConfig.definition]]
-key = "trunkDataIndex"
-type = "int"
+
+[[generator_config.definition]]
+key = 'trunkDataIndex'
+type = 'int'
 value = 1
-#最大树干高度
-[[generatorConfig.definition]]
-key = "trunkHeightMax"
-type = "int"
+
+[[generator_config.definition]]
+key = 'trunkHeightMax'
+type = 'int'
 value = 9
-#最小树干高度
-[[generatorConfig.definition]]
-key = "trunkHeightMin"
-type = "int"
+
+[[generator_config.definition]]
+key = 'trunkHeightMin'
+type = 'int'
 value = 3
-#是否拥有树叶
-[[generatorConfig.definition]]
-key = "hasLeaves"
-type = "bool"
+
+[[generator_config.definition]]
+key = 'hasLeaves'
+type = 'bool'
 value = true
-#树叶半径
-[[generatorConfig.definition]]
-key = "leafRadius"
-type = "int"
+
+[[generator_config.definition]]
+key = 'leafRadius'
+type = 'int'
 value = 3
-#从顶部开始生成几团树叶？
-[[generatorConfig.definition]]
-key = "leafClusterCount"
-type = "int"
+
+[[generator_config.definition]]
+key = 'leafClusterCount'
+type = 'int'
 value = 1
-#每团树叶的y高度间隔
-[[generatorConfig.definition]]
-key = "leafVerticalSpacing"
-type = "int"
+
+[[generator_config.definition]]
+key = 'leafVerticalSpacing'
+type = 'int'
 value = 1
-#树干宽度
-[[generatorConfig.definition]]
-key = "trunkWidth"
-type = "int"
+
+[[generator_config.definition]]
+key = 'trunkWidth'
+type = 'int'
 value = 1

@@ -1,107 +1,99 @@
 [[string]]
-resourceId = "dataPacksName"
-value = "グリマーワークス"
+resource_id = 'dataPacksName'
+value = 'グリマーワークス'
 
 [[string]]
-resourceId = "dataPacksDescription"
-value = "グリマーワークス公式コアデータパックです。ゲームの基本定義とコンテンツを提供します。"
+resource_id = 'dataPacksDescription'
+value = 'グリマーワークス公式コアデータパックです。ゲームの基本定義とコンテンツを提供します。'
 
 [[string]]
-resourceId = "dirt"
-value = "土"
+resource_id = 'dirt'
+value = '土'
 
 [[string]]
-resourceId = "grass"
-value = "草土"
-
-
-[[string]]
-resourceId = "sand"
-value = "砂"
-
+resource_id = 'grass'
+value = '草土'
 
 [[string]]
-resourceId = "snow"
-value = "雪"
-
-
-[[string]]
-resourceId = "wooden_pickaxe"
-value = "木のつるはし"
-
+resource_id = 'sand'
+value = '砂'
 
 [[string]]
-resourceId = "simple_dig"
-value = "簡易採掘モジュール"
-
-
-[[string]]
-resourceId = "standard_dig"
-value = "標準採掘モジュール"
-
+resource_id = 'snow'
+value = '雪'
 
 [[string]]
-resourceId = "oak_wood"
-value = "オークの木板"
-
-
-[[string]]
-resourceId = "oak_leaf"
-value = "オークの葉"
+resource_id = 'wooden_pickaxe'
+value = '木のつるはし'
 
 [[string]]
-resourceId = "oak"
-value = "オーク"
-
-
-[[string]]
-resourceId = "area_marker"
-value = "せいみつそくていき"
+resource_id = 'simple_dig'
+value = '簡易採掘モジュール'
 
 [[string]]
-resourceId = "mining_gain_1"
-value = "採掘ブーストⅠ"
+resource_id = 'standard_dig'
+value = '標準採掘モジュール'
 
 [[string]]
-resourceId = "mining_gain_2"
-value = "採掘ブーストⅡ"
+resource_id = 'oak_wood'
+value = 'オークの木板'
 
 [[string]]
-resourceId = "mining_gain_3"
-value = "採掘ブーストⅢ"
+resource_id = 'oak_leaf'
+value = 'オークの葉'
 
 [[string]]
-resourceId = "mining_gain_4"
-value = "採掘ブーストⅣ"
+resource_id = 'oak'
+value = 'オーク'
 
 [[string]]
-resourceId = "mining_gain_5"
-value = "採掘ブーストⅤ"
+resource_id = 'area_marker'
+value = 'せいみつそくていき'
 
 [[string]]
-resourceId = "precision_mining"
-value = "せいみつさいくつ"
+resource_id = 'mining_gain_1'
+value = '採掘ブーストⅠ'
 
 [[string]]
-resourceId = "fumble_chance_1"
-value = "滑り手 I"
+resource_id = 'mining_gain_2'
+value = '採掘ブーストⅡ'
 
 [[string]]
-resourceId = "fumble_chance_2"
-value = "滑り手 II"
+resource_id = 'mining_gain_3'
+value = '採掘ブーストⅢ'
 
 [[string]]
-resourceId = "fumble_chance_3"
-value = "滑り手 III"
+resource_id = 'mining_gain_4'
+value = '採掘ブーストⅣ'
 
 [[string]]
-resourceId = "chain_mining_1"
-value = "チェーン収集 I"
+resource_id = 'mining_gain_5'
+value = '採掘ブーストⅤ'
 
 [[string]]
-resourceId = "chain_mining_2"
-value = "チェーン収集 II"
+resource_id = 'precision_mining'
+value = 'せいみつさいくつ'
 
 [[string]]
-resourceId = "chain_mining_3"
-value = "チェーン収集 III"
+resource_id = 'fumble_chance_1'
+value = '滑り手 I'
+
+[[string]]
+resource_id = 'fumble_chance_2'
+value = '滑り手 II'
+
+[[string]]
+resource_id = 'fumble_chance_3'
+value = '滑り手 III'
+
+[[string]]
+resource_id = 'chain_mining_1'
+value = 'チェーン収集 I'
+
+[[string]]
+resource_id = 'chain_mining_2'
+value = 'チェーン収集 II'
+
+[[string]]
+resource_id = 'chain_mining_3'
+value = 'チェーン収集 III'

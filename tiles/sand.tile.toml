@@ -1,24 +1,24 @@
-resourceId = "sand"
-physicsType = 1
 hardness = 0.8
-layerType = 0
+layer_type = 0
+physics_type = 1
+resource_id = 'sand'
 
-[texture]
-packId = "@self"
-resourceType = "texture"
-resourceKey = "tiles/sand"
+[place_sfx]
+pack_id = '@self'
+resource_key = 'sfx/block_place'
+resource_type = 'audio'
+
+[break_sfx]
+pack_id = '@self'
+resource_key = 'sfx/block_break'
+resource_type = 'audio'
 
 [name]
-packId = "@self"
-resourceType = "string"
-resourceKey = "sand"
+pack_id = '@self'
+resource_key = 'sand'
+resource_type = 'string'
 
-[breakSFX]
-packId = "@self"
-resourceType = "audio"
-resourceKey = "sfx/block_break"
-
-[blockPlaceSFX]
-packId = "@self"
-resourceType = "audio"
-resourceKey = "sfx/block_place"
+[texture]
+pack_id = '@self'
+resource_key = 'tiles/sand'
+resource_type = 'texture'

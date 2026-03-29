@@ -1,4 +1,4 @@
-resourceId = "player_shape"
-width = 1.2
 height = 1.8
 radius = 180
+resource_id = 'player_shape'
+width = 1.2

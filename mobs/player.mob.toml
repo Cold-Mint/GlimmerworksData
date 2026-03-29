@@ -1,67 +1,66 @@
-resourceId = "player"
-isPlayer = true
-movementAcceleration = 6.0
-airControlFactor = 1.0
-maxSpeed = 18.0
-bodyType = 2
-allowBodySleep = false
+air_control_factor = 1.0
+allow_body_sleep = false
+body_type = 2
+fixed_rotation = true
 friction = 0.0
-fixedRotation = true
+is_player = true
+max_speed = 18.0
+movement_acceleration = 6.0
+resource_id = 'player'
 
+[box2d_filter]
+category_bits = 1
+mask_bits = 2
 
-[textureOffset]
-x = -0.7
-y = 1.0
+[[ground_check_ray_cast]]
+[ground_check_ray_cast.filter]
+category_bits = 1
+mask_bits = 2
 
-[box2dFilter]
-categoryBits = 1
-maskBits = 2
-
-[shape]
-packId = "@self"
-resourceType = "shape"
-resourceKey = "player_shape"
-
-[texture]
-packId = "@self"
-resourceType = "texture"
-resourceKey = "player"
-
-[[groundCheckRayCast]]
-[groundCheckRayCast.origin]
+[ground_check_ray_cast.origin]
 x = 0.0
 y = 0.0
 
-[groundCheckRayCast.translation]
+[ground_check_ray_cast.translation]
 x = 0.0
 y = -1.5
 
-[groundCheckRayCast.filter]
-categoryBits = 1
-maskBits = 2
+[[ground_check_ray_cast]]
+[ground_check_ray_cast.filter]
+category_bits = 1
+mask_bits = 2
 
-[[groundCheckRayCast]]
-[groundCheckRayCast.origin]
+[ground_check_ray_cast.origin]
 x = -0.6
 y = 0.0
 
-[groundCheckRayCast.translation]
+[ground_check_ray_cast.translation]
 x = -0.0
 y = -1.5
 
-[groundCheckRayCast.filter]
-categoryBits = 1
-maskBits = 2
+[[ground_check_ray_cast]]
+[ground_check_ray_cast.filter]
+category_bits = 1
+mask_bits = 2
 
-[[groundCheckRayCast]]
-[groundCheckRayCast.origin]
+[ground_check_ray_cast.origin]
 x = 0.6
 y = 0.0
 
-[groundCheckRayCast.translation]
+[ground_check_ray_cast.translation]
 x = -0.0
 y = -1.5
 
-[groundCheckRayCast.filter]
-categoryBits = 1
-maskBits = 2
+[shape]
+pack_id = '@self'
+resource_key = 'player_shape'
+resource_type = 'shape'
+
+[texture]
+pack_id = '@self'
+resource_key = 'player'
+resource_type = 'texture'
+
+[texture_offset]
+x = -0.7
+y = 1.0

@@ -1,16 +1,16 @@
-resourceId = "mining_gain_5"
-canUseAlone = false
-ability = "none"
+ability = 'none'
+can_use_alone = false
+resource_id = 'mining_gain_5'
 
-[texture]
-packId = "@self"
-resourceType = "texture"
-resourceKey = "items/data_module"
+[ability_config]
+mining_efficiency = 3.0
 
 [name]
-packId = "@self"
-resourceType = "string"
-resourceKey = "mining_gain_5"
+pack_id = '@self'
+resource_key = 'mining_gain_5'
+resource_type = 'string'
 
-[abilityConfig]
-miningEfficiency = 3.0
+[texture]
+pack_id = '@self'
+resource_key = 'items/data_module'
+resource_type = 'texture'

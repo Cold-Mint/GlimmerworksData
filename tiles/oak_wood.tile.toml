@@ -1,24 +1,24 @@
-resourceId = "oak_wood"
-physicsType = 1
 hardness = 0.9
-layerType = 0
+layer_type = 0
+physics_type = 1
+resource_id = 'oak_wood'
 
-[texture]
-packId = "@self"
-resourceType = "texture"
-resourceKey = "tiles/oak_wood"
+[place_sfx]
+pack_id = '@self'
+resource_key = 'sfx/block_place'
+resource_type = 'audio'
+
+[break_sfx]
+pack_id = '@self'
+resource_key = 'sfx/block_break'
+resource_type = 'audio'
 
 [name]
-packId = "@self"
-resourceType = "string"
-resourceKey = "oak_wood"
+pack_id = '@self'
+resource_key = 'oak_wood'
+resource_type = 'string'
 
-[breakSFX]
-packId = "@self"
-resourceType = "audio"
-resourceKey = "sfx/block_break"
-
-[blockPlaceSFX]
-packId = "@self"
-resourceType = "audio"
-resourceKey = "sfx/block_place"
+[texture]
+pack_id = '@self'
+resource_key = 'tiles/oak_wood'
+resource_type = 'texture'

@@ -1,13 +1,17 @@
-resourceId = "wooden_pickaxe"
-[[addItems]]
+resource_id = 'wooden_pickaxe'
+
+[[add_items]]
 amount = 1
-[addItems.item]
-packId = "@self"
-resourceType = "composable"
-resourceKey = "wooden_pickaxe"
-[[addItems.abilityItemRef]]
+
+[[add_items.ability_item_ref]]
 amount = 1
-[addItems.abilityItemRef.item]
-packId = "@self"
-resourceType = "ability"
-resourceKey = "standard_dig"
+
+[add_items.ability_item_ref.item]
+pack_id = '@self'
+resource_key = 'standard_dig'
+resource_type = 'ability'
+
+[add_items.item]
+pack_id = '@self'
+resource_key = 'wooden_pickaxe'
+resource_type = 'composable'
