@@ -12,6 +12,11 @@ resource_id = "player"
 category_bits = 1
 mask_bits = 2
 
+[tile_placement_forbidden_zone]
+width = 1
+height = 2
+offset_y = 3
+offset_x = 0.5
 [[ground_check_ray_cast]]
 [ground_check_ray_cast.filter]
 category_bits = 1
