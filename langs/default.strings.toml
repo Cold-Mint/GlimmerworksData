@@ -97,3 +97,20 @@ value = "Chain Mining II"
 [[string]]
 resource_id = "chain_mining_3"
 value = "Chain Mining III"
+
+[[string]]
+resource_id = "stone"
+value = "Stone"
+
+[[string]]
+resource_id = "ore_copper"
+value = "Copper Ore"
+
+[[string]]
+resource_id = "ore_iron"
+value = "Iron Ore"
+
+[[string]]
+resource_id = "ore_gold"
+value = "Gold Ore"
+

@@ -1,24 +1,24 @@
-hardness = 0.0
+hardness = 1.0
 layer_type = 0
 physics_type = 1
-resource_id = "snow"
+resource_id = "stone"
 
 [break_sfx]
 pack_id = "@self"
-resource_key = "sfx/snow_break"
+resource_key = "sfx/stone_break"
 resource_type = "audio"
 
 [name]
 pack_id = "@self"
-resource_key = "snow"
+resource_key = "stone"
 resource_type = "string"
 
 [place_sfx]
 pack_id = "@self"
-resource_key = "sfx/snow_place"
+resource_key = "sfx/stone_place"
 resource_type = "audio"
 
 [texture]
 pack_id = "@self"
-resource_key = "tiles/snow"
+resource_key = "tiles/stone"
 resource_type = "texture"

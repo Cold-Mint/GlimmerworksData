@@ -97,3 +97,19 @@ value = "チェーン収集 II"
 [[string]]
 resource_id = "chain_mining_3"
 value = "チェーン収集 III"
+
+[[string]]
+resource_id = "stone"
+value = "石"
+
+[[string]]
+resource_id = "ore_copper"
+value = "銅鉱石"
+
+[[string]]
+resource_id = "ore_iron"
+value = "鉄鉱石"
+
+[[string]]
+resource_id = "ore_gold"
+value = "金鉱石"

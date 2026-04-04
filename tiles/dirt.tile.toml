@@ -5,7 +5,7 @@ resource_id = "dirt"
 
 [break_sfx]
 pack_id = "@self"
-resource_key = "sfx/block_break"
+resource_key = "sfx/dirt_break"
 resource_type = "audio"
 
 [name]
@@ -15,7 +15,7 @@ resource_type = "string"
 
 [place_sfx]
 pack_id = "@self"
-resource_key = "sfx/block_place"
+resource_key = "sfx/dirt_place"
 resource_type = "audio"
 
 [texture]

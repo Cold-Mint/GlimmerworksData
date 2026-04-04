@@ -97,3 +97,19 @@ value = "連鎖採集II"
 [[string]]
 resource_id = "chain_mining_3"
 value = "連鎖採集III"
+
+[[string]]
+resource_id = "stone"
+value = "石頭"
+
+[[string]]
+resource_id = "ore_copper"
+value = "銅礦石"
+
+[[string]]
+resource_id = "ore_iron"
+value = "鐵礦石"
+
+[[string]]
+resource_id = "ore_gold"
+value = "金礦石"
