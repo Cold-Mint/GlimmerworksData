@@ -1,0 +1,7 @@
+resource_id = "candy_land_surface"
+allow_water = true
+
+[tile]
+pack_id = "@self"
+resource_key = "berry_cream"
+resource_type = "tile"

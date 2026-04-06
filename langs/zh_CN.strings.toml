@@ -113,3 +113,11 @@ value = "铁矿石"
 [[string]]
 resource_id = "ore_gold"
 value = "金矿石"
+
+[[string]]
+resource_id = "berry_cream"
+value = "草莓奶油块"
+
+[[string]]
+resource_id = "strawberry_puree"
+value = "草莓泥"

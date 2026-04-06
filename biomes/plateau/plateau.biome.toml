@@ -1,19 +1,19 @@
-elevation = 0.7
+elevation = 0.75
 erosion = 1.0
 humidity = 0.4
 resource_id = "plateau"
 temperature = 0.3
 weirdness = 0.0
+strictness_elevation = 5.0
+temperature_elevation = 2.0
 
 [bgm]
 pack_id = "@self"
 resource_key = "bgm/biome_plateau"
 resource_type = "audio"
 
-[[decorator]]
-id = "fill"
-
-[[decorator.data]]
+[[decors]]
 pack_id = "@self"
 resource_key = "snow"
-resource_type = "tile"
+resource_type = "decor"
+

@@ -114,3 +114,10 @@ value = "Iron Ore"
 resource_id = "ore_gold"
 value = "Gold Ore"
 
+[[string]]
+resource_id = "berry_cream"
+value = "Strawberry Cream Block"
+
+[[string]]
+resource_id = "strawberry_puree"
+value = "Strawberry Puree"

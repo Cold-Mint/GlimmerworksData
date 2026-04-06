@@ -1,0 +1,23 @@
+elevation = 0.6
+erosion = 1.0
+humidity = 0.3
+resource_id = "candy_land"
+temperature = 0.5
+weirdness = 0.9
+strictness_weirdness = 5.0
+strictness_elevation = 2.0
+
+[bgm]
+pack_id = "@self"
+resource_key = "bgm/biome_candy_land"
+resource_type = "audio"
+
+[[decors]]
+pack_id = "@self"
+resource_key = "candy_land_fill"
+resource_type = "decor"
+
+[[decors]]
+pack_id = "@self"
+resource_key = "candy_land_surface"
+resource_type = "decor"

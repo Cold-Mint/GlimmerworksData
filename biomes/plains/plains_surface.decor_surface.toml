@@ -1,0 +1,5 @@
+resource_id = "plains_surface"
+[tile]
+pack_id = "@self"
+resource_key = "grass"
+resource_type = "tile"

@@ -10,18 +10,12 @@ pack_id = "@self"
 resource_key = "bgm/biome_plains"
 resource_type = "audio"
 
-[[decorator]]
-id = "fill"
-
-[[decorator.data]]
+[[decors]]
 pack_id = "@self"
-resource_key = "dirt"
-resource_type = "tile"
+resource_key = "plains_fill"
+resource_type = "decor"
 
-[[decorator]]
-id = "surface"
-
-[[decorator.data]]
+[[decors]]
 pack_id = "@self"
-resource_key = "grass"
-resource_type = "tile"
+resource_key = "plains_surface"
+resource_type = "decor"

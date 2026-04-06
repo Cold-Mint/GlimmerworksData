@@ -8,7 +8,7 @@ amount = 1
 
 [add_items.ability_item_ref.item]
 pack_id = "@self"
-resource_key = "standard_dig"
+resource_key = "simple_dig"
 resource_type = "ability"
 
 [add_items.item]

@@ -1,0 +1,19 @@
+elevation = 0.45
+erosion = 1.0
+humidity = 0.5
+resource_id = "cave"
+temperature = 0.5
+weirdness = 0.0
+strictness_elevation = 0.5
+
+[bgm]
+pack_id = "@self"
+resource_key = "bgm/biome_cave"
+resource_type = "audio"
+
+[[decors]]
+pack_id = "@self"
+resource_key = "cave_fill"
+resource_type = "decor"
+
+
