@@ -121,3 +121,11 @@ value = "イチゴクリームブロック"
 [[string]]
 resource_id = "strawberry_puree"
 value = "イチゴピューレ"
+
+[[string]]
+resource_id = "ore_candy"
+value = "キャンディ鉱石"
+
+[[string]]
+resource_id = "ore_blue_candy"
+value = "ブルーキャンディ鉱石"

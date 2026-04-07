@@ -19,5 +19,15 @@ resource_type = "decor"
 
 [[decors]]
 pack_id = "@self"
+resource_key = "candy_land_ore_candy_mineral"
+resource_type = "decor"
+
+[[decors]]
+pack_id = "@self"
+resource_key = "candy_land_ore_blue_candy_mineral"
+resource_type = "decor"
+
+[[decors]]
+pack_id = "@self"
 resource_key = "candy_land_surface"
 resource_type = "decor"

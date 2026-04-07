@@ -1,0 +1,12 @@
+resource_id = "candy_land_ore_candy_mineral"
+noise_type = 0
+frequency = 0.1
+ore_spawn_min_noise_threshold = 0.99
+ore_spawn_max_noise_threshold =  0.99
+seed_offset = 4096
+min_spawn_elevation = 0.0
+max_spawn_elevation = 1.0
+[ore]
+pack_id = "@self"
+resource_type  = "tile"
+resource_key = "ore_candy"

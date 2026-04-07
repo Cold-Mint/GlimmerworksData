@@ -1,0 +1,12 @@
+resource_id = "cave_ore_iron_mineral"
+noise_type = 0
+frequency = 0.06
+ore_spawn_min_noise_threshold = 0.90
+ore_spawn_max_noise_threshold = 0.95
+seed_offset = 4096
+min_spawn_elevation = 0.10
+max_spawn_elevation = 0.45
+[ore]
+pack_id = "@self"
+resource_type  = "tile"
+resource_key = "ore_iron"

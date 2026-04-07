@@ -12,6 +12,5 @@ resource_type = "audio"
 
 [[decors]]
 pack_id = "@self"
-resource_key = "sand"
+resource_key = "desert_fill"
 resource_type = "decor"
-

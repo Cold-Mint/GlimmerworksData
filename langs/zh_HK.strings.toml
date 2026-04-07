@@ -121,3 +121,11 @@ value = "草莓奶油塊"
 [[string]]
 resource_id = "strawberry_puree"
 value = "草莓泥"
+
+[[string]]
+resource_id = "ore_candy"
+value = "糖果礦石"
+
+[[string]]
+resource_id = "ore_blue_candy"
+value = "藍色糖果礦石"

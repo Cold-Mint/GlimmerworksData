@@ -1,0 +1,12 @@
+resource_id = "cave_ore_gold_mineral"
+noise_type = 0
+frequency = 0.09
+ore_spawn_min_noise_threshold = 0.93
+ore_spawn_max_noise_threshold = 0.98
+seed_offset = 8192
+min_spawn_elevation = 0.0
+max_spawn_elevation = 0.25
+[ore]
+pack_id = "@self"
+resource_type  = "tile"
+resource_key = "ore_gold"

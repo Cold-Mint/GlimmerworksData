@@ -121,3 +121,11 @@ value = "Strawberry Cream Block"
 [[string]]
 resource_id = "strawberry_puree"
 value = "Strawberry Puree"
+
+[[string]]
+resource_id = "ore_candy"
+value = "Candy Ore"
+
+[[string]]
+resource_id = "ore_blue_candy"
+value = "Blue Candy Ore"
