@@ -129,3 +129,11 @@ value = "Candy Ore"
 [[string]]
 resource_id = "ore_blue_candy"
 value = "Blue Candy Ore"
+
+[[string]]
+resource_id = "torch"
+value = "Torch"
+
+[[string]]
+resource_id = "dirt_wall"
+value = "Dirt Wall"

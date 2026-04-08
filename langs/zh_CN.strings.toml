@@ -131,3 +131,12 @@ value = "糖果矿石"
 resource_id = "ore_blue_candy"
 value = "蓝色糖果矿石"
 
+[[string]]
+resource_id = "torch"
+value = "火把"
+
+[[string]]
+resource_id = "dirt_wall"
+value = "泥土墙"
+
+

@@ -129,3 +129,12 @@ value = "キャンディ鉱石"
 [[string]]
 resource_id = "ore_blue_candy"
 value = "ブルーキャンディ鉱石"
+
+[[string]]
+resource_id = "torch"
+value = "松明"
+
+[[string]]
+resource_id = "dirt_wall"
+value = "土の壁"
+

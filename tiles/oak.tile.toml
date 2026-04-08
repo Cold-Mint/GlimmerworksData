@@ -1,7 +1,7 @@
 allow_chain_mining = true
 custom_loot_table = true
 hardness = 1.5
-layer_type = 0
+layer_type = 1
 physics_type = 1
 resource_id = "oak"
 

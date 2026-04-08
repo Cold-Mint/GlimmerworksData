@@ -5,6 +5,7 @@ resource_id = "standard_dig"
 [ability_config]
 allow_mine_block = true
 mining_efficiency = 1.0
+mine_able_layer = 3
 
 [name]
 pack_id = "@self"
