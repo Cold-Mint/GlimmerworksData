@@ -1,0 +1,6 @@
+resource_id = "plains_wall_fill"
+layer_type = 2
+[tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = "tile"

@@ -32,5 +32,11 @@ resource_key = "cave_ore_gold_mineral"
 resource_type = "decor"
 
 
+[[decors]]
+pack_id = "@self"
+resource_key = "cave_wall_fill"
+resource_type = "decor"
+
+
 
 

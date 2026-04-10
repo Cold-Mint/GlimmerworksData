@@ -5,7 +5,7 @@ resource_id = "simple_dig"
 [ability_config]
 allow_mine_block = true
 mining_efficiency = 0.7
-mine_able_layer = 1
+mine_able_layer = 3
 
 [name]
 pack_id = "@self"

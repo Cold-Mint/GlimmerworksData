@@ -1,24 +1,24 @@
 hardness = 0.6
 layer_type = 2
 physics_type = 0
-resource_id = "dirt_wall"
+resource_id = "stone_wall"
 
 [break_sfx]
 pack_id = "@self"
-resource_key = "sfx/dirt_break"
+resource_key = "sfx/stone_break"
 resource_type = "audio"
 
 [name]
 pack_id = "@self"
-resource_key = "dirt_wall"
+resource_key = "stone_wall"
 resource_type = "string"
 
 [place_sfx]
 pack_id = "@self"
-resource_key = "sfx/dirt_place"
+resource_key = "sfx/stone_place"
 resource_type = "audio"
 
 [texture]
 pack_id = "@self"
-resource_key = "tiles/dirt_wall"
+resource_key = "tiles/stone_wall"
 resource_type = "texture"

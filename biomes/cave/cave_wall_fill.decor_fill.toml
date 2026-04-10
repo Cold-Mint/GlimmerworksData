@@ -1,0 +1,6 @@
+resource_id = "cave_wall_fill"
+layer_type = 2
+[tile]
+pack_id = "@self"
+resource_key = "stone_wall"
+resource_type = "tile"

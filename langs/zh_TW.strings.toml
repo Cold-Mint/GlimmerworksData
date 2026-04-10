@@ -141,3 +141,15 @@ value = "火把"
 [[string]]
 resource_id = "dirt_wall"
 value = "泥土牆"
+
+[[string]]
+resource_id = "candy_block"
+value = "糖果塊"
+
+[[string]]
+resource_id = "candy_wrapper_wall"
+value = "糖果壁紙"
+
+[[string]]
+resource_id = "stone_wall"
+value = "石頭牆"

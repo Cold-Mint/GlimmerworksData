@@ -1,0 +1,6 @@
+resource_id = "candy_land_wall_fill"
+layer_type = 2
+[tile]
+pack_id = "@self"
+resource_key = "candy_wrapper_wall"
+resource_type = "tile"

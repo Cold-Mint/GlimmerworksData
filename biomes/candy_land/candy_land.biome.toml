@@ -31,3 +31,8 @@ resource_type = "decor"
 pack_id = "@self"
 resource_key = "candy_land_surface"
 resource_type = "decor"
+
+[[decors]]
+pack_id = "@self"
+resource_key = "candy_land_wall_fill"
+resource_type = "decor"

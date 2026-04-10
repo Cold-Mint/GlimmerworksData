@@ -138,3 +138,15 @@ value = "松明"
 resource_id = "dirt_wall"
 value = "土の壁"
 
+[[string]]
+resource_id = "candy_block"
+value = "キャンディブロック"
+
+[[string]]
+resource_id = "candy_wrapper_wall"
+value = "飴紙の壁"
+
+[[string]]
+resource_id = "stone_wall"
+value = "石の壁"
+

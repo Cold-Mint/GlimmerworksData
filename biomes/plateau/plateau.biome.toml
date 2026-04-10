@@ -14,5 +14,10 @@ resource_type = "audio"
 
 [[decors]]
 pack_id = "@self"
-resource_key = "snow"
+resource_key = "plateau_fill"
+resource_type = "decor"
+
+[[decors]]
+pack_id = "@self"
+resource_key = "plains_wall_fill"
 resource_type = "decor"

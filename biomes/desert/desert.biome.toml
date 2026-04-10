@@ -14,3 +14,8 @@ resource_type = "audio"
 pack_id = "@self"
 resource_key = "desert_fill"
 resource_type = "decor"
+
+[[decors]]
+pack_id = "@self"
+resource_key = "plains_wall_fill"
+resource_type = "decor"

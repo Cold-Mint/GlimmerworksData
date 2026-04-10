@@ -137,3 +137,15 @@ value = "Torch"
 [[string]]
 resource_id = "dirt_wall"
 value = "Dirt Wall"
+
+[[string]]
+resource_id = "candy_block"
+value = "Candy Block"
+
+[[string]]
+resource_id = "candy_wrapper_wall"
+value = "Candy Wrapper Wall"
+
+[[string]]
+resource_id = "stone_wall"
+value = "Stone Wall"
