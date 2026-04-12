@@ -150,3 +150,6 @@ value = "飴紙の壁"
 resource_id = "stone_wall"
 value = "石の壁"
 
+[[string]]
+resource_id = "light_block"
+value = "光源ブロック"

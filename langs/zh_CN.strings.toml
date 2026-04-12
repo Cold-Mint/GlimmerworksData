@@ -150,3 +150,8 @@ value = "糖果壁纸"
 [[string]]
 resource_id = "stone_wall"
 value = "石头墙"
+
+[[string]]
+resource_id = "light_block"
+value = "光源方块"
+
