@@ -153,3 +153,52 @@ value = "Stone Wall"
 [[string]]
 resource_id = "light_block"
 value = "Light Block"
+
+[[string]]
+resource_id = "glass_black"
+value = "Black Glass"
+
+[[string]]
+resource_id = "glass_blue"
+value = "Blue Glass"
+
+[[string]]
+resource_id = "glass_clear"
+value = "Clear Glass"
+
+[[string]]
+resource_id = "glass_cyan"
+value = "Cyan Glass"
+
+[[string]]
+resource_id = "glass_green"
+value = "Green Glass"
+
+[[string]]
+resource_id = "glass_orange"
+value = "Orange Glass"
+
+[[string]]
+resource_id = "glass_pink"
+value = "Pink Glass"
+
+[[string]]
+resource_id = "glass_purple"
+value = "Purple Glass"
+
+[[string]]
+resource_id = "glass_red"
+value = "Red Glass"
+
+[[string]]
+resource_id = "glass_teal"
+value = "Teal Glass"
+
+[[string]]
+resource_id = "glass_white"
+value = "White Glass"
+
+[[string]]
+resource_id = "glass_yellow"
+value = "Yellow Glass"
+

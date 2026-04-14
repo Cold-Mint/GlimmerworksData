@@ -22,3 +22,9 @@ resource_type = "audio"
 pack_id = "@self"
 resource_key = "tiles/stone"
 resource_type = "texture"
+
+[light_transmission_color]
+pack_id = "@self"
+resource_key = "shading_color"
+resource_type = "color"
+

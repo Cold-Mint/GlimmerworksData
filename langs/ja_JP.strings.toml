@@ -153,3 +153,52 @@ value = "石の壁"
 [[string]]
 resource_id = "light_block"
 value = "光源ブロック"
+
+[[string]]
+resource_id = "glass_black"
+value = "黒いガラス"
+
+[[string]]
+resource_id = "glass_blue"
+value = "青いガラス"
+
+[[string]]
+resource_id = "glass_clear"
+value = "透明なガラス"
+
+[[string]]
+resource_id = "glass_cyan"
+value = "シアンガラス"
+
+[[string]]
+resource_id = "glass_green"
+value = "緑のガラス"
+
+[[string]]
+resource_id = "glass_orange"
+value = "オレンジ色のガラス"
+
+[[string]]
+resource_id = "glass_pink"
+value = "ピンクガラス"
+
+[[string]]
+resource_id = "glass_purple"
+value = "紫のガラス"
+
+[[string]]
+resource_id = "glass_red"
+value = "赤いガラス"
+
+[[string]]
+resource_id = "glass_teal"
+value = "ティールガラス"
+
+[[string]]
+resource_id = "glass_white"
+value = "白いガラス"
+
+[[string]]
+resource_id = "glass_yellow"
+value = "黄色のガラス"
+

@@ -157,3 +157,53 @@ value = "石頭牆"
 [[string]]
 resource_id = "light_block"
 value = "光源方塊"
+
+
+[[string]]
+resource_id = "glass_black"
+value = "黑色玻璃"
+
+[[string]]
+resource_id = "glass_blue"
+value = "藍色玻璃"
+
+[[string]]
+resource_id = "glass_clear"
+value = "透明玻璃"
+
+[[string]]
+resource_id = "glass_cyan"
+value = "青色玻璃"
+
+[[string]]
+resource_id = "glass_green"
+value = "綠色玻璃"
+
+[[string]]
+resource_id = "glass_orange"
+value = "橙色玻璃"
+
+[[string]]
+resource_id = "glass_pink"
+value = "粉色玻璃"
+
+[[string]]
+resource_id = "glass_purple"
+value = "紫色玻璃"
+
+[[string]]
+resource_id = "glass_red"
+value = "紅色玻璃"
+
+[[string]]
+resource_id = "glass_teal"
+value = "青綠玻璃"
+
+[[string]]
+resource_id = "glass_white"
+value = "白色玻璃"
+
+[[string]]
+resource_id = "glass_yellow"
+value = "黃色玻璃"
+
