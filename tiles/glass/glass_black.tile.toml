@@ -3,10 +3,15 @@ layer_type = 1
 physics_type = 1
 resource_id = "glass_black"
 
-[light_transmission_color]
+[light_source]
+pack_id = "@core"
+resource_key = "none"
+resource_type = "light_source"
+
+[light_mask]
 pack_id = "@self"
-resource_key = "glass/glass_black"
-resource_type = "color"
+resource_key = "none"
+resource_type = "glass_black"
 
 [break_sfx]
 pack_id = "@self"

@@ -3,6 +3,16 @@ layer_type = 2
 physics_type = 0
 resource_id = "stone_wall"
 
+[light_source]
+pack_id = "@core"
+resource_key = "none"
+resource_type = "light_source"
+
+[light_mask]
+pack_id = "@core"
+resource_key = "fill"
+resource_type = "light_mask"
+
 [break_sfx]
 pack_id = "@self"
 resource_key = "sfx/stone_break"

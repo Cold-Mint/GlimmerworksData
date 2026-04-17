@@ -4,6 +4,16 @@ physics_type = 1
 resource_id = "ore_copper"
 allow_chain_mining = true
 
+[light_source]
+pack_id = "@core"
+resource_key = "none"
+resource_type = "light_source"
+
+[light_mask]
+pack_id = "@core"
+resource_key = "fill"
+resource_type = "light_mask"
+
 [break_sfx]
 pack_id = "@self"
 resource_key = "sfx/stone_break"

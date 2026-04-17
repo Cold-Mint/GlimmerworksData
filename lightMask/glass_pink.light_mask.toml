@@ -1,0 +1,5 @@
+resource_id = "glass_pink"
+[light_mask_color]
+pack_id = "@self"
+resource_key = "glass_pink"
+resource_type = "fixed_color"

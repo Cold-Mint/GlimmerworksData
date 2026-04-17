@@ -8,6 +8,16 @@ pack_id = "@self"
 resource_key = "sfx/dirt_break"
 resource_type = "audio"
 
+[light_source]
+pack_id = "@core"
+resource_key = "none"
+resource_type = "light_source"
+
+[light_mask]
+pack_id = "@core"
+resource_key = "fill"
+resource_type = "light_mask"
+
 [name]
 pack_id = "@self"
 resource_key = "dirt"

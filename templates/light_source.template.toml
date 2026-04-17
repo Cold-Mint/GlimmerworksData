@@ -1,0 +1,8 @@
+resource_id = "light_{level}"
+light_radius = {level}
+min_light_brightness = 0.02
+light_brightest_at_center = true
+[light_color]
+pack_id = "@self"
+resource_key = "light_color"
+resource_type = "fixed_color"
