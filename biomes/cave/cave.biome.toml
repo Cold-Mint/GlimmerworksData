@@ -11,25 +11,25 @@ pack_id = "@self"
 resource_key = "bgm/biome_cave"
 resource_type = "audio"
 
-[[decors]]
-pack_id = "@self"
-resource_key = "cave_fill"
-resource_type = "decor"
+#[[decors]]
+#pack_id = "@self"
+#resource_key = "cave_fill"
+#resource_type = "decor"
 
-[[decors]]
-pack_id = "@self"
-resource_key = "cave_ore_copper_mineral"
-resource_type = "decor"
+#[[decors]]
+#pack_id = "@self"
+#resource_key = "cave_ore_copper_mineral"
+#resource_type = "decor"
 
-[[decors]]
-pack_id = "@self"
-resource_key = "cave_ore_iron_mineral"
-resource_type = "decor"
+#[[decors]]
+#pack_id = "@self"
+#resource_key = "cave_ore_iron_mineral"
+#resource_type = "decor"
 
-[[decors]]
-pack_id = "@self"
-resource_key = "cave_ore_gold_mineral"
-resource_type = "decor"
+#[[decors]]
+#pack_id = "@self"
+#resource_key = "cave_ore_gold_mineral"
+#resource_type = "decor"
 
 
 [[decors]]

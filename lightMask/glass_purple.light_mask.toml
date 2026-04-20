@@ -1,5 +1,2 @@
-resource_id = "glass_purple"
-[light_mask_color]
-pack_id = "@self"
-resource_key = "glass_purple"
-resource_type = "fixed_color"
+#@set(color,purple)
+#@insert_template(glass_light_mask)

@@ -1,5 +1,5 @@
-resource_id = "glass_purple"
-a = 200
+#@set(color,purple)
+#@insert_template(glass_fixed_color)
 r = 120
 g = 40
 b = 255
