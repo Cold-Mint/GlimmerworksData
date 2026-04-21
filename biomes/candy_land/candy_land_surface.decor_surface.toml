@@ -1,5 +1,5 @@
 resource_id = "candy_land_surface"
-layer_type = 1
+layer_type = 2
 allow_water = true
 
 [tile]

@@ -1,6 +1,6 @@
 custom_loot_table = true
 hardness = 0.82
-layer_type = 1
+layer_type = 2
 physics_type = 1
 resource_id = "grass"
 

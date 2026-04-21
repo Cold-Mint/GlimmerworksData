@@ -1,0 +1,5 @@
+resource_id = "light_wall_color"
+a = 60
+r = 148
+g = 0
+b = 211

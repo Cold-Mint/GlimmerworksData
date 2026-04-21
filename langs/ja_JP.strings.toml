@@ -152,7 +152,11 @@ value = "石の壁"
 
 [[string]]
 resource_id = "light_block"
-value = "光源ブロック"
+value = "発光ブロック"
+
+[[string]]
+resource_id = "light_wall"
+value = "発光壁ブロック"
 
 [[string]]
 resource_id = "glass_black"

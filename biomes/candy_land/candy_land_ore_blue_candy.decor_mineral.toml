@@ -1,5 +1,5 @@
 resource_id = "candy_land_ore_blue_candy_mineral"
-layer_type = 1
+layer_type = 2
 noise_type = 0
 frequency = 0.1
 ore_spawn_min_noise_threshold = 0.99

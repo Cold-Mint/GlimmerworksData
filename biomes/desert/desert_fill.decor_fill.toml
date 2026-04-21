@@ -1,5 +1,5 @@
 resource_id = "desert_fill"
-layer_type = 1
+layer_type = 2
 [tile]
 pack_id = "@self"
 resource_key = "sand"

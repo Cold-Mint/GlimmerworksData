@@ -152,7 +152,11 @@ value = "Stone Wall"
 
 [[string]]
 resource_id = "light_block"
-value = "Light Block"
+value = "Glow Block"
+
+[[string]]
+resource_id = "light_wall"
+value = "Glow Wall"
 
 [[string]]
 resource_id = "glass_black"

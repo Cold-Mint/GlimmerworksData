@@ -153,7 +153,11 @@ value = "石头墙"
 
 [[string]]
 resource_id = "light_block"
-value = "光源方块"
+value = "发光方块"
+
+[[string]]
+resource_id = "light_wall"
+value = "发光墙壁"
 
 [[string]]
 resource_id = "glass_black"

@@ -1,6 +1,6 @@
 allow_chain_mining = true
 hardness = 0.2
-layer_type = 1
+layer_type = 2
 physics_type = 0
 resource_id = "oak_leaf"
 
