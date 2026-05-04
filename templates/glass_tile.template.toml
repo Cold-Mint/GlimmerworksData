@@ -10,8 +10,8 @@ resource_type = "light_source"
 
 [light_mask]
 pack_id = "@self"
-resource_key = "none"
-resource_type = "glass_{color}"
+resource_key = "glass_{color}"
+resource_type = "light_mask"
 
 [break_sfx]
 pack_id = "@self"
