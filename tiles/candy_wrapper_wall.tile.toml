@@ -6,29 +6,34 @@ resource_id = "candy_wrapper_wall"
 [break_sfx]
 pack_id = "@self"
 resource_key = "sfx/dirt_break"
-resource_type = "audio"
+resource_type = 12
 
 [light_source]
 pack_id = "@core"
 resource_key = "none"
-resource_type = "light_source"
+resource_type = 16
 
-[light_mask]
+[back_light_mask]
 pack_id = "@core"
-resource_key = "fill"
-resource_type = "light_mask"
+resource_key = "low"
+resource_type = 17
+
+[side_light_mask]
+pack_id = "@core"
+resource_key = "medium"
+resource_type = 17
 
 [name]
 pack_id = "@self"
 resource_key = "candy_wrapper_wall"
-resource_type = "string"
+resource_type = 1
 
 [place_sfx]
 pack_id = "@self"
 resource_key = "sfx/dirt_place"
-resource_type = "audio"
+resource_type = 12
 
 [texture]
 pack_id = "@self"
 resource_key = "tiles/candy_wrapper_wall"
-resource_type = "texture"
+resource_type = 7

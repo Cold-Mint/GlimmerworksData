@@ -5,9 +5,9 @@ resource_id = "area_marker"
 [name]
 pack_id = "@self"
 resource_key = "area_marker"
-resource_type = "string"
+resource_type = 1
 
 [texture]
 pack_id = "@self"
 resource_key = "items/data_module"
-resource_type = "texture"
+resource_type = 7

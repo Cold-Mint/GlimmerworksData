@@ -9,5 +9,5 @@ min_spawn_elevation = 0.0
 max_spawn_elevation = 0.25
 [ore]
 pack_id = "@self"
-resource_type  = "tile"
+resource_type = 2
 resource_key = "ore_gold"

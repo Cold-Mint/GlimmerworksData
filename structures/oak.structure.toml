@@ -15,7 +15,7 @@ type = "ref"
 [condition.config.definition.value]
 pack_id = "@self"
 resource_key = "plains"
-resource_type = "biome"
+resource_type = 8
 
 [[condition]]
 processor_id = "height"
@@ -43,12 +43,12 @@ value = 8
 [[data]]
 pack_id = "@self"
 resource_key = "oak_leaf"
-resource_type = "tile"
+resource_type = 2
 
 [[data]]
 pack_id = "@self"
 resource_key = "oak"
-resource_type = "tile"
+resource_type = 2
 
 [generator_config]
 [[generator_config.definition]]

@@ -3,4 +3,4 @@ layer_type = 2
 [tile]
 pack_id = "@self"
 resource_key = "snow"
-resource_type = "tile"
+resource_type = 2

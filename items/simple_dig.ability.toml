@@ -10,9 +10,9 @@ mine_able_layer = 3
 [name]
 pack_id = "@self"
 resource_key = "simple_dig"
-resource_type = "string"
+resource_type = 1
 
 [texture]
 pack_id = "@self"
 resource_key = "items/function_module"
-resource_type = "texture"
+resource_type = 7

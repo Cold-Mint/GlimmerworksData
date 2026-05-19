@@ -9,9 +9,9 @@ amount = 1
 [add_items.ability_item_ref.item]
 pack_id = "@self"
 resource_key = "simple_dig"
-resource_type = "ability"
+resource_type = 4
 
 [add_items.item]
 pack_id = "@self"
 resource_key = "wooden_pickaxe"
-resource_type = "composable"
+resource_type = 3

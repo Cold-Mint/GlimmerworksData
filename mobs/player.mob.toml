@@ -59,12 +59,12 @@ y = -1.5
 [shape]
 pack_id = "@self"
 resource_key = "player_shape"
-resource_type = "shape"
+resource_type = 11
 
 [texture]
 pack_id = "@self"
 resource_key = "player"
-resource_type = "texture"
+resource_type = 7
 
 [texture_offset]
 x = -0.7

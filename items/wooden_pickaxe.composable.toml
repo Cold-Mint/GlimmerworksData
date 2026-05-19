@@ -4,9 +4,9 @@ slot_size = 3
 [name]
 pack_id = "@self"
 resource_key = "wooden_pickaxe"
-resource_type = "string"
+resource_type = 1
 
 [texture]
 pack_id = "@self"
 resource_key = "items/pickaxe"
-resource_type = "texture"
+resource_type = 7

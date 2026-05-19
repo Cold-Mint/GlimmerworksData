@@ -1,23 +1,23 @@
-elevation = 0.75
-erosion = 1.0
-humidity = 0.4
 resource_id = "plateau"
-temperature = 0.3
-weirdness = 0.0
-strictness_elevation = 5.0
-temperature_elevation = 2.0
+surface_proximity = 0.8
+strictness_surface_proximity = 1.0
+
+[parallax_background]
+pack_id = "@self"
+resource_key = "backgrounds/default"
+resource_type = 7
 
 [bgm]
 pack_id = "@self"
 resource_key = "bgm/biome_plateau"
-resource_type = "audio"
+resource_type = 12
 
 [[decors]]
 pack_id = "@self"
 resource_key = "plateau_fill"
-resource_type = "decor"
+resource_type = 14
 
 [[decors]]
 pack_id = "@self"
 resource_key = "plains_wall_fill"
-resource_type = "decor"
+resource_type = 14

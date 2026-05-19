@@ -5,4 +5,4 @@ light_brightest_at_center = true
 [light_color]
 pack_id = "@self"
 resource_key = "light_color"
-resource_type = "fixed_color"
+resource_type = 15

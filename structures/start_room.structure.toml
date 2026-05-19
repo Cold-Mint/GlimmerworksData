@@ -8,7 +8,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 1
@@ -17,7 +17,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 2
@@ -26,7 +26,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 3
@@ -35,7 +35,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 4
@@ -44,7 +44,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 5
@@ -53,7 +53,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 6
@@ -62,7 +62,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 7
@@ -71,7 +71,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 8
@@ -80,7 +80,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 9
@@ -89,7 +89,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 10
@@ -98,7 +98,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 11
@@ -107,7 +107,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 0
@@ -116,7 +116,7 @@ y = 1
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 1
@@ -125,7 +125,7 @@ y = 1
 [tile_info.tile]
 pack_id = "@core"
 resource_key = "air"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 2
@@ -134,7 +134,7 @@ y = 1
 [tile_info.tile]
 pack_id = "@core"
 resource_key = "air"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 3
@@ -143,7 +143,7 @@ y = 1
 [tile_info.tile]
 pack_id = "@core"
 resource_key = "air"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 4
@@ -152,7 +152,7 @@ y = 1
 [tile_info.tile]
 pack_id = "@core"
 resource_key = "air"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 5
@@ -161,7 +161,7 @@ y = 1
 [tile_info.tile]
 pack_id = "@core"
 resource_key = "air"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 6
@@ -170,7 +170,7 @@ y = 1
 [tile_info.tile]
 pack_id = "@core"
 resource_key = "air"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 7
@@ -179,7 +179,7 @@ y = 1
 [tile_info.tile]
 pack_id = "@core"
 resource_key = "air"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 8
@@ -188,7 +188,7 @@ y = 1
 [tile_info.tile]
 pack_id = "@core"
 resource_key = "air"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 9
@@ -197,7 +197,7 @@ y = 1
 [tile_info.tile]
 pack_id = "@core"
 resource_key = "air"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 10
@@ -206,7 +206,7 @@ y = 1
 [tile_info.tile]
 pack_id = "@core"
 resource_key = "air"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 11
@@ -215,7 +215,7 @@ y = 1
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 0
@@ -224,7 +224,7 @@ y = 2
 [tile_info.tile]
 pack_id = "@core"
 resource_key = "air"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 1
@@ -233,7 +233,7 @@ y = 2
 [tile_info.tile]
 pack_id = "@core"
 resource_key = "air"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 2
@@ -242,7 +242,7 @@ y = 2
 [tile_info.tile]
 pack_id = "@core"
 resource_key = "air"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 3
@@ -251,7 +251,7 @@ y = 2
 [tile_info.tile]
 pack_id = "@core"
 resource_key = "air"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 4
@@ -260,7 +260,7 @@ y = 2
 [tile_info.tile]
 pack_id = "@core"
 resource_key = "air"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 5
@@ -269,7 +269,7 @@ y = 2
 [tile_info.tile]
 pack_id = "@core"
 resource_key = "air"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 6
@@ -278,7 +278,7 @@ y = 2
 [tile_info.tile]
 pack_id = "@core"
 resource_key = "air"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 7
@@ -287,7 +287,7 @@ y = 2
 [tile_info.tile]
 pack_id = "@core"
 resource_key = "air"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 8
@@ -296,7 +296,7 @@ y = 2
 [tile_info.tile]
 pack_id = "@core"
 resource_key = "air"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 9
@@ -305,7 +305,7 @@ y = 2
 [tile_info.tile]
 pack_id = "@core"
 resource_key = "air"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 10
@@ -314,7 +314,7 @@ y = 2
 [tile_info.tile]
 pack_id = "@core"
 resource_key = "air"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 11
@@ -323,7 +323,7 @@ y = 2
 [tile_info.tile]
 pack_id = "@core"
 resource_key = "air"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 0
@@ -332,7 +332,7 @@ y = 3
 [tile_info.tile]
 pack_id = "@core"
 resource_key = "air"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 1
@@ -341,7 +341,7 @@ y = 3
 [tile_info.tile]
 pack_id = "@core"
 resource_key = "air"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 2
@@ -350,7 +350,7 @@ y = 3
 [tile_info.tile]
 pack_id = "@core"
 resource_key = "air"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 3
@@ -359,7 +359,7 @@ y = 3
 [tile_info.tile]
 pack_id = "@core"
 resource_key = "air"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 4
@@ -368,7 +368,7 @@ y = 3
 [tile_info.tile]
 pack_id = "@core"
 resource_key = "air"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 5
@@ -377,7 +377,7 @@ y = 3
 [tile_info.tile]
 pack_id = "@core"
 resource_key = "air"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 6
@@ -386,7 +386,7 @@ y = 3
 [tile_info.tile]
 pack_id = "@core"
 resource_key = "air"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 7
@@ -395,7 +395,7 @@ y = 3
 [tile_info.tile]
 pack_id = "@core"
 resource_key = "air"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 8
@@ -404,7 +404,7 @@ y = 3
 [tile_info.tile]
 pack_id = "@core"
 resource_key = "air"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 9
@@ -413,7 +413,7 @@ y = 3
 [tile_info.tile]
 pack_id = "@core"
 resource_key = "air"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 10
@@ -422,7 +422,7 @@ y = 3
 [tile_info.tile]
 pack_id = "@core"
 resource_key = "air"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 11
@@ -431,7 +431,7 @@ y = 3
 [tile_info.tile]
 pack_id = "@core"
 resource_key = "air"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 0
@@ -440,7 +440,7 @@ y = 4
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_leaf"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 1
@@ -449,7 +449,7 @@ y = 4
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_leaf"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 2
@@ -458,7 +458,7 @@ y = 4
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_leaf"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 3
@@ -467,7 +467,7 @@ y = 4
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_leaf"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 4
@@ -476,7 +476,7 @@ y = 4
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_leaf"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 5
@@ -485,7 +485,7 @@ y = 4
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_leaf"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 6
@@ -494,7 +494,7 @@ y = 4
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_leaf"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 7
@@ -503,7 +503,7 @@ y = 4
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_leaf"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 8
@@ -512,7 +512,7 @@ y = 4
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_leaf"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 9
@@ -521,7 +521,7 @@ y = 4
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_leaf"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 10
@@ -530,7 +530,7 @@ y = 4
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_leaf"
-resource_type = "tile"
+resource_type = 2
 
 [[tile_info]]
 x = 11
@@ -539,4 +539,4 @@ y = 4
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_leaf"
-resource_type = "tile"
+resource_type = 2

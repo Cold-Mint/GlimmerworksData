@@ -1,12 +1,9 @@
-hardness = 0.9
+hardness = 1.0
 layer_type = 2
 physics_type = 1
-resource_id = "candy_block"
-
-[break_sfx]
-pack_id = "@self"
-resource_key = "sfx/dirt_break"
-resource_type = 12
+resource_id = "stone_2x2"
+tile_width = 2
+tile_height = 2
 
 [light_source]
 pack_id = "@core"
@@ -23,17 +20,24 @@ pack_id = "@core"
 resource_key = "medium"
 resource_type = 17
 
+[break_sfx]
+pack_id = "@self"
+resource_key = "sfx/stone_break"
+resource_type = 12
+
 [name]
 pack_id = "@self"
-resource_key = "candy_block"
+resource_key = "stone"
 resource_type = 1
 
 [place_sfx]
 pack_id = "@self"
-resource_key = "sfx/dirt_place"
+resource_key = "sfx/stone_place"
 resource_type = 12
 
 [texture]
 pack_id = "@self"
-resource_key = "tiles/candy_block"
+resource_key = "tiles/stone"
 resource_type = 7
+
+

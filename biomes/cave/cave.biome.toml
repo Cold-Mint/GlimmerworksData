@@ -1,38 +1,39 @@
-elevation = 0.45
-erosion = 1.0
-humidity = 0.5
 resource_id = "cave"
-temperature = 0.5
-weirdness = 0.0
-strictness_elevation = 0.5
+surface_proximity = 0.49
+strictness_surface_proximity = 0.1
 
 [bgm]
 pack_id = "@self"
 resource_key = "bgm/biome_cave"
-resource_type = "audio"
+resource_type = 12
+
+[parallax_background]
+pack_id = "@self"
+resource_key = "backgrounds/default"
+resource_type = 7
 
 [[decors]]
 pack_id = "@self"
 resource_key = "cave_fill"
-resource_type = "decor"
+resource_type = 14
 
 [[decors]]
 pack_id = "@self"
 resource_key = "cave_ore_copper_mineral"
-resource_type = "decor"
+resource_type = 14
 
 [[decors]]
 pack_id = "@self"
 resource_key = "cave_ore_iron_mineral"
-resource_type = "decor"
+resource_type = 14
 
 [[decors]]
 pack_id = "@self"
 resource_key = "cave_ore_gold_mineral"
-resource_type = "decor"
+resource_type = 14
 
 
 [[decors]]
 pack_id = "@self"
 resource_key = "cave_wall_fill"
-resource_type = "decor"
+resource_type = 14

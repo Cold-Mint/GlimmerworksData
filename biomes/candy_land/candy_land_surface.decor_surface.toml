@@ -5,4 +5,4 @@ allow_water = true
 [tile]
 pack_id = "@self"
 resource_key = "berry_cream"
-resource_type = "tile"
+resource_type = 2

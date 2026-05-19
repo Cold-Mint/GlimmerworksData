@@ -1,26 +1,30 @@
-elevation = 0.5
-erosion = 1.0
-humidity = 0.5
 resource_id = "plains"
+surface_proximity = 0.5
+strictness_surface_proximity = 1.3
 temperature = 0.5
-weirdness = 0.0
+strictness_temperature = 1.0
+
+[parallax_background]
+pack_id = "@self"
+resource_key = "backgrounds/default"
+resource_type = 7
 
 [bgm]
 pack_id = "@self"
 resource_key = "bgm/biome_plains"
-resource_type = "audio"
+resource_type = 12
 
 [[decors]]
 pack_id = "@self"
 resource_key = "plains_fill"
-resource_type = "decor"
+resource_type = 14
 
 [[decors]]
 pack_id = "@self"
 resource_key = "plains_surface"
-resource_type = "decor"
+resource_type = 14
 
 [[decors]]
 pack_id = "@self"
 resource_key = "plains_wall_fill"
-resource_type = "decor"
+resource_type = 14
