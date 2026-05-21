@@ -1,5 +1,15 @@
-generator_id = "tree"
 resource_id = "oak"
+leaf_data_index = 0
+trunk_data_index = 1
+trunk_height_max = 9
+trunk_height_min = 3
+has_leaves = true
+leaf_radius = 3
+leaf_cluster_count = 1
+leaf_vertical_spacing = 1
+trunk_width = 1
+trunk_tile_layer = 2
+leaf_tile_layer = 2
 
 [[condition]]
 processor_id = "surface"
@@ -49,49 +59,3 @@ resource_type = 2
 pack_id = "@self"
 resource_key = "oak"
 resource_type = 2
-
-[generator_config]
-[[generator_config.definition]]
-key = "leafDataIndex"
-type = "int"
-value = 0
-
-[[generator_config.definition]]
-key = "trunkDataIndex"
-type = "int"
-value = 1
-
-[[generator_config.definition]]
-key = "trunkHeightMax"
-type = "int"
-value = 9
-
-[[generator_config.definition]]
-key = "trunkHeightMin"
-type = "int"
-value = 3
-
-[[generator_config.definition]]
-key = "hasLeaves"
-type = "bool"
-value = true
-
-[[generator_config.definition]]
-key = "leafRadius"
-type = "int"
-value = 3
-
-[[generator_config.definition]]
-key = "leafClusterCount"
-type = "int"
-value = 1
-
-[[generator_config.definition]]
-key = "leafVerticalSpacing"
-type = "int"
-value = 1
-
-[[generator_config.definition]]
-key = "trunkWidth"
-type = "int"
-value = 1
