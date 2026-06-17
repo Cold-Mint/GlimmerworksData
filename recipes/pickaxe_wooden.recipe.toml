@@ -1,0 +1,15 @@
+resource_id = "pickaxe_wooden"
+recipe_group = 1
+min_technology_level = 1
+[[input]]
+required_tag = "wood"
+required_weight = 3
+[[input]]
+required_tag = "wooden_stick"
+required_weight = 2
+[output]
+amount = 1
+[output.item]
+pack_id = "@self"
+resource_key = "pickaxe_wooden"
+resource_type = 3

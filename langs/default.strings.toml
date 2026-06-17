@@ -23,8 +23,28 @@ resource_id = "snow"
 value = "snow"
 
 [[string]]
-resource_id = "wooden_pickaxe"
-value = "wooden pickaxe"
+resource_id = "pickaxe_wooden"
+value = "Wooden Pickaxe"
+
+[[string]]
+resource_id = "pickaxe_stone"
+value = "Stone Pickaxe"
+
+[[string]]
+resource_id = "pickaxe_iron"
+value = "Iron Pickaxe"
+
+[[string]]
+resource_id = "pickaxe_copper"
+value = "Copper Pickaxe"
+
+[[string]]
+resource_id = "pickaxe_golden"
+value = "Golden Pickaxe"
+
+[[string]]
+resource_id = "pickaxe_candy"
+value = "Candy Pickaxe"
 
 [[string]]
 resource_id = "simple_dig"
@@ -206,3 +226,50 @@ value = "White Glass"
 resource_id = "glass_yellow"
 value = "Yellow Glass"
 
+[[string]]
+resource_id = "wooden_stick"
+value = "Wooden Stick"
+
+[[string]]
+resource_id = "nugget_iron"
+value = "Iron Nugget"
+
+[[string]]
+resource_id = "ingot_iron"
+value = "Iron Ingot"
+
+[[string]]
+resource_id = "raw_iron"
+value = "Raw Iron"
+
+[[string]]
+resource_id = "nugget_gold"
+value = "Gold Nugget"
+
+[[string]]
+resource_id = "ingot_gold"
+value = "Gold Ingot"
+
+[[string]]
+resource_id = "raw_gold"
+value = "Raw Gold"
+
+[[string]]
+resource_id = "nugget_copper"
+value = "Copper Nugget"
+
+[[string]]
+resource_id = "copper_ingot"
+value = "Copper Ingot"
+
+[[string]]
+resource_id = "raw_copper"
+value = "Raw Copper"
+
+[[tag_string]]
+resource_id = "fuel"
+value = "Fuel"
+
+[[tag_string]]
+resource_id = "wood"
+value = "Wood"

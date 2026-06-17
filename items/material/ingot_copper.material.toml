@@ -1,0 +1,13 @@
+resource_id = "ingot_copper"
+[[tags]]
+name = "ingot_copper"
+
+[name]
+pack_id = "@self"
+resource_key = "ingot_copper"
+resource_type = 1
+
+[texture]
+pack_id = "@self"
+resource_key = "items/ingot_copper"
+resource_type = 7

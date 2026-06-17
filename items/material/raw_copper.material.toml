@@ -1,0 +1,11 @@
+resource_id = "raw_copper"
+tags = ["raw_copper"]
+[name]
+pack_id = "@self"
+resource_key = "raw_copper"
+resource_type = 1
+
+[texture]
+pack_id = "@self"
+resource_key = "items/raw_copper"
+resource_type = 7

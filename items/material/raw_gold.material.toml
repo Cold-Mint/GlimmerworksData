@@ -1,0 +1,11 @@
+resource_id = "raw_gold"
+tags = ["raw_gold"]
+[name]
+pack_id = "@self"
+resource_key = "raw_gold"
+resource_type = 1
+
+[texture]
+pack_id = "@self"
+resource_key = "items/raw_gold"
+resource_type = 7

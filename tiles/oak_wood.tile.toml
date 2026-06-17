@@ -3,6 +3,13 @@ layer_type = 2
 physics_type = 1
 resource_id = "oak_wood"
 
+[[tags]]
+name = "wood"
+
+[[tags]]
+name = "fuel"
+value = 2
+
 [light_source]
 pack_id = "@core"
 resource_key = "none"

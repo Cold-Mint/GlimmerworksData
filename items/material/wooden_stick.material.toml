@@ -1,0 +1,18 @@
+resource_id = "wooden_stick"
+
+[[tags]]
+name = "wooden_stick"
+
+[[tags]]
+name = "fuel"
+value = 1
+
+[name]
+pack_id = "@self"
+resource_key = "wooden_stick"
+resource_type = 1
+
+[texture]
+pack_id = "@self"
+resource_key = "items/wooden_stick"
+resource_type = 7

@@ -1,0 +1,13 @@
+resource_id = "pickaxe_copper"
+slot_size = 1
+max_durability = 180
+
+[name]
+pack_id = "@self"
+resource_key = "pickaxe_copper"
+resource_type = 1
+
+[texture]
+pack_id = "@self"
+resource_key = "items/pickaxe_copper"
+resource_type = 7

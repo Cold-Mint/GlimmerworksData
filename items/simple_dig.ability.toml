@@ -1,6 +1,7 @@
 ability = "dig"
 can_use_alone = false
 resource_id = "simple_dig"
+max_durability = 192
 
 [ability_config]
 allow_mine_block = true

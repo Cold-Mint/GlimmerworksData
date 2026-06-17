@@ -1,0 +1,13 @@
+resource_id = "pickaxe_wooden"
+slot_size = 1
+max_durability = 64
+
+[name]
+pack_id = "@self"
+resource_key = "pickaxe_wooden"
+resource_type = 1
+
+[texture]
+pack_id = "@self"
+resource_key = "items/pickaxe_wooden"
+resource_type = 7

@@ -1,0 +1,14 @@
+resource_id = "ingot_gold"
+
+[[tags]]
+name = "ingot_gold"
+
+[name]
+pack_id = "@self"
+resource_key = "ingot_gold"
+resource_type = 1
+
+[texture]
+pack_id = "@self"
+resource_key = "items/ingot_gold"
+resource_type = 7

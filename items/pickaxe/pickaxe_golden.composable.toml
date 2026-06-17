@@ -1,0 +1,13 @@
+resource_id = "pickaxe_golden"
+slot_size = 3
+max_durability = 160
+
+[name]
+pack_id = "@self"
+resource_key = "pickaxe_golden"
+resource_type = 1
+
+[texture]
+pack_id = "@self"
+resource_key = "items/pickaxe_golden"
+resource_type = 7

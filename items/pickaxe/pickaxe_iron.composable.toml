@@ -1,0 +1,13 @@
+resource_id = "pickaxe_iron"
+slot_size = 2
+max_durability = 224
+
+[name]
+pack_id = "@self"
+resource_key = "pickaxe_iron"
+resource_type = 1
+
+[texture]
+pack_id = "@self"
+resource_key = "items/pickaxe_iron"
+resource_type = 7

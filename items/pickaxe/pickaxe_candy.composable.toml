@@ -1,0 +1,13 @@
+resource_id = "pickaxe_candy"
+slot_size = 1
+max_durability = 80
+
+[name]
+pack_id = "@self"
+resource_key = "pickaxe_candy"
+resource_type = 1
+
+[texture]
+pack_id = "@self"
+resource_key = "items/pickaxe_candy"
+resource_type = 7

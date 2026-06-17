@@ -1,4 +1,4 @@
-resource_id = "wooden_pickaxe"
+resource_id = "pickaxe_wooden"
 
 [[add_items]]
 amount = 1
@@ -13,5 +13,5 @@ resource_type = 4
 
 [add_items.item]
 pack_id = "@self"
-resource_key = "wooden_pickaxe"
+resource_key = "pickaxe_wooden"
 resource_type = 3

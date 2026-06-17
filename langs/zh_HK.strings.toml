@@ -23,8 +23,28 @@ resource_id = "snow"
 value = "雪"
 
 [[string]]
-resource_id = "wooden_pickaxe"
+resource_id = "pickaxe_wooden"
 value = "木鎬"
+
+[[string]]
+resource_id = "pickaxe_stone"
+value = "石鎬"
+
+[[string]]
+resource_id = "pickaxe_iron"
+value = "鐵鎬"
+
+[[string]]
+resource_id = "pickaxe_golden"
+value = "金鎬"
+
+[[string]]
+resource_id = "pickaxe_candy"
+value = "糖果鎬"
+
+[[string]]
+resource_id = "pickaxe_copper"
+value = "銅鎬"
 
 [[string]]
 resource_id = "simple_dig"
@@ -206,3 +226,50 @@ value = "白色玻璃"
 resource_id = "glass_yellow"
 value = "黃色玻璃"
 
+[[string]]
+resource_id = "wooden_stick"
+value = "木棍"
+
+[[string]]
+resource_id = "nugget_iron"
+value = "鐵粒"
+
+[[string]]
+resource_id = "ingot_iron"
+value = "鐵錠"
+
+[[string]]
+resource_id = "raw_iron"
+value = "粗鐵"
+
+[[string]]
+resource_id = "nugget_gold"
+value = "金粒"
+
+[[string]]
+resource_id = "ingot_gold"
+value = "金錠"
+
+[[string]]
+resource_id = "raw_gold"
+value = "粗金"
+
+[[string]]
+resource_id = "nugget_copper"
+value = "銅粒"
+
+[[string]]
+resource_id = "copper_ingot"
+value = "銅錠"
+
+[[string]]
+resource_id = "raw_copper"
+value = "粗銅"
+
+[[tag_string]]
+resource_id = "fuel"
+value = "燃料"
+
+[[tag_string]]
+resource_id = "wood"
+value = "木材"

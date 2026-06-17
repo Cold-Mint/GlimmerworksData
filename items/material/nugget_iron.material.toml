@@ -1,0 +1,11 @@
+resource_id = "nugget_iron"
+tags = ["nugget_iron"]
+[name]
+pack_id = "@self"
+resource_key = "nugget_iron"
+resource_type = 1
+
+[texture]
+pack_id = "@self"
+resource_key = "items/nugget_iron"
+resource_type = 7

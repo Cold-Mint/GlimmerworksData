@@ -1,0 +1,11 @@
+# Wood stick recipe (Any item containing "wood" can be combined to produce 4 wooden sticks.)
+# 木棍配方（任意带有wood的物品可以合成4个木棍）
+resource_id = "wooden_stick"
+[[input]]
+required_tag = "wood"
+[output]
+amount = 4
+[output.item]
+pack_id = "@self"
+resource_key = "wooden_stick"
+resource_type = 20
