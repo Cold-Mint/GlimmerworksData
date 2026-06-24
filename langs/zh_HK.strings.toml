@@ -151,8 +151,8 @@ resource_id = "ore_blue_candy"
 value = "藍色糖果礦石"
 
 [[string]]
-resource_id = "torch"
-value = "火把"
+resource_id = "leaf_torch"
+value = "樹葉火把"
 
 [[string]]
 resource_id = "dirt_wall"

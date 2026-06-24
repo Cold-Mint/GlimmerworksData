@@ -1,0 +1,15 @@
+resource_id = "leaf_torch"
+
+[[input]]
+required_tag = "wooden_stick"
+required_weight = 2
+
+[[input]]
+required_tag = "leaf"
+required_weight = 3
+
+[output]
+[output.item]
+pack_id = "@self"
+resource_key = "leaf_torch"
+resource_type = 2

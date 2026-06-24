@@ -151,8 +151,8 @@ resource_id = "ore_blue_candy"
 value = "Blue Candy Ore"
 
 [[string]]
-resource_id = "torch"
-value = "Torch"
+resource_id = "leaf_torch"
+value = "Leaf Torch"
 
 [[string]]
 resource_id = "dirt_wall"
