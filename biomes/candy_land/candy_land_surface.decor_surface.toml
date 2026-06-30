@@ -1,8 +1,0 @@
-resource_id = "candy_land_surface"
-layer_type = 2
-allow_water = true
-
-[tile]
-pack_id = "@self"
-resource_key = "berry_cream"
-resource_type = 2

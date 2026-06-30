@@ -43,10 +43,6 @@ resource_id = "pickaxe_golden"
 value = "金镐"
 
 [[string]]
-resource_id = "pickaxe_candy"
-value = "糖果镐"
-
-[[string]]
 resource_id = "simple_dig"
 value = "简易挖掘模块"
 
@@ -134,22 +130,6 @@ value = "铁矿石"
 resource_id = "ore_gold"
 value = "金矿石"
 
-[[string]]
-resource_id = "berry_cream"
-value = "草莓奶油块"
-
-[[string]]
-resource_id = "strawberry_puree"
-value = "草莓泥"
-
-[[string]]
-resource_id = "ore_candy"
-value = "糖果矿石"
-
-
-[[string]]
-resource_id = "ore_blue_candy"
-value = "蓝色糖果矿石"
 
 [[string]]
 resource_id = "leaf_torch"
@@ -158,14 +138,6 @@ value = "树叶火把"
 [[string]]
 resource_id = "dirt_wall"
 value = "泥土墙"
-
-[[string]]
-resource_id = "candy_block"
-value = "糖果块"
-
-[[string]]
-resource_id = "candy_wrapper_wall"
-value = "糖果壁纸"
 
 [[string]]
 resource_id = "stone_wall"
@@ -267,6 +239,14 @@ value = "铜锭"
 resource_id = "raw_copper"
 value = "粗铜"
 
+[[string]]
+resource_id = "furnace"
+value = "熔炉"
+
+[[string]]
+resource_id = "craft_table"
+value = "工作台"
+
 [[tag_string]]
 resource_id = "fuel"
 value = "燃料"
@@ -274,3 +254,15 @@ value = "燃料"
 [[tag_string]]
 resource_id = "wood"
 value = "木材"
+
+[[tag_string]]
+resource_id = "wood"
+value = "木材"
+
+[[tag_string]]
+resource_id = "leaf"
+value = "树叶"
+
+[[tag_string]]
+resource_id = "wooden_stick"
+value = "木棍"

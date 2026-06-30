@@ -9,6 +9,7 @@ required_tag = "leaf"
 required_weight = 3
 
 [output]
+amount = 4
 [output.item]
 pack_id = "@self"
 resource_key = "leaf_torch"

@@ -1,0 +1,16 @@
+resource_id = "craft_table"
+
+[[input]]
+required_tag = "wood"
+required_weight = 2
+
+[[input]]
+required_tag = "wooden_stick"
+required_weight = 4
+
+[output]
+amount = 1
+[output.item]
+pack_id = "@self"
+resource_key = "craft_table"
+resource_type = 2

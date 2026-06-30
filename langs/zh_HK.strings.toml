@@ -39,10 +39,6 @@ resource_id = "pickaxe_golden"
 value = "金鎬"
 
 [[string]]
-resource_id = "pickaxe_candy"
-value = "糖果鎬"
-
-[[string]]
 resource_id = "pickaxe_copper"
 value = "銅鎬"
 
@@ -134,21 +130,6 @@ value = "鐵礦石"
 resource_id = "ore_gold"
 value = "金礦石"
 
-[[string]]
-resource_id = "berry_cream"
-value = "草莓奶油塊"
-
-[[string]]
-resource_id = "strawberry_puree"
-value = "草莓泥"
-
-[[string]]
-resource_id = "ore_candy"
-value = "糖果礦石"
-
-[[string]]
-resource_id = "ore_blue_candy"
-value = "藍色糖果礦石"
 
 [[string]]
 resource_id = "leaf_torch"
@@ -157,14 +138,6 @@ value = "樹葉火把"
 [[string]]
 resource_id = "dirt_wall"
 value = "泥土牆"
-
-[[string]]
-resource_id = "candy_block"
-value = "糖果塊"
-
-[[string]]
-resource_id = "candy_wrapper_wall"
-value = "糖果壁紙"
 
 [[string]]
 resource_id = "stone_wall"
@@ -266,6 +239,14 @@ value = "銅錠"
 resource_id = "raw_copper"
 value = "粗銅"
 
+[[string]]
+resource_id = "furnace"
+value = "熔爐"
+
+[[string]]
+resource_id = "craft_table"
+value = "工作颱"
+
 [[tag_string]]
 resource_id = "fuel"
 value = "燃料"
@@ -273,3 +254,11 @@ value = "燃料"
 [[tag_string]]
 resource_id = "wood"
 value = "木材"
+
+[[tag_string]]
+resource_id = "leaf"
+value = "樹葉"
+
+[[tag_string]]
+resource_id = "wooden_stick"
+value = "木棍"

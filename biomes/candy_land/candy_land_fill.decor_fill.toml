@@ -1,6 +1,0 @@
-resource_id = "candy_land_fill"
-layer_type = 2
-[tile]
-pack_id = "@self"
-resource_key = "strawberry_puree"
-resource_type = 2

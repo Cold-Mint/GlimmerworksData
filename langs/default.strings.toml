@@ -43,10 +43,6 @@ resource_id = "pickaxe_golden"
 value = "Golden Pickaxe"
 
 [[string]]
-resource_id = "pickaxe_candy"
-value = "Candy Pickaxe"
-
-[[string]]
 resource_id = "simple_dig"
 value = "Simple dig module"
 
@@ -135,36 +131,12 @@ resource_id = "ore_gold"
 value = "Gold Ore"
 
 [[string]]
-resource_id = "berry_cream"
-value = "Strawberry Cream Block"
-
-[[string]]
-resource_id = "strawberry_puree"
-value = "Strawberry Puree"
-
-[[string]]
-resource_id = "ore_candy"
-value = "Candy Ore"
-
-[[string]]
-resource_id = "ore_blue_candy"
-value = "Blue Candy Ore"
-
-[[string]]
 resource_id = "leaf_torch"
 value = "Leaf Torch"
 
 [[string]]
 resource_id = "dirt_wall"
 value = "Dirt Wall"
-
-[[string]]
-resource_id = "candy_block"
-value = "Candy Block"
-
-[[string]]
-resource_id = "candy_wrapper_wall"
-value = "Candy Wrapper Wall"
 
 [[string]]
 resource_id = "stone_wall"
@@ -266,6 +238,14 @@ value = "Copper Ingot"
 resource_id = "raw_copper"
 value = "Raw Copper"
 
+[[string]]
+resource_id = "furnace"
+value = "Furnace"
+
+[[string]]
+resource_id = "craft_table"
+value = "Crafting Table"
+
 [[tag_string]]
 resource_id = "fuel"
 value = "Fuel"
@@ -273,3 +253,11 @@ value = "Fuel"
 [[tag_string]]
 resource_id = "wood"
 value = "Wood"
+
+[[tag_string]]
+resource_id = "leaf"
+value = "Leaf"
+
+[[tag_string]]
+resource_id = "wooden_stick"
+value = "Wooden Stick"

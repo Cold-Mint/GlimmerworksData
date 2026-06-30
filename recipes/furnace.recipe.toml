@@ -1,0 +1,14 @@
+resource_id = "furnace"
+recipe_group = 1
+min_technology_level = 1
+
+[[input]]
+required_tag = "stone"
+required_weight = 16
+
+[output]
+amount = 1
+[output.item]
+pack_id = "@self"
+resource_key = "furnace"
+resource_type = 2

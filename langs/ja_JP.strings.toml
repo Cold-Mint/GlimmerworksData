@@ -43,10 +43,6 @@ resource_id = "pickaxe_copper"
 value = "銅のツルハシ"
 
 [[string]]
-resource_id = "pickaxe_candy"
-value = "キャンディツルハシ"
-
-[[string]]
 resource_id = "simple_dig"
 value = "簡易採掘モジュール"
 
@@ -135,36 +131,12 @@ resource_id = "ore_gold"
 value = "金鉱石"
 
 [[string]]
-resource_id = "berry_cream"
-value = "イチゴクリームブロック"
-
-[[string]]
-resource_id = "strawberry_puree"
-value = "イチゴピューレ"
-
-[[string]]
-resource_id = "ore_candy"
-value = "キャンディ鉱石"
-
-[[string]]
-resource_id = "ore_blue_candy"
-value = "ブルーキャンディ鉱石"
-
-[[string]]
 resource_id = "leaf_torch"
 value = "葉っぱ松明"
 
 [[string]]
 resource_id = "dirt_wall"
 value = "土の壁"
-
-[[string]]
-resource_id = "candy_block"
-value = "キャンディブロック"
-
-[[string]]
-resource_id = "candy_wrapper_wall"
-value = "飴紙の壁"
 
 [[string]]
 resource_id = "stone_wall"
@@ -266,6 +238,14 @@ value = "銅インゴット"
 resource_id = "raw_copper"
 value = "粗銅"
 
+[[string]]
+resource_id = "furnace"
+value = "かまど"
+
+[[string]]
+resource_id = "craft_table"
+value = "作業台"
+
 [[tag_string]]
 resource_id = "fuel"
 value = "燃料"
@@ -273,3 +253,11 @@ value = "燃料"
 [[tag_string]]
 resource_id = "wood"
 value = "木材"
+
+[[tag_string]]
+resource_id = "leaf"
+value = "葉っぱ"
+
+[[tag_string]]
+resource_id = "wooden_stick"
+value = "木の棒"
