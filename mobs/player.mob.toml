@@ -8,6 +8,18 @@ max_speed = 18.0
 movement_acceleration = 6.0
 resource_id = "player"
 
+[hand]
+amount = 1
+locked = true
+[hand.ability_item_ref]
+pack_id = "@self"
+resource_key = "simple_dig"
+resource_type = 4
+[hand.item]
+pack_id = "@self"
+resource_key = "hand"
+resource_type = 3
+
 [box2d_filter]
 category_bits = 1
 mask_bits = 2

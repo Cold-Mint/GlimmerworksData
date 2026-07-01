@@ -5,6 +5,7 @@ amount = 1
 
 [[add_items.ability_item_ref]]
 amount = 1
+locked = true
 
 [add_items.ability_item_ref.item]
 pack_id = "@self"
