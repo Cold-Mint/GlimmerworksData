@@ -1,0 +1,20 @@
+#铁粒
+resource_id = "nugget_iron"
+recipe_group = 2
+min_technology_level = 1
+exact_match = false
+
+[[input]]
+required_tag = "raw_iron"
+required_weight = 1
+
+[[input]]
+required_tag = "fuel"
+required_weight = 1
+
+[output]
+amount = 1
+[output.item]
+pack_id = "@self"
+resource_key = "nugget_iron"
+resource_type = 20

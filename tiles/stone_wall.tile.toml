@@ -1,6 +1,7 @@
 hardness = 0.6
 layer_type = 1
 physics_type = 0
+min_mining_efficiency = 0.5
 resource_id = "stone_wall"
 
 [light_source]

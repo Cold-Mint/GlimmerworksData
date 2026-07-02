@@ -1,0 +1,19 @@
+ability = "mining"
+can_use_alone = false
+resource_id = "standard_mining"
+max_durability = 320
+
+[ability_config]
+allow_mine_block = true
+mining_efficiency = 1.0
+mine_able_layer = 3
+
+[name]
+pack_id = "@self"
+resource_key = "standard_mining"
+resource_type = 1
+
+[texture]
+pack_id = "@self"
+resource_key = "items/function_module"
+resource_type = 7

@@ -8,14 +8,19 @@ max_speed = 18.0
 movement_acceleration = 6.0
 resource_id = "player"
 
-[hand]
+[empty_hand_auto_use_item]
+amount = 1
+
+[[empty_hand_auto_use_item.ability_item_ref]]
 amount = 1
 locked = true
-[hand.ability_item_ref]
+
+[empty_hand_auto_use_item.ability_item_ref.item]
 pack_id = "@self"
-resource_key = "simple_dig"
+resource_key = "hand_mining"
 resource_type = 4
-[hand.item]
+
+[empty_hand_auto_use_item.item]
 pack_id = "@self"
 resource_key = "hand"
 resource_type = 3

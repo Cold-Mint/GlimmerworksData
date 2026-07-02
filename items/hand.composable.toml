@@ -5,10 +5,10 @@ unbreakable = true
 
 [name]
 pack_id = "@self"
-resource_key = "pickaxe_stone"
+resource_key = "hand"
 resource_type = 1
 
 [texture]
 pack_id = "@self"
-resource_key = "items/pickaxe_stone"
+resource_key = "items/hand"
 resource_type = 7

@@ -10,5 +10,5 @@ resource_type = 1
 
 [texture]
 pack_id = "@self"
-resource_key = "items/raw_iron"
+resource_key = "materials/raw_iron"
 resource_type = 7

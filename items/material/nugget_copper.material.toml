@@ -1,5 +1,8 @@
 resource_id = "nugget_copper"
-tags = ["nugget_copper"]
+
+[[tags]]
+name = "nugget_copper"
+
 [name]
 pack_id = "@self"
 resource_key = "nugget_copper"
@@ -7,5 +10,5 @@ resource_type = 1
 
 [texture]
 pack_id = "@self"
-resource_key = "items/nugget_copper"
+resource_key = "materials/nugget_copper"
 resource_type = 7

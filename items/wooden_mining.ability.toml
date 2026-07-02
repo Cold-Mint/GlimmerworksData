@@ -1,16 +1,16 @@
-ability = "dig"
+ability = "mining"
 can_use_alone = false
-resource_id = "standard_dig"
-max_durability = 320
+resource_id = "wooden_mining"
+max_durability = 192
 
 [ability_config]
 allow_mine_block = true
-mining_efficiency = 1.0
+mining_efficiency = 0.6
 mine_able_layer = 3
 
 [name]
 pack_id = "@self"
-resource_key = "standard_dig"
+resource_key = "wooden_mining"
 resource_type = 1
 
 [texture]

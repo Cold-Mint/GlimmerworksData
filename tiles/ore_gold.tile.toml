@@ -1,8 +1,10 @@
 hardness = 1.4
 layer_type = 2
 physics_type = 1
+min_mining_efficiency = 0.5
 resource_id = "ore_gold"
 allow_chain_mining = true
+custom_loot_table = true
 
 [light_source]
 pack_id = "@core"
@@ -23,6 +25,11 @@ resource_type = 17
 pack_id = "@self"
 resource_key = "sfx/stone_break"
 resource_type = 12
+
+[loot_table]
+pack_id = "@self"
+resource_key = "ore_gold"
+resource_type = 5
 
 [name]
 pack_id = "@self"

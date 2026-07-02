@@ -1,0 +1,10 @@
+resource_id = "ore_gold"
+
+[[mandatory]]
+max = 1
+min = 1
+
+[mandatory.item]
+pack_id = "@self"
+resource_key = "raw_gold"
+resource_type = 20

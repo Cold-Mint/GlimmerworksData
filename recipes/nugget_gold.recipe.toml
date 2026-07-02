@@ -1,0 +1,20 @@
+#金粒
+resource_id = "nugget_gold"
+recipe_group = 2
+min_technology_level = 1
+exact_match = false
+
+[[input]]
+required_tag = "raw_gold"
+required_weight = 1
+
+[[input]]
+required_tag = "fuel"
+required_weight = 1
+
+[output]
+amount = 1
+[output.item]
+pack_id = "@self"
+resource_key = "nugget_gold"
+resource_type = 20

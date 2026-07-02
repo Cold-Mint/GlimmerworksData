@@ -43,12 +43,16 @@ resource_id = "pickaxe_golden"
 value = "Golden Pickaxe"
 
 [[string]]
-resource_id = "simple_dig"
-value = "Simple dig module"
+resource_id = "wooden_mining"
+value = "Wooden Mining Module"
 
 [[string]]
-resource_id = "standard_dig"
-value = "Standard dig module"
+resource_id = "stone_mining"
+value = "Stone Mining Module"
+
+[[string]]
+resource_id = "standard_mining"
+value = "Standard mining module"
 
 [[string]]
 resource_id = "oak_wood"
@@ -89,18 +93,6 @@ value = "Mining Bonus V"
 [[string]]
 resource_id = "precision_mining"
 value = "Precision Mining"
-
-[[string]]
-resource_id = "fumble_chance_1"
-value = "Fumble I"
-
-[[string]]
-resource_id = "fumble_chance_2"
-value = "Fumble II"
-
-[[string]]
-resource_id = "fumble_chance_3"
-value = "Fumble III"
 
 [[string]]
 resource_id = "chain_mining_1"
@@ -231,7 +223,7 @@ resource_id = "nugget_copper"
 value = "Copper Nugget"
 
 [[string]]
-resource_id = "copper_ingot"
+resource_id = "ingot_copper"
 value = "Copper Ingot"
 
 [[string]]
@@ -245,6 +237,10 @@ value = "Furnace"
 [[string]]
 resource_id = "craft_table"
 value = "Crafting Table"
+
+[[string]]
+resource_id = "hand"
+value = "Hand"
 
 [[tag_string]]
 resource_id = "fuel"
@@ -261,3 +257,44 @@ value = "Leaf"
 [[tag_string]]
 resource_id = "wooden_stick"
 value = "Wooden Stick"
+
+
+[[tag_string]]
+resource_id = "stone"
+value = "Stone"
+
+[[tag_string]]
+resource_id = "nugget_copper"
+value = "Copper Nugget"
+
+[[tag_string]]
+resource_id = "nugget_iron"
+value = "Iron Nugget"
+
+[[tag_string]]
+resource_id = "nugget_gold"
+value = "Gold Nugget"
+
+[[tag_string]]
+resource_id = "ingot_iron"
+value = "Iron Ingot"
+
+[[tag_string]]
+resource_id = "ingot_gold"
+value = "Gold Ingot"
+
+[[tag_string]]
+resource_id = "ingot_copper"
+value = "Copper Ingot"
+
+[[tag_string]]
+resource_id = "raw_iron"
+value = "Raw Iron"
+
+[[tag_string]]
+resource_id = "raw_gold"
+value = "Raw Gold"
+
+[[tag_string]]
+resource_id = "raw_copper"
+value = "Raw Copper"

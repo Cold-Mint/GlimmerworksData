@@ -1,5 +1,8 @@
 resource_id = "ingot_iron"
-tags = ["ingot_iron"]
+
+[[tags]]
+name = "ingot_iron"
+
 [name]
 pack_id = "@self"
 resource_key = "ingot_iron"
@@ -7,5 +10,5 @@ resource_type = 1
 
 [texture]
 pack_id = "@self"
-resource_key = "items/ingot_iron"
+resource_key = "materials/ingot_iron"
 resource_type = 7
