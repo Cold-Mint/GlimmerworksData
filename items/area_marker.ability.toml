@@ -1,4 +1,4 @@
-ability = "areaMarker"
+ability = 2
 can_use_alone = true
 resource_id = "area_marker"
 

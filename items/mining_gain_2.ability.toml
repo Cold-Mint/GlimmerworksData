@@ -1,4 +1,4 @@
-ability = "none"
+ability = 0
 can_use_alone = false
 resource_id = "mining_gain_2"
 

@@ -1,4 +1,4 @@
-ability = "mining"
+ability = 1
 can_use_alone = false
 resource_id = "stone_mining"
 max_durability = 220
