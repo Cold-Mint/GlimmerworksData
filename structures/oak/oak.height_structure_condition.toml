@@ -1,0 +1,3 @@
+resource_id = "oak_height"
+min_height_percent = 0.0
+max_height_percent = 1.0

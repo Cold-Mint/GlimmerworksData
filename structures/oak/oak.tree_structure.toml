@@ -1,0 +1,42 @@
+resource_id = "oak"
+leaf_data_index = 0
+trunk_data_index = 1
+trunk_height_max = 9
+trunk_height_min = 3
+has_leaves = true
+leaf_radius = 3
+leaf_cluster_count = 1
+leaf_vertical_spacing = 1
+trunk_width = 1
+trunk_tile_layer = 2
+leaf_tile_layer = 2
+
+[[condition]]
+pack_id = "@self"
+resource_key = "oak_surface"
+resource_type = 22
+
+[[condition]]
+pack_id = "@self"
+resource_key = "oak_biome"
+resource_type = 22
+
+[[condition]]
+pack_id = "@self"
+resource_key = "oak_height"
+resource_type = 22
+
+[[condition]]
+pack_id = "@self"
+resource_key = "oak_horizontal_spacing"
+resource_type = 22
+
+[[data]]
+pack_id = "@self"
+resource_key = "oak_leaf"
+resource_type = 2
+
+[[data]]
+pack_id = "@self"
+resource_key = "oak"
+resource_type = 2
