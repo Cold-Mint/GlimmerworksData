@@ -6,7 +6,7 @@ unbreakable = true
 [ability_config]
 allow_mine_block = true
 mining_efficiency = 0.45
-mine_able_layer = 3
+mine_able_layer = 2
 
 [name]
 pack_id = "@self"
