@@ -8,19 +8,19 @@ value = "The official core data pack for GlimmerWorks, providing essential game 
 
 [[string]]
 resource_id = "dirt"
-value = "dirt"
+value = "Dirt"
 
 [[string]]
 resource_id = "grass"
-value = "grass"
+value = "Grass"
 
 [[string]]
 resource_id = "sand"
-value = "sand"
+value = "Sand"
 
 [[string]]
 resource_id = "snow"
-value = "snow"
+value = "Snow"
 
 [[string]]
 resource_id = "pickaxe_wooden"
@@ -52,23 +52,23 @@ value = "Stone Mining Module"
 
 [[string]]
 resource_id = "standard_mining"
-value = "Standard mining module"
+value = "Standard Mining Module"
 
 [[string]]
 resource_id = "oak_wood"
-value = "oak wood"
+value = "Oak wood"
 
 [[string]]
 resource_id = "oak_leaf"
-value = "oak leaf"
+value = "Oak Leaf"
 
 [[string]]
 resource_id = "oak"
-value = "oak"
+value = "Oak"
 
 [[string]]
 resource_id = "area_marker"
-value = "Precision surveying instrument"
+value = "Precision Surveying Instrument"
 
 [[string]]
 resource_id = "mining_gain_1"
@@ -298,3 +298,15 @@ value = "Raw Gold"
 [[tag_string]]
 resource_id = "raw_copper"
 value = "Raw Copper"
+
+[[tag_string]]
+resource_id = "stone_wall"
+value = "Stone Wall"
+
+[[tag_string]]
+resource_id = "dirt"
+value = "Dirt"
+
+[[tag_string]]
+resource_id = "dirt_wall"
+value = "Dirt Wall"

@@ -4,6 +4,9 @@ physics_type = 0
 min_mining_efficiency = 0.5
 resource_id = "stone_wall"
 
+[[tags]]
+name = "stone_wall"
+
 [light_source]
 pack_id = "@core"
 resource_key = "none"

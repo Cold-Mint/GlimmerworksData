@@ -1,0 +1,13 @@
+resource_id = "{id}"
+recipe_group = 1
+min_technology_level = 1
+[[input]]
+required_tag = "{id}"
+required_weight = 1
+
+[output]
+amount = 1
+[output.item]
+pack_id = "@self"
+resource_key = "{id}_wall"
+resource_type = 2

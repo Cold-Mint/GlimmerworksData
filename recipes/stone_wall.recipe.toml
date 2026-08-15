@@ -1,0 +1,2 @@
+#@set(id,stone)
+#@insert_template(tile_to_wall_recipe)

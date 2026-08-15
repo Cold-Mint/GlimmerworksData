@@ -298,3 +298,15 @@ value = "粗金"
 [[tag_string]]
 resource_id = "raw_copper"
 value = "粗銅"
+
+[[tag_string]]
+resource_id = "stone_wall"
+value = "石頭牆"
+
+[[tag_string]]
+resource_id = "dirt"
+value = "泥土"
+
+[[tag_string]]
+resource_id = "dirt_wall"
+value = "泥土牆"
