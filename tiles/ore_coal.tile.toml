@@ -1,0 +1,47 @@
+hardness = 1.05
+layer_type = 2
+physics_type = 1
+min_mining_efficiency = 0.5
+resource_id = "ore_coal"
+allow_chain_mining = true
+custom_loot_table = true
+
+[light_source]
+pack_id = "@core"
+resource_key = "none"
+resource_type = 16
+
+[back_light_mask]
+pack_id = "@core"
+resource_key = "low"
+resource_type = 17
+
+[side_light_mask]
+pack_id = "@core"
+resource_key = "medium"
+resource_type = 17
+
+[break_sfx]
+pack_id = "@self"
+resource_key = "sfx/stone_break"
+resource_type = 12
+
+[loot_table]
+pack_id = "@self"
+resource_key = "ore_coal"
+resource_type = 5
+
+[name]
+pack_id = "@self"
+resource_key = "ore_coal"
+resource_type = 1
+
+[place_sfx]
+pack_id = "@self"
+resource_key = "sfx/stone_place"
+resource_type = 12
+
+[texture]
+pack_id = "@self"
+resource_key = "tiles/ore_coal"
+resource_type = 7

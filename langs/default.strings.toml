@@ -123,6 +123,14 @@ resource_id = "ore_gold"
 value = "Gold Ore"
 
 [[string]]
+resource_id = "ore_coal"
+value = "Coal Ore"
+
+[[string]]
+resource_id = "coal"
+value = "Coal"
+
+[[string]]
 resource_id = "leaf_torch"
 value = "Leaf Torch"
 

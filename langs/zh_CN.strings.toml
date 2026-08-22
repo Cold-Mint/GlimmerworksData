@@ -122,6 +122,13 @@ value = "铁矿石"
 resource_id = "ore_gold"
 value = "金矿石"
 
+[[string]]
+resource_id = "ore_coal"
+value = "煤矿石"
+
+[[string]]
+resource_id = "coal"
+value = "煤"
 
 [[string]]
 resource_id = "leaf_torch"

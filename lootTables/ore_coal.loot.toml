@@ -1,0 +1,10 @@
+resource_id = "ore_coal"
+
+[[mandatory]]
+max = 1
+min = 1
+
+[mandatory.item]
+pack_id = "@self"
+resource_key = "coal"
+resource_type = 20

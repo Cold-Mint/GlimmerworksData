@@ -19,6 +19,11 @@ resource_type = 14
 
 [[decors]]
 pack_id = "@self"
+resource_key = "cave_ore_coal_mineral"
+resource_type = 14
+
+[[decors]]
+pack_id = "@self"
 resource_key = "cave_ore_copper_mineral"
 resource_type = 14
 
