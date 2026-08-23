@@ -1,4 +1,4 @@
 #@set(id,hammer_golden)
-#@set(slot,3)
+#@set(slot,5)
 #@set(dur,160)
 #@insert_template(tool_composable)

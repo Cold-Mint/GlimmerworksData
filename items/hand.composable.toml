@@ -1,5 +1,5 @@
 resource_id = "hand"
-slot_size = 1
+slot_size = 2
 max_durability = 128
 unbreakable = true
 
