@@ -20,6 +20,15 @@ pack_id = "@self"
 resource_key = "hand_mining"
 resource_type = 4
 
+[[empty_hand_auto_use_item.ability_item_ref]]
+amount = 1
+locked = true
+
+[empty_hand_auto_use_item.ability_item_ref.item]
+pack_id = "@self"
+resource_key = "ground_mining"
+resource_type = 4
+
 [empty_hand_auto_use_item.item]
 pack_id = "@self"
 resource_key = "hand"

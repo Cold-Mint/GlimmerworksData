@@ -1,10 +1,10 @@
-resource_id = "pickaxe_stone"
+resource_id = "{tool}_{mat}"
 recipe_group = 1
 min_technology_level = 1
 
 [[input]]
-required_tag = "stone"
-required_weight = 3
+required_tag = "{head_tag}"
+required_weight = {head_weight}
 
 [[input]]
 required_tag = "wooden_stick"
@@ -15,7 +15,7 @@ amount = 1
 
 [output.item]
 pack_id = "@self"
-resource_key = "pickaxe_stone"
+resource_key = "{tool}_{mat}"
 resource_type = 3
 
 [[output.ability_item_ref]]
@@ -24,5 +24,14 @@ locked = true
 
 [output.ability_item_ref.item]
 pack_id = "@self"
-resource_key = "stone_mining"
+resource_key = "{mat}_mining"
+resource_type = 4
+
+[[output.ability_item_ref]]
+amount = 1
+locked = true
+
+[output.ability_item_ref.item]
+pack_id = "@self"
+resource_key = "{layer_key}"
 resource_type = 4

@@ -43,6 +43,26 @@ resource_id = "pickaxe_copper"
 value = "銅鎬"
 
 [[string]]
+resource_id = "hammer_wooden"
+value = "木錘"
+
+[[string]]
+resource_id = "hammer_stone"
+value = "石錘"
+
+[[string]]
+resource_id = "hammer_copper"
+value = "銅錘"
+
+[[string]]
+resource_id = "hammer_iron"
+value = "鐵錘"
+
+[[string]]
+resource_id = "hammer_golden"
+value = "金錘"
+
+[[string]]
 resource_id = "wooden_mining"
 value = "木質挖掘模塊"
 
@@ -51,8 +71,24 @@ resource_id = "stone_mining"
 value = "石質挖掘模塊"
 
 [[string]]
-resource_id = "standard_mining"
-value = "標準挖掘模組"
+resource_id = "copper_mining"
+value = "銅質挖掘模塊"
+
+[[string]]
+resource_id = "iron_mining"
+value = "鐵質挖掘模塊"
+
+[[string]]
+resource_id = "golden_mining"
+value = "金質挖掘模塊"
+
+[[string]]
+resource_id = "wall_mining"
+value = "牆體挖掘授權"
+
+[[string]]
+resource_id = "ground_mining"
+value = "方塊挖掘授權"
 
 [[string]]
 resource_id = "oak_wood"

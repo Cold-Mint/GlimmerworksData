@@ -43,6 +43,26 @@ resource_id = "pickaxe_copper"
 value = "銅のツルハシ"
 
 [[string]]
+resource_id = "hammer_wooden"
+value = "木のハンマー"
+
+[[string]]
+resource_id = "hammer_stone"
+value = "石のハンマー"
+
+[[string]]
+resource_id = "hammer_copper"
+value = "銅のハンマー"
+
+[[string]]
+resource_id = "hammer_iron"
+value = "鉄のハンマー"
+
+[[string]]
+resource_id = "hammer_golden"
+value = "金のハンマー"
+
+[[string]]
 resource_id = "wooden_mining"
 value = "木製採掘モジュール"
 
@@ -51,8 +71,24 @@ resource_id = "stone_mining"
 value = "石製採掘モジュール"
 
 [[string]]
-resource_id = "standard_mining"
-value = "標準採掘モジュール"
+resource_id = "copper_mining"
+value = "銅製採掘モジュール"
+
+[[string]]
+resource_id = "iron_mining"
+value = "鉄製採掘モジュール"
+
+[[string]]
+resource_id = "golden_mining"
+value = "金製採掘モジュール"
+
+[[string]]
+resource_id = "wall_mining"
+value = "壁採掘ライセンス"
+
+[[string]]
+resource_id = "ground_mining"
+value = "ブロック採掘ライセンス"
 
 [[string]]
 resource_id = "oak_wood"

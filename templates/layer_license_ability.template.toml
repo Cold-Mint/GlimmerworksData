@@ -1,0 +1,16 @@
+ability = 0
+can_use_alone = false
+resource_id = "{layer_name}_mining"
+
+[ability_config]
+mine_able_layer = {layer_val}
+
+[name]
+pack_id = "@self"
+resource_key = "{layer_name}_mining"
+resource_type = 1
+
+[texture]
+pack_id = "@self"
+resource_key = "items/data_module"
+resource_type = 7

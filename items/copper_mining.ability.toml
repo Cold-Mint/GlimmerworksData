@@ -1,0 +1,4 @@
+#@set(mat,copper)
+#@set(dur,260)
+#@set(eff,0.9)
+#@insert_template(material_mining_ability)

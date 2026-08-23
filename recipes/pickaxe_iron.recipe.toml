@@ -1,6 +1,6 @@
 #@set(tool,pickaxe)
-#@set(mat,wooden)
-#@set(head_tag,wood)
+#@set(mat,iron)
+#@set(head_tag,ingot_iron)
 #@set(head_weight,3)
 #@set(layer_key,ground_mining)
 #@insert_template(tool_recipe)

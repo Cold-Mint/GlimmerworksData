@@ -1,13 +1,4 @@
-resource_id = "pickaxe_stone"
-slot_size = 1
-max_durability = 128
-
-[name]
-pack_id = "@self"
-resource_key = "pickaxe_stone"
-resource_type = 1
-
-[texture]
-pack_id = "@self"
-resource_key = "items/pickaxe_stone"
-resource_type = 7
+#@set(id,pickaxe_stone)
+#@set(slot,1)
+#@set(dur,128)
+#@insert_template(tool_composable)

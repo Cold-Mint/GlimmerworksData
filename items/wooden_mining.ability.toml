@@ -1,19 +1,4 @@
-ability = 1
-can_use_alone = false
-resource_id = "wooden_mining"
-max_durability = 192
-
-[ability_config]
-allow_mine_block = true
-mining_efficiency = 0.6
-mine_able_layer = 3
-
-[name]
-pack_id = "@self"
-resource_key = "wooden_mining"
-resource_type = 1
-
-[texture]
-pack_id = "@self"
-resource_key = "items/function_module"
-resource_type = 7
+#@set(mat,wooden)
+#@set(dur,192)
+#@set(eff,0.6)
+#@insert_template(material_mining_ability)

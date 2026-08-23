@@ -1,19 +1,4 @@
-ability = 1
-can_use_alone = false
-resource_id = "stone_mining"
-max_durability = 220
-
-[ability_config]
-allow_mine_block = true
-mining_efficiency = 0.8
-mine_able_layer = 3
-
-[name]
-pack_id = "@self"
-resource_key = "stone_mining"
-resource_type = 1
-
-[texture]
-pack_id = "@self"
-resource_key = "items/function_module"
-resource_type = 7
+#@set(mat,stone)
+#@set(dur,220)
+#@set(eff,0.8)
+#@insert_template(material_mining_ability)

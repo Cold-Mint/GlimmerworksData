@@ -1,0 +1,6 @@
+#@set(tool,hammer)
+#@set(mat,stone)
+#@set(head_tag,stone)
+#@set(head_weight,4)
+#@set(layer_key,wall_mining)
+#@insert_template(tool_recipe)

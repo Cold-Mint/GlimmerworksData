@@ -1,4 +1,4 @@
-#@set(id,pickaxe_copper)
+#@set(id,hammer_copper)
 #@set(slot,1)
 #@set(dur,180)
 #@insert_template(tool_composable)

@@ -1,16 +1,15 @@
 ability = 1
 can_use_alone = false
-resource_id = "standard_mining"
-max_durability = 320
+resource_id = "{mat}_mining"
+max_durability = {dur}
 
 [ability_config]
 allow_mine_block = true
-mining_efficiency = 1.0
-mine_able_layer = 3
+mining_efficiency = {eff}
 
 [name]
 pack_id = "@self"
-resource_key = "standard_mining"
+resource_key = "{mat}_mining"
 resource_type = 1
 
 [texture]

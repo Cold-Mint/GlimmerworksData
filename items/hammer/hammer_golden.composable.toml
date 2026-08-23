@@ -1,4 +1,4 @@
-#@set(id,pickaxe_golden)
+#@set(id,hammer_golden)
 #@set(slot,3)
 #@set(dur,160)
 #@insert_template(tool_composable)

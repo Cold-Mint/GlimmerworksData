@@ -43,6 +43,26 @@ resource_id = "pickaxe_golden"
 value = "金镐"
 
 [[string]]
+resource_id = "hammer_wooden"
+value = "木锤"
+
+[[string]]
+resource_id = "hammer_stone"
+value = "石锤"
+
+[[string]]
+resource_id = "hammer_copper"
+value = "铜锤"
+
+[[string]]
+resource_id = "hammer_iron"
+value = "铁锤"
+
+[[string]]
+resource_id = "hammer_golden"
+value = "金锤"
+
+[[string]]
 resource_id = "wooden_mining"
 value = "木质挖掘模块"
 
@@ -51,8 +71,24 @@ resource_id = "stone_mining"
 value = "石质挖掘模块"
 
 [[string]]
-resource_id = "standard_mining"
-value = "标准挖掘模块"
+resource_id = "copper_mining"
+value = "铜质挖掘模块"
+
+[[string]]
+resource_id = "iron_mining"
+value = "铁质挖掘模块"
+
+[[string]]
+resource_id = "golden_mining"
+value = "金质挖掘模块"
+
+[[string]]
+resource_id = "wall_mining"
+value = "墙体挖掘授权"
+
+[[string]]
+resource_id = "ground_mining"
+value = "方块挖掘授权"
 
 [[string]]
 resource_id = "oak_wood"

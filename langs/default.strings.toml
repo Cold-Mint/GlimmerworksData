@@ -43,6 +43,26 @@ resource_id = "pickaxe_golden"
 value = "Golden Pickaxe"
 
 [[string]]
+resource_id = "hammer_wooden"
+value = "Wooden Hammer"
+
+[[string]]
+resource_id = "hammer_stone"
+value = "Stone Hammer"
+
+[[string]]
+resource_id = "hammer_copper"
+value = "Copper Hammer"
+
+[[string]]
+resource_id = "hammer_iron"
+value = "Iron Hammer"
+
+[[string]]
+resource_id = "hammer_golden"
+value = "Golden Hammer"
+
+[[string]]
 resource_id = "wooden_mining"
 value = "Wooden Mining Module"
 
@@ -51,8 +71,24 @@ resource_id = "stone_mining"
 value = "Stone Mining Module"
 
 [[string]]
-resource_id = "standard_mining"
-value = "Standard Mining Module"
+resource_id = "copper_mining"
+value = "Copper Mining Module"
+
+[[string]]
+resource_id = "iron_mining"
+value = "Iron Mining Module"
+
+[[string]]
+resource_id = "golden_mining"
+value = "Golden Mining Module"
+
+[[string]]
+resource_id = "wall_mining"
+value = "Wall Mining License"
+
+[[string]]
+resource_id = "ground_mining"
+value = "Block Mining License"
 
 [[string]]
 resource_id = "oak_wood"
