@@ -171,6 +171,10 @@ resource_id = "leaf_torch"
 value = "树叶火把"
 
 [[string]]
+resource_id = "coal_torch"
+value = "煤火把"
+
+[[string]]
 resource_id = "dirt_wall"
 value = "泥土墙"
 
@@ -353,3 +357,11 @@ value = "泥土"
 [[tag_string]]
 resource_id = "dirt_wall"
 value = "泥土墙"
+
+[[tag_string]]
+resource_id = "coal"
+value = "煤"
+
+[[tag_string]]
+resource_id = "sand"
+value = "沙子"

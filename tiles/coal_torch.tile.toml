@@ -1,42 +1,39 @@
-hardness = 0.8
+hardness = 0.5
 layer_type = 2
-physics_type = 1
-resource_id = "sand"
-
-[[tags]]
-name = "sand"
+physics_type = 0
+resource_id = "coal_torch"
 
 [light_source]
-pack_id = "@core"
-resource_key = "none"
+pack_id = "@self"
+resource_key = "coal_torch"
 resource_type = 16
 
 [back_light_mask]
 pack_id = "@core"
-resource_key = "low"
+resource_key = "medium"
 resource_type = 17
 
 [side_light_mask]
 pack_id = "@core"
-resource_key = "medium"
+resource_key = "high"
 resource_type = 17
 
 [break_sfx]
 pack_id = "@self"
-resource_key = "sfx/block_break"
+resource_key = "sfx/wood_break"
 resource_type = 12
 
 [name]
 pack_id = "@self"
-resource_key = "sand"
+resource_key = "coal_torch"
 resource_type = 1
 
 [place_sfx]
 pack_id = "@self"
-resource_key = "sfx/block_place"
+resource_key = "sfx/wood_place"
 resource_type = 12
 
 [texture]
 pack_id = "@self"
-resource_key = "tiles/sand"
+resource_key = "tiles/coal_torch"
 resource_type = 7

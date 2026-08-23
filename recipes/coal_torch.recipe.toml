@@ -1,0 +1,16 @@
+resource_id = "coal_torch"
+
+[[input]]
+required_tag = "wooden_stick"
+required_weight = 1
+
+[[input]]
+required_tag = "coal"
+required_weight = 1
+
+[output]
+amount = 4
+[output.item]
+pack_id = "@self"
+resource_key = "coal_torch"
+resource_type = 2

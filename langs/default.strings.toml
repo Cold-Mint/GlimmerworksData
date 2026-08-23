@@ -171,6 +171,10 @@ resource_id = "leaf_torch"
 value = "Leaf Torch"
 
 [[string]]
+resource_id = "coal_torch"
+value = "Coal Torch"
+
+[[string]]
 resource_id = "dirt_wall"
 value = "Dirt Wall"
 
@@ -354,3 +358,11 @@ value = "Dirt"
 [[tag_string]]
 resource_id = "dirt_wall"
 value = "Dirt Wall"
+
+[[tag_string]]
+resource_id = "coal"
+value = "Coal"
+
+[[tag_string]]
+resource_id = "sand"
+value = "Sand"

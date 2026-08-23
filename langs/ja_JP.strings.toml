@@ -171,6 +171,10 @@ resource_id = "leaf_torch"
 value = "葉っぱ松明"
 
 [[string]]
+resource_id = "coal_torch"
+value = "石炭松明"
+
+[[string]]
 resource_id = "dirt_wall"
 value = "土の壁"
 
@@ -353,3 +357,11 @@ value = "土"
 [[tag_string]]
 resource_id = "dirt_wall"
 value = "土の壁"
+
+[[tag_string]]
+resource_id = "coal"
+value = "石炭"
+
+[[tag_string]]
+resource_id = "sand"
+value = "砂"
