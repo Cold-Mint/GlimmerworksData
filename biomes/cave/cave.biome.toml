@@ -37,6 +37,11 @@ pack_id = "@self"
 resource_key = "cave_ore_gold_mineral"
 resource_type = 14
 
+[[decors]]
+pack_id = "@self"
+resource_key = "cave_air_mineral"
+resource_type = 14
+
 
 [[decors]]
 pack_id = "@self"

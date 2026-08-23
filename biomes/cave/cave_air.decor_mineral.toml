@@ -1,0 +1,13 @@
+resource_id = "cave_air_mineral"
+layer_type = 2
+noise_type = 0
+frequency = 0.06
+ore_spawn_min_noise_threshold = 0.90
+ore_spawn_max_noise_threshold = 0.95
+seed_offset = 741258
+min_spawn_elevation = 0.0
+max_spawn_elevation = 1.0
+[ore]
+pack_id = "@core"
+resource_type = 2
+resource_key = "air"
