@@ -1,6 +1,12 @@
 resource_id = "plains_surface"
 layer_type = 2
-[tile]
+
+[open_air_tile]
 pack_id = "@self"
 resource_key = "grass"
+resource_type = 2
+
+[underwater_tile]
+pack_id = "@self"
+resource_key = "sand"
 resource_type = 2
