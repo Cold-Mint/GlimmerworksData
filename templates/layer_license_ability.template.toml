@@ -1,5 +1,6 @@
 ability = 0
 can_use_alone = false
+max_durability = {dur}
 resource_id = "{layer_name}_mining"
 
 [ability_config]

@@ -1,4 +1,4 @@
 #@set(mat,golden)
 #@set(dur,240)
-#@set(eff,1.2)
+#@set(eff,4.0)
 #@insert_template(material_mining_ability)

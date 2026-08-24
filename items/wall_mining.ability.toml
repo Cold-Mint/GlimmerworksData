@@ -1,3 +1,4 @@
 #@set(layer_name,wall)
 #@set(layer_val,1)
+#@set(dur,512)
 #@insert_template(layer_license_ability)

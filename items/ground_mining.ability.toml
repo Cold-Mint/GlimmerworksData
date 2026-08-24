@@ -1,3 +1,4 @@
 #@set(layer_name,ground)
 #@set(layer_val,2)
+#@set(dur,512)
 #@insert_template(layer_license_ability)
