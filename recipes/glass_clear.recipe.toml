@@ -2,7 +2,6 @@
 resource_id = "glass_clear"
 recipe_group = 2
 min_technology_level = 1
-exact_match = false
 
 [[input]]
 required_tag = "sand"
@@ -11,6 +10,7 @@ required_weight = 1
 [[input]]
 required_tag = "fuel"
 required_weight = 1
+exact_match = false
 
 [output]
 amount = 1
