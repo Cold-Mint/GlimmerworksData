@@ -1,0 +1,21 @@
+resource_id = "full_moon"
+
+[[conditions]]
+pack_id = "@self"
+resource_key = "night"
+resource_type = 30
+
+[[conditions]]
+pack_id = "@self"
+resource_key = "full_moon"
+resource_type = 30
+
+[[elements]]
+pack_id = "@self"
+resource_key = "moon"
+resource_type = 31
+
+[[elements]]
+pack_id = "@self"
+resource_key = "star"
+resource_type = 31

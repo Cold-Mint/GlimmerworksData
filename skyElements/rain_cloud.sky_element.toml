@@ -1,0 +1,10 @@
+resource_id = "rain_cloud"
+type = 5
+slot = 2
+animation_type = 3
+priority = 1
+
+[pipeline]
+pack_id = "@core"
+resource_key = "sky_rain"
+resource_type = 25

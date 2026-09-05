@@ -1,0 +1,10 @@
+resource_id = "sun"
+type = 1
+slot = 0
+animation_type = 1
+priority = 0
+
+[pipeline]
+pack_id = "@core"
+resource_key = "sky_sun"
+resource_type = 25

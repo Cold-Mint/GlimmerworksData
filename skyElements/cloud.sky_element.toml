@@ -1,0 +1,10 @@
+resource_id = "cloud"
+type = 3
+slot = 2
+animation_type = 3
+priority = 0
+
+[pipeline]
+pack_id = "@core"
+resource_key = "sky_cloud"
+resource_type = 25

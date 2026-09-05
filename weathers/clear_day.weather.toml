@@ -1,0 +1,16 @@
+resource_id = "clear_day"
+
+[[conditions]]
+pack_id = "@self"
+resource_key = "day"
+resource_type = 30
+
+[[elements]]
+pack_id = "@self"
+resource_key = "sun"
+resource_type = 31
+
+[[elements]]
+pack_id = "@self"
+resource_key = "cloud"
+resource_type = 31

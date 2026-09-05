@@ -1,0 +1,118 @@
+resource_id = "nether"
+
+# 时间冻结：时间永远定格在 initial_time（午夜），无昼夜循环
+time_flow_speed = 0.0
+initial_time = 0.5
+
+# 自定义环境光关键帧（暗红色调，恒定的地狱光照）
+[[ambient_light_keyframes]]
+t = 0.0
+r = 140
+g = 50
+b = 40
+intensity = 0.15
+
+[[ambient_light_keyframes]]
+t = 1.0
+r = 140
+g = 50
+b = 40
+intensity = 0.15
+
+[continent_noise]
+noise_type = 3
+frequency = 0.0008
+fractal_type = 0
+octaves = 3
+lacunarity = 2.0
+gain = 0.5
+weighted_strength = 0.0
+ping_pong_strength = 2.0
+cellular_distance_function = 1
+cellular_return_type = 1
+cellular_jitter = 1.0
+seed_offset = 1000
+
+[mountain_noise]
+noise_type = 3
+frequency = 0.03
+fractal_type = 2
+octaves = 5
+lacunarity = 2.2
+gain = 0.55
+weighted_strength = 0.0
+ping_pong_strength = 2.0
+cellular_distance_function = 1
+cellular_return_type = 1
+cellular_jitter = 1.0
+seed_offset = 1001
+
+[hills_noise]
+noise_type = 3
+frequency = 0.06
+fractal_type = 0
+octaves = 3
+lacunarity = 2.0
+gain = 0.5
+weighted_strength = 0.0
+ping_pong_strength = 2.0
+cellular_distance_function = 1
+cellular_return_type = 1
+cellular_jitter = 1.0
+seed_offset = 1002
+
+[humidity_noise]
+noise_type = 3
+frequency = 0.004
+fractal_type = 0
+octaves = 3
+lacunarity = 2.0
+gain = 0.5
+weighted_strength = 0.0
+ping_pong_strength = 2.0
+cellular_distance_function = 1
+cellular_return_type = 1
+cellular_jitter = 1.0
+seed_offset = 1100
+
+[temperature_noise]
+noise_type = 3
+frequency = 0.02
+fractal_type = 0
+octaves = 3
+lacunarity = 2.0
+gain = 0.5
+weighted_strength = 0.0
+ping_pong_strength = 2.0
+cellular_distance_function = 1
+cellular_return_type = 1
+cellular_jitter = 1.0
+seed_offset = 1200
+
+[weirdness_noise]
+noise_type = 0
+frequency = 1.0
+fractal_type = 0
+octaves = 3
+lacunarity = 2.0
+gain = 0.5
+weighted_strength = 0.0
+ping_pong_strength = 2.0
+cellular_distance_function = 1
+cellular_return_type = 1
+cellular_jitter = 1.0
+seed_offset = 1300
+
+[erosion_noise]
+noise_type = 3
+frequency = 0.002
+fractal_type = 0
+octaves = 3
+lacunarity = 2.0
+gain = 0.5
+weighted_strength = 0.0
+ping_pong_strength = 2.0
+cellular_distance_function = 1
+cellular_return_type = 1
+cellular_jitter = 1.0
+seed_offset = 1400

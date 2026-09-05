@@ -1,0 +1,10 @@
+resource_id = "moon"
+type = 2
+slot = 1
+animation_type = 2
+priority = 0
+
+[pipeline]
+pack_id = "@core"
+resource_key = "sky_moon"
+resource_type = 25

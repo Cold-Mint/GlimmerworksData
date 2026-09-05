@@ -1,0 +1,10 @@
+resource_id = "star"
+type = 4
+slot = 3
+animation_type = 4
+priority = 0
+
+[pipeline]
+pack_id = "@core"
+resource_key = "sky_star"
+resource_type = 25

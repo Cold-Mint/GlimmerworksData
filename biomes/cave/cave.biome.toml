@@ -47,3 +47,13 @@ resource_type = 14
 pack_id = "@self"
 resource_key = "cave_wall_fill"
 resource_type = 14
+
+[[dimensions]]
+pack_id = "@self"
+resource_key = "overworld"
+resource_type = 28
+
+[[dimensions]]
+pack_id = "@self"
+resource_key = "nether"
+resource_type = 28

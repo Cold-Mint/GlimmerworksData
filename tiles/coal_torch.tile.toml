@@ -37,3 +37,9 @@ resource_type = 12
 pack_id = "@self"
 resource_key = "tiles/coal_torch"
 resource_type = 7
+
+[pipeline]
+pack_id = "@core"
+resource_key = "glow"
+resource_type = 25
+

@@ -1,0 +1,203 @@
+resource_id = "overworld"
+
+# 时间流动速度：0 = 禁用时间流动（无昼夜循环）
+time_flow_speed = 1.0
+# 初始时间（0-1）：0=清晨 0.25=正午 0.5=午夜 1=次日清晨
+initial_time = 0.0
+
+[continent_noise]
+noise_type = 3
+frequency = 0.001
+fractal_type = 0
+octaves = 3
+lacunarity = 2.0
+gain = 0.5
+weighted_strength = 0.0
+ping_pong_strength = 2.0
+cellular_distance_function = 1
+cellular_return_type = 1
+cellular_jitter = 1.0
+seed_offset = 0
+
+[mountain_noise]
+noise_type = 3
+frequency = 0.01
+fractal_type = 0
+octaves = 3
+lacunarity = 2.0
+gain = 0.5
+weighted_strength = 0.0
+ping_pong_strength = 2.0
+cellular_distance_function = 1
+cellular_return_type = 1
+cellular_jitter = 1.0
+seed_offset = 1
+
+[hills_noise]
+noise_type = 3
+frequency = 0.02
+fractal_type = 0
+octaves = 3
+lacunarity = 2.0
+gain = 0.5
+weighted_strength = 0.0
+ping_pong_strength = 2.0
+cellular_distance_function = 1
+cellular_return_type = 1
+cellular_jitter = 1.0
+seed_offset = 2
+
+[humidity_noise]
+noise_type = 3
+frequency = 0.005
+fractal_type = 0
+octaves = 3
+lacunarity = 2.0
+gain = 0.5
+weighted_strength = 0.0
+ping_pong_strength = 2.0
+cellular_distance_function = 1
+cellular_return_type = 1
+cellular_jitter = 1.0
+seed_offset = 100
+
+[temperature_noise]
+noise_type = 3
+frequency = 0.01
+fractal_type = 0
+octaves = 3
+lacunarity = 2.0
+gain = 0.5
+weighted_strength = 0.0
+ping_pong_strength = 2.0
+cellular_distance_function = 1
+cellular_return_type = 1
+cellular_jitter = 1.0
+seed_offset = 200
+
+[weirdness_noise]
+noise_type = 0
+frequency = 1.0
+fractal_type = 0
+octaves = 3
+lacunarity = 2.0
+gain = 0.5
+weighted_strength = 0.0
+ping_pong_strength = 2.0
+cellular_distance_function = 1
+cellular_return_type = 1
+cellular_jitter = 1.0
+seed_offset = 300
+
+[erosion_noise]
+noise_type = 3
+frequency = 0.003
+fractal_type = 0
+octaves = 3
+lacunarity = 2.0
+gain = 0.5
+weighted_strength = 0.0
+ping_pong_strength = 2.0
+cellular_distance_function = 1
+cellular_return_type = 1
+cellular_jitter = 1.0
+seed_offset = 400
+
+# 天气强度轴等级（值 + 权重）
+[[weather_intensity_levels]]
+value = 0.0
+weight = 3.0
+
+[[weather_intensity_levels]]
+value = 1.0
+weight = 1.0
+
+weather_intensity_min_duration = 60.0
+weather_intensity_max_duration = 240.0
+
+# 生效天气列表（全部求值，命中者合成）
+[[weathers]]
+pack_id = "@self"
+resource_key = "full_moon"
+resource_type = 29
+
+[[weathers]]
+pack_id = "@self"
+resource_key = "rainy"
+resource_type = 29
+
+[[weathers]]
+pack_id = "@self"
+resource_key = "starry_night"
+resource_type = 29
+
+[[weathers]]
+pack_id = "@self"
+resource_key = "clear_day"
+resource_type = 29
+
+# 天空颜色关键帧（顶部/地平线颜色资源引用）
+[[sky_color_keyframes]]
+t = 0.0
+
+[sky_color_keyframes.top]
+pack_id = "@self"
+resource_key = "sky_morning_top"
+resource_type = 15
+
+[sky_color_keyframes.horizon]
+pack_id = "@self"
+resource_key = "sky_morning_horizon"
+resource_type = 15
+
+[[sky_color_keyframes]]
+t = 0.25
+
+[sky_color_keyframes.top]
+pack_id = "@self"
+resource_key = "sky_noon_top"
+resource_type = 15
+
+[sky_color_keyframes.horizon]
+pack_id = "@self"
+resource_key = "sky_noon_horizon"
+resource_type = 15
+
+[[sky_color_keyframes]]
+t = 0.5
+
+[sky_color_keyframes.top]
+pack_id = "@self"
+resource_key = "sky_midnight_top"
+resource_type = 15
+
+[sky_color_keyframes.horizon]
+pack_id = "@self"
+resource_key = "sky_midnight_horizon"
+resource_type = 15
+
+[[sky_color_keyframes]]
+t = 0.75
+
+[sky_color_keyframes.top]
+pack_id = "@self"
+resource_key = "sky_predawn_top"
+resource_type = 15
+
+[sky_color_keyframes.horizon]
+pack_id = "@self"
+resource_key = "sky_predawn_horizon"
+resource_type = 15
+
+[[sky_color_keyframes]]
+t = 1.0
+
+[sky_color_keyframes.top]
+pack_id = "@self"
+resource_key = "sky_morning_top"
+resource_type = 15
+
+[sky_color_keyframes.horizon]
+pack_id = "@self"
+resource_key = "sky_morning_horizon"
+resource_type = 15
