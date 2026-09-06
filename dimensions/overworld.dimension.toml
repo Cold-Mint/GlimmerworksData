@@ -103,101 +103,30 @@ cellular_return_type = 1
 cellular_jitter = 1.0
 seed_offset = 400
 
-# 天气强度轴等级（值 + 权重）
-[[weather_intensity_levels]]
-value = 0.0
-weight = 3.0
-
-[[weather_intensity_levels]]
-value = 1.0
-weight = 1.0
-
-weather_intensity_min_duration = 60.0
-weather_intensity_max_duration = 240.0
-
-# 生效天气列表（全部求值，命中者合成）
-[[weathers]]
-pack_id = "@self"
-resource_key = "full_moon"
-resource_type = 29
-
-[[weathers]]
-pack_id = "@self"
-resource_key = "rainy"
-resource_type = 29
-
-[[weathers]]
-pack_id = "@self"
-resource_key = "starry_night"
-resource_type = 29
-
-[[weathers]]
-pack_id = "@self"
-resource_key = "clear_day"
-resource_type = 29
-
-# 天空颜色关键帧（顶部/地平线颜色资源引用）
-[[sky_color_keyframes]]
+[[ambient_light_keyframes]]
 t = 0.0
-
-[sky_color_keyframes.top]
+[ambient_light_keyframes.color]
 pack_id = "@self"
-resource_key = "sky_morning_top"
+resource_key = "morning_overworld"
 resource_type = 15
 
-[sky_color_keyframes.horizon]
+[[ambient_light_keyframes]]
+t = 0.0
+[ambient_light_keyframes.color]
 pack_id = "@self"
-resource_key = "sky_morning_horizon"
+resource_key = "morning_overworld"
 resource_type = 15
 
-[[sky_color_keyframes]]
-t = 0.25
-
-[sky_color_keyframes.top]
-pack_id = "@self"
-resource_key = "sky_noon_top"
-resource_type = 15
-
-[sky_color_keyframes.horizon]
-pack_id = "@self"
-resource_key = "sky_noon_horizon"
-resource_type = 15
-
-[[sky_color_keyframes]]
+[[ambient_light_keyframes]]
 t = 0.5
-
-[sky_color_keyframes.top]
+[ambient_light_keyframes.color]
 pack_id = "@self"
-resource_key = "sky_midnight_top"
+resource_key = "midnight_overworld"
 resource_type = 15
 
-[sky_color_keyframes.horizon]
-pack_id = "@self"
-resource_key = "sky_midnight_horizon"
-resource_type = 15
-
-[[sky_color_keyframes]]
-t = 0.75
-
-[sky_color_keyframes.top]
-pack_id = "@self"
-resource_key = "sky_predawn_top"
-resource_type = 15
-
-[sky_color_keyframes.horizon]
-pack_id = "@self"
-resource_key = "sky_predawn_horizon"
-resource_type = 15
-
-[[sky_color_keyframes]]
+[[ambient_light_keyframes]]
 t = 1.0
-
-[sky_color_keyframes.top]
+[ambient_light_keyframes.color]
 pack_id = "@self"
-resource_key = "sky_morning_top"
-resource_type = 15
-
-[sky_color_keyframes.horizon]
-pack_id = "@self"
-resource_key = "sky_morning_horizon"
+resource_key = "morning_overworld"
 resource_type = 15
