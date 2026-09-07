@@ -290,6 +290,10 @@ value = "工作颱"
 resource_id = "hand"
 value = "手"
 
+[[string]]
+resource_id = "dimension_overworld"
+value = "主世界"
+
 [[tag_string]]
 resource_id = "fuel"
 value = "燃料"

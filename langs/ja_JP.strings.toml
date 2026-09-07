@@ -290,6 +290,10 @@ value = "作業台"
 resource_id = "hand"
 value = "手"
 
+[[string]]
+resource_id = "dimension_overworld"
+value = "オーバーワールド"
+
 [[tag_string]]
 resource_id = "fuel"
 value = "燃料"

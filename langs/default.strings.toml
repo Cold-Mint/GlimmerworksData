@@ -290,6 +290,10 @@ value = "Crafting Table"
 resource_id = "hand"
 value = "Hand"
 
+[[string]]
+resource_id = "dimension_overworld"
+value = "Over World"
+
 [[tag_string]]
 resource_id = "fuel"
 value = "Fuel"
