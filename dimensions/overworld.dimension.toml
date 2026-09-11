@@ -116,13 +116,6 @@ resource_key = "morning_overworld"
 resource_type = 15
 
 [[ambient_light_keyframes]]
-t = 0.0
-[ambient_light_keyframes.color]
-pack_id = "@self"
-resource_key = "morning_overworld"
-resource_type = 15
-
-[[ambient_light_keyframes]]
 t = 0.5
 [ambient_light_keyframes.color]
 pack_id = "@self"
