@@ -2,11 +2,6 @@ resource_id = "plateau"
 surface_proximity = 0.8
 strictness_surface_proximity = 1.0
 
-[parallax_background]
-pack_id = "@self"
-resource_key = "backgrounds/default"
-resource_type = 7
-
 [bgm]
 pack_id = "@self"
 resource_key = "bgm/biome_plateau"

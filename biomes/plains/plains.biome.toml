@@ -4,11 +4,6 @@ strictness_surface_proximity = 1.3
 temperature = 0.5
 strictness_temperature = 1.0
 
-[parallax_background]
-pack_id = "@self"
-resource_key = "backgrounds/default"
-resource_type = 7
-
 [bgm]
 pack_id = "@self"
 resource_key = "bgm/biome_plains"

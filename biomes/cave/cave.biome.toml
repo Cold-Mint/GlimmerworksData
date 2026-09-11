@@ -7,11 +7,6 @@ pack_id = "@self"
 resource_key = "bgm/biome_cave"
 resource_type = 12
 
-[parallax_background]
-pack_id = "@self"
-resource_key = "backgrounds/default"
-resource_type = 7
-
 [[decors]]
 pack_id = "@self"
 resource_key = "cave_fill"
