@@ -108,23 +108,45 @@ cellular_return_type = 1
 cellular_jitter = 1.0
 seed_offset = 400
 
-[[ambient_light_keyframes]]
+[[back_light_keyframes]]
 t = 0.0
-[ambient_light_keyframes.color]
+[back_light_keyframes.color]
 pack_id = "@self"
 resource_key = "morning_overworld"
 resource_type = 15
 
-[[ambient_light_keyframes]]
+[[back_light_keyframes]]
 t = 0.5
-[ambient_light_keyframes.color]
+[back_light_keyframes.color]
 pack_id = "@self"
 resource_key = "midnight_overworld"
 resource_type = 15
 
-[[ambient_light_keyframes]]
+[[back_light_keyframes]]
 t = 1.0
-[ambient_light_keyframes.color]
+[back_light_keyframes.color]
+pack_id = "@self"
+resource_key = "morning_overworld"
+resource_type = 15
+
+[[sky_light_keyframes]]
+t = 0.0
+[sky_light_keyframes.color]
+pack_id = "@self"
+resource_key = "morning_overworld"
+resource_type = 15
+
+
+[[sky_light_keyframes]]
+t = 0.5
+[sky_light_keyframes.color]
+pack_id = "@self"
+resource_key = "midnight_overworld"
+resource_type = 15
+
+[[sky_light_keyframes]]
+t = 1.0
+[sky_light_keyframes.color]
 pack_id = "@self"
 resource_key = "morning_overworld"
 resource_type = 15
