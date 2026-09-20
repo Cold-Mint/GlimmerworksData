@@ -1,6 +1,6 @@
-#橙色
+#自然暖阳
 resource_id = "morning_overworld"
 a = 150
 r = 255
-g = 140
-b = 0
+g = 210
+b = 150
