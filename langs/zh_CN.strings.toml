@@ -103,6 +103,10 @@ resource_id = "oak"
 value = "橡木"
 
 [[string]]
+resource_id = "oak_sapling"
+value = "橡木树苗"
+
+[[string]]
 resource_id = "area_marker"
 value = "精准测绘仪"
 

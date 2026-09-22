@@ -1,4 +1,4 @@
-hardness = 1.1
+unit_hardness = 1.1
 layer_type = 2
 physics_type = 1
 min_mining_efficiency = 0.5

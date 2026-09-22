@@ -103,6 +103,10 @@ resource_id = "oak"
 value = "Oak"
 
 [[string]]
+resource_id = "oak_sapling"
+value = "Oak Sapling"
+
+[[string]]
 resource_id = "area_marker"
 value = "Precision Surveying Instrument"
 
