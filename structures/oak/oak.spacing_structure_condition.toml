@@ -1,2 +1,3 @@
 resource_id = "oak_horizontal_spacing"
-min_distance = 8
+min_distance = 12
+is_vertical = false

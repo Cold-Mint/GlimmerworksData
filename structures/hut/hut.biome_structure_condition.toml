@@ -1,0 +1,6 @@
+resource_id = "hut_biome"
+
+[[target_biomes]]
+pack_id = "@self"
+resource_key = "cave"
+resource_type = 8

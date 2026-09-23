@@ -1,0 +1,2667 @@
+resource_id = "hut"
+
+[[condition]]
+pack_id = "@self"
+resource_key = "hut_biome"
+resource_type = 22
+
+[[condition]]
+pack_id = "@self"
+resource_key = "hut_horizontal_spacing"
+resource_type = 22
+
+[[condition]]
+pack_id = "@self"
+resource_key = "hut_vertical_spacing"
+resource_type = 22
+
+[[condition]]
+pack_id = "@self"
+resource_key = "hut_height"
+resource_type = 22
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 0
+y = 0
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 1
+y = 0
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 2
+y = 0
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 3
+y = 0
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 4
+y = 0
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 5
+y = 0
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 6
+y = 0
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 7
+y = 0
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 8
+y = 0
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 9
+y = 0
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 10
+y = 0
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 11
+y = 0
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 12
+y = 0
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 0
+y = 12
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 1
+y = 12
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 2
+y = 12
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 3
+y = 12
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 4
+y = 12
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 5
+y = 12
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 6
+y = 12
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 7
+y = 12
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 8
+y = 12
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 9
+y = 12
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 10
+y = 12
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 11
+y = 12
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 12
+y = 12
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 0
+y = 1
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 0
+y = 2
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 0
+y = 3
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 0
+y = 4
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 0
+y = 5
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 0
+y = 6
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 0
+y = 7
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 0
+y = 8
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 0
+y = 9
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 0
+y = 10
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 0
+y = 11
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 12
+y = 1
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 12
+y = 2
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 12
+y = 3
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 12
+y = 4
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 12
+y = 5
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 12
+y = 6
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 12
+y = 7
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 12
+y = 8
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 12
+y = 9
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 12
+y = 10
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 12
+y = 11
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_wood"
+resource_type = 2
+
+# Oak sapling in the center of the room.
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 6
+y = 1
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "oak_sapling"
+resource_type = 2
+
+# Torches on the left and right of the sapling.
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 5
+y = 1
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "coal_torch"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 2
+
+[tile_info.position]
+x = 7
+y = 1
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "coal_torch"
+resource_type = 2
+
+# Background layer: dirt walls 13x13 fully filled.
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 0
+y = 0
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 1
+y = 0
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 2
+y = 0
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 3
+y = 0
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 4
+y = 0
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 5
+y = 0
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 6
+y = 0
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 7
+y = 0
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 8
+y = 0
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 9
+y = 0
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 10
+y = 0
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 11
+y = 0
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 12
+y = 0
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 0
+y = 1
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 1
+y = 1
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 2
+y = 1
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 3
+y = 1
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 4
+y = 1
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 5
+y = 1
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 6
+y = 1
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 7
+y = 1
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 8
+y = 1
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 9
+y = 1
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 10
+y = 1
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 11
+y = 1
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 12
+y = 1
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 0
+y = 2
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 1
+y = 2
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 2
+y = 2
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 3
+y = 2
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 4
+y = 2
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 5
+y = 2
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 6
+y = 2
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 7
+y = 2
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 8
+y = 2
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 9
+y = 2
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 10
+y = 2
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 11
+y = 2
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 12
+y = 2
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 0
+y = 3
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 1
+y = 3
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 2
+y = 3
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 3
+y = 3
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 4
+y = 3
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 5
+y = 3
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 6
+y = 3
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 7
+y = 3
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 8
+y = 3
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 9
+y = 3
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 10
+y = 3
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 11
+y = 3
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 12
+y = 3
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 0
+y = 4
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 1
+y = 4
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 2
+y = 4
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 3
+y = 4
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 4
+y = 4
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 5
+y = 4
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 6
+y = 4
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 7
+y = 4
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 8
+y = 4
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 9
+y = 4
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 10
+y = 4
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 11
+y = 4
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 12
+y = 4
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 0
+y = 5
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 1
+y = 5
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 2
+y = 5
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 3
+y = 5
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 4
+y = 5
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 5
+y = 5
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 6
+y = 5
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 7
+y = 5
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 8
+y = 5
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 9
+y = 5
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 10
+y = 5
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 11
+y = 5
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 12
+y = 5
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 0
+y = 6
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 1
+y = 6
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 2
+y = 6
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 3
+y = 6
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 4
+y = 6
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 5
+y = 6
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 6
+y = 6
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 7
+y = 6
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 8
+y = 6
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 9
+y = 6
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 10
+y = 6
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 11
+y = 6
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 12
+y = 6
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 0
+y = 7
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 1
+y = 7
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 2
+y = 7
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 3
+y = 7
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 4
+y = 7
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 5
+y = 7
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 6
+y = 7
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 7
+y = 7
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 8
+y = 7
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 9
+y = 7
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 10
+y = 7
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 11
+y = 7
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 12
+y = 7
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 0
+y = 8
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 1
+y = 8
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 2
+y = 8
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 3
+y = 8
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 4
+y = 8
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 5
+y = 8
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 6
+y = 8
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 7
+y = 8
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 8
+y = 8
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 9
+y = 8
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 10
+y = 8
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 11
+y = 8
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 12
+y = 8
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 0
+y = 9
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 1
+y = 9
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 2
+y = 9
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 3
+y = 9
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 4
+y = 9
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 5
+y = 9
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 6
+y = 9
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 7
+y = 9
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 8
+y = 9
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 9
+y = 9
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 10
+y = 9
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 11
+y = 9
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 12
+y = 9
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 0
+y = 10
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 1
+y = 10
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 2
+y = 10
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 3
+y = 10
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 4
+y = 10
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 5
+y = 10
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 6
+y = 10
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 7
+y = 10
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 8
+y = 10
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 9
+y = 10
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 10
+y = 10
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 11
+y = 10
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 12
+y = 10
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 0
+y = 11
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 1
+y = 11
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 2
+y = 11
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 3
+y = 11
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 4
+y = 11
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 5
+y = 11
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 6
+y = 11
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 7
+y = 11
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 8
+y = 11
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 9
+y = 11
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 10
+y = 11
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 11
+y = 11
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 12
+y = 11
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 0
+y = 12
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 1
+y = 12
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 2
+y = 12
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 3
+y = 12
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 4
+y = 12
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 5
+y = 12
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 6
+y = 12
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 7
+y = 12
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 8
+y = 12
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 9
+y = 12
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 10
+y = 12
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 11
+y = 12
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2
+
+[[tile_info]]
+layer_type = 1
+
+[tile_info.position]
+x = 12
+y = 12
+
+[tile_info.tile]
+pack_id = "@self"
+resource_key = "dirt_wall"
+resource_type = 2

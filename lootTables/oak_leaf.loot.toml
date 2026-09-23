@@ -1,9 +1,8 @@
 resource_id = "oak_leaf"
 rolls = 1
-empty_weight = 80
 
 [[pool]]
-weight = 15
+weight = 70
 min = 1
 max = 1
 
@@ -14,6 +13,16 @@ resource_type = 2
 
 [[pool]]
 weight = 5
+min = 1
+max = 2
+
+[pool.item]
+pack_id = "@self"
+resource_key = "wooden_stick"
+resource_type = 20
+
+[[pool]]
+weight = 25
 min = 1
 max = 1
 

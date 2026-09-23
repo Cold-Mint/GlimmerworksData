@@ -1,0 +1,3 @@
+resource_id = "hut_vertical_spacing"
+min_distance = 30
+is_vertical = true
