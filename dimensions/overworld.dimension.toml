@@ -4,6 +4,7 @@ allow_as_starting = true
 time_flow_speed = 1.0
 # 初始时间（0-1）：0=清晨 0.25=正午 0.5=午夜 1=次日清晨
 initial_time = 0.0
+sea_level_y = 100
 
 [name]
 pack_id = "@self"
