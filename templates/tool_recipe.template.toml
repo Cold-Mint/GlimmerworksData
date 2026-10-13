@@ -16,7 +16,7 @@ amount = 1
 [output.item]
 pack_id = "@self"
 resource_key = "{tool}_{mat}"
-resource_type = 3
+resource_type = "composable"
 
 [[output.ability_item_ref]]
 amount = 1
@@ -25,7 +25,7 @@ locked = true
 [output.ability_item_ref.item]
 pack_id = "@self"
 resource_key = "{mat}_mining"
-resource_type = 4
+resource_type = "ability"
 
 [[output.ability_item_ref]]
 amount = 1
@@ -34,4 +34,4 @@ locked = true
 [output.ability_item_ref.item]
 pack_id = "@self"
 resource_key = "{layer_key}"
-resource_type = 4
+resource_type = "ability"

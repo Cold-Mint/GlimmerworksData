@@ -5,50 +5,50 @@ strictness_surface_proximity = 0.1
 [bgm]
 pack_id = "@self"
 resource_key = "bgm/biome_cave"
-resource_type = 12
+resource_type = "audio"
 
 [[decors]]
 pack_id = "@self"
 resource_key = "cave_fill"
-resource_type = 14
+resource_type = "biome_decorator"
 
 [[decors]]
 pack_id = "@self"
 resource_key = "cave_ore_coal_mineral"
-resource_type = 14
+resource_type = "biome_decorator"
 
 [[decors]]
 pack_id = "@self"
 resource_key = "cave_ore_copper_mineral"
-resource_type = 14
+resource_type = "biome_decorator"
 
 [[decors]]
 pack_id = "@self"
 resource_key = "cave_ore_iron_mineral"
-resource_type = 14
+resource_type = "biome_decorator"
 
 [[decors]]
 pack_id = "@self"
 resource_key = "cave_ore_gold_mineral"
-resource_type = 14
+resource_type = "biome_decorator"
 
 [[decors]]
 pack_id = "@self"
 resource_key = "cave_air_mineral"
-resource_type = 14
+resource_type = "biome_decorator"
 
 
 [[decors]]
 pack_id = "@self"
 resource_key = "cave_wall_fill"
-resource_type = 14
+resource_type = "biome_decorator"
 
 [[dimensions]]
 pack_id = "@self"
 resource_key = "overworld"
-resource_type = 28
+resource_type = "dimension"
 
 [[dimensions]]
 pack_id = "@self"
 resource_key = "nether"
-resource_type = 28
+resource_type = "dimension"

@@ -3,22 +3,22 @@ resource_id = "hut"
 [[condition]]
 pack_id = "@self"
 resource_key = "hut_biome"
-resource_type = 22
+resource_type = "structure_placement_conditions"
 
 [[condition]]
 pack_id = "@self"
 resource_key = "hut_horizontal_spacing"
-resource_type = 22
+resource_type = "structure_placement_conditions"
 
 [[condition]]
 pack_id = "@self"
 resource_key = "hut_vertical_spacing"
-resource_type = 22
+resource_type = "structure_placement_conditions"
 
 [[condition]]
 pack_id = "@self"
 resource_key = "hut_height"
-resource_type = 22
+resource_type = "structure_placement_conditions"
 
 [[tile_info]]
 layer_type = 2
@@ -30,7 +30,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -42,7 +42,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -54,7 +54,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -66,7 +66,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -78,7 +78,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -90,7 +90,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -102,7 +102,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -114,7 +114,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -126,7 +126,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -138,7 +138,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -150,7 +150,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -162,7 +162,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -174,7 +174,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -186,7 +186,7 @@ y = 12
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -198,7 +198,7 @@ y = 12
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -210,7 +210,7 @@ y = 12
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -222,7 +222,7 @@ y = 12
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -234,7 +234,7 @@ y = 12
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -246,7 +246,7 @@ y = 12
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -258,7 +258,7 @@ y = 12
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -270,7 +270,7 @@ y = 12
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -282,7 +282,7 @@ y = 12
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -294,7 +294,7 @@ y = 12
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -306,7 +306,7 @@ y = 12
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -318,7 +318,7 @@ y = 12
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -330,7 +330,7 @@ y = 12
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -342,7 +342,7 @@ y = 1
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -354,7 +354,7 @@ y = 2
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -366,7 +366,7 @@ y = 3
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -378,7 +378,7 @@ y = 4
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -390,7 +390,7 @@ y = 5
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -402,7 +402,7 @@ y = 6
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -414,7 +414,7 @@ y = 7
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -426,7 +426,7 @@ y = 8
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -438,7 +438,7 @@ y = 9
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -450,7 +450,7 @@ y = 10
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -462,7 +462,7 @@ y = 11
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -474,7 +474,7 @@ y = 1
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -486,7 +486,7 @@ y = 2
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -498,7 +498,7 @@ y = 3
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -510,7 +510,7 @@ y = 4
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -522,7 +522,7 @@ y = 5
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -534,7 +534,7 @@ y = 6
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -546,7 +546,7 @@ y = 7
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -558,7 +558,7 @@ y = 8
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -570,7 +570,7 @@ y = 9
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -582,7 +582,7 @@ y = 10
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -594,7 +594,7 @@ y = 11
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"
 
 # Oak sapling in the center of the room.
 
@@ -608,7 +608,7 @@ y = 1
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "oak_sapling"
-resource_type = 2
+resource_type = "tile"
 
 # Torches on the left and right of the sapling.
 
@@ -622,7 +622,7 @@ y = 1
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "coal_torch"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 2
@@ -634,7 +634,7 @@ y = 1
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "coal_torch"
-resource_type = 2
+resource_type = "tile"
 
 # Background layer: dirt walls 13x13 fully filled.
 
@@ -648,7 +648,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -660,7 +660,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -672,7 +672,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -684,7 +684,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -696,7 +696,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -708,7 +708,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -720,7 +720,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -732,7 +732,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -744,7 +744,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -756,7 +756,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -768,7 +768,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -780,7 +780,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -792,7 +792,7 @@ y = 0
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -804,7 +804,7 @@ y = 1
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -816,7 +816,7 @@ y = 1
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -828,7 +828,7 @@ y = 1
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -840,7 +840,7 @@ y = 1
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -852,7 +852,7 @@ y = 1
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -864,7 +864,7 @@ y = 1
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -876,7 +876,7 @@ y = 1
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -888,7 +888,7 @@ y = 1
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -900,7 +900,7 @@ y = 1
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -912,7 +912,7 @@ y = 1
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -924,7 +924,7 @@ y = 1
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -936,7 +936,7 @@ y = 1
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -948,7 +948,7 @@ y = 1
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -960,7 +960,7 @@ y = 2
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -972,7 +972,7 @@ y = 2
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -984,7 +984,7 @@ y = 2
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -996,7 +996,7 @@ y = 2
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1008,7 +1008,7 @@ y = 2
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1020,7 +1020,7 @@ y = 2
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1032,7 +1032,7 @@ y = 2
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1044,7 +1044,7 @@ y = 2
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1056,7 +1056,7 @@ y = 2
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1068,7 +1068,7 @@ y = 2
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1080,7 +1080,7 @@ y = 2
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1092,7 +1092,7 @@ y = 2
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1104,7 +1104,7 @@ y = 2
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1116,7 +1116,7 @@ y = 3
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1128,7 +1128,7 @@ y = 3
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1140,7 +1140,7 @@ y = 3
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1152,7 +1152,7 @@ y = 3
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1164,7 +1164,7 @@ y = 3
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1176,7 +1176,7 @@ y = 3
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1188,7 +1188,7 @@ y = 3
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1200,7 +1200,7 @@ y = 3
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1212,7 +1212,7 @@ y = 3
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1224,7 +1224,7 @@ y = 3
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1236,7 +1236,7 @@ y = 3
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1248,7 +1248,7 @@ y = 3
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1260,7 +1260,7 @@ y = 3
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1272,7 +1272,7 @@ y = 4
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1284,7 +1284,7 @@ y = 4
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1296,7 +1296,7 @@ y = 4
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1308,7 +1308,7 @@ y = 4
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1320,7 +1320,7 @@ y = 4
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1332,7 +1332,7 @@ y = 4
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1344,7 +1344,7 @@ y = 4
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1356,7 +1356,7 @@ y = 4
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1368,7 +1368,7 @@ y = 4
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1380,7 +1380,7 @@ y = 4
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1392,7 +1392,7 @@ y = 4
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1404,7 +1404,7 @@ y = 4
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1416,7 +1416,7 @@ y = 4
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1428,7 +1428,7 @@ y = 5
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1440,7 +1440,7 @@ y = 5
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1452,7 +1452,7 @@ y = 5
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1464,7 +1464,7 @@ y = 5
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1476,7 +1476,7 @@ y = 5
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1488,7 +1488,7 @@ y = 5
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1500,7 +1500,7 @@ y = 5
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1512,7 +1512,7 @@ y = 5
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1524,7 +1524,7 @@ y = 5
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1536,7 +1536,7 @@ y = 5
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1548,7 +1548,7 @@ y = 5
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1560,7 +1560,7 @@ y = 5
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1572,7 +1572,7 @@ y = 5
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1584,7 +1584,7 @@ y = 6
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1596,7 +1596,7 @@ y = 6
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1608,7 +1608,7 @@ y = 6
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1620,7 +1620,7 @@ y = 6
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1632,7 +1632,7 @@ y = 6
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1644,7 +1644,7 @@ y = 6
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1656,7 +1656,7 @@ y = 6
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1668,7 +1668,7 @@ y = 6
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1680,7 +1680,7 @@ y = 6
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1692,7 +1692,7 @@ y = 6
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1704,7 +1704,7 @@ y = 6
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1716,7 +1716,7 @@ y = 6
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1728,7 +1728,7 @@ y = 6
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1740,7 +1740,7 @@ y = 7
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1752,7 +1752,7 @@ y = 7
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1764,7 +1764,7 @@ y = 7
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1776,7 +1776,7 @@ y = 7
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1788,7 +1788,7 @@ y = 7
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1800,7 +1800,7 @@ y = 7
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1812,7 +1812,7 @@ y = 7
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1824,7 +1824,7 @@ y = 7
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1836,7 +1836,7 @@ y = 7
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1848,7 +1848,7 @@ y = 7
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1860,7 +1860,7 @@ y = 7
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1872,7 +1872,7 @@ y = 7
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1884,7 +1884,7 @@ y = 7
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1896,7 +1896,7 @@ y = 8
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1908,7 +1908,7 @@ y = 8
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1920,7 +1920,7 @@ y = 8
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1932,7 +1932,7 @@ y = 8
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1944,7 +1944,7 @@ y = 8
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1956,7 +1956,7 @@ y = 8
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1968,7 +1968,7 @@ y = 8
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1980,7 +1980,7 @@ y = 8
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -1992,7 +1992,7 @@ y = 8
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2004,7 +2004,7 @@ y = 8
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2016,7 +2016,7 @@ y = 8
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2028,7 +2028,7 @@ y = 8
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2040,7 +2040,7 @@ y = 8
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2052,7 +2052,7 @@ y = 9
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2064,7 +2064,7 @@ y = 9
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2076,7 +2076,7 @@ y = 9
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2088,7 +2088,7 @@ y = 9
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2100,7 +2100,7 @@ y = 9
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2112,7 +2112,7 @@ y = 9
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2124,7 +2124,7 @@ y = 9
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2136,7 +2136,7 @@ y = 9
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2148,7 +2148,7 @@ y = 9
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2160,7 +2160,7 @@ y = 9
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2172,7 +2172,7 @@ y = 9
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2184,7 +2184,7 @@ y = 9
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2196,7 +2196,7 @@ y = 9
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2208,7 +2208,7 @@ y = 10
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2220,7 +2220,7 @@ y = 10
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2232,7 +2232,7 @@ y = 10
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2244,7 +2244,7 @@ y = 10
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2256,7 +2256,7 @@ y = 10
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2268,7 +2268,7 @@ y = 10
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2280,7 +2280,7 @@ y = 10
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2292,7 +2292,7 @@ y = 10
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2304,7 +2304,7 @@ y = 10
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2316,7 +2316,7 @@ y = 10
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2328,7 +2328,7 @@ y = 10
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2340,7 +2340,7 @@ y = 10
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2352,7 +2352,7 @@ y = 10
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2364,7 +2364,7 @@ y = 11
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2376,7 +2376,7 @@ y = 11
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2388,7 +2388,7 @@ y = 11
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2400,7 +2400,7 @@ y = 11
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2412,7 +2412,7 @@ y = 11
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2424,7 +2424,7 @@ y = 11
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2436,7 +2436,7 @@ y = 11
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2448,7 +2448,7 @@ y = 11
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2460,7 +2460,7 @@ y = 11
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2472,7 +2472,7 @@ y = 11
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2484,7 +2484,7 @@ y = 11
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2496,7 +2496,7 @@ y = 11
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2508,7 +2508,7 @@ y = 11
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2520,7 +2520,7 @@ y = 12
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2532,7 +2532,7 @@ y = 12
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2544,7 +2544,7 @@ y = 12
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2556,7 +2556,7 @@ y = 12
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2568,7 +2568,7 @@ y = 12
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2580,7 +2580,7 @@ y = 12
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2592,7 +2592,7 @@ y = 12
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2604,7 +2604,7 @@ y = 12
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2616,7 +2616,7 @@ y = 12
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2628,7 +2628,7 @@ y = 12
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2640,7 +2640,7 @@ y = 12
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2652,7 +2652,7 @@ y = 12
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"
 
 [[tile_info]]
 layer_type = 1
@@ -2664,4 +2664,4 @@ y = 12
 [tile_info.tile]
 pack_id = "@self"
 resource_key = "dirt_wall"
-resource_type = 2
+resource_type = "tile"

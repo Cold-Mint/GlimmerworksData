@@ -6,9 +6,9 @@ unbreakable = true
 [name]
 pack_id = "@self"
 resource_key = "hand"
-resource_type = 1
+resource_type = "strings"
 
 [texture]
 pack_id = "@self"
 resource_key = "items/hand"
-resource_type = 7
+resource_type = "texture"

@@ -11,12 +11,12 @@ template_search_path = ["@root/templates"]
 [description]
 pack_id = "@self"
 resource_key = "dataPacksDescription"
-resource_type = 1
+resource_type = "strings"
 
 [name]
 pack_id = "@self"
 resource_key = "dataPacksName"
-resource_type = 1
+resource_type = "strings"
 
 [[pack_dependencies]]
 min_version = 1

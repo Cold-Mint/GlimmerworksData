@@ -14,29 +14,29 @@ leaf_tile_layer = 2
 [[condition]]
 pack_id = "@self"
 resource_key = "oak_surface"
-resource_type = 22
+resource_type = "structure_placement_conditions"
 
 [[condition]]
 pack_id = "@self"
 resource_key = "oak_biome"
-resource_type = 22
+resource_type = "structure_placement_conditions"
 
 [[condition]]
 pack_id = "@self"
 resource_key = "oak_height"
-resource_type = 22
+resource_type = "structure_placement_conditions"
 
 [[condition]]
 pack_id = "@self"
 resource_key = "oak_horizontal_spacing"
-resource_type = 22
+resource_type = "structure_placement_conditions"
 
 [[data]]
 pack_id = "@self"
 resource_key = "oak_leaf"
-resource_type = 2
+resource_type = "tile"
 
 [[data]]
 pack_id = "@self"
 resource_key = "oak"
-resource_type = 2
+resource_type = "tile"

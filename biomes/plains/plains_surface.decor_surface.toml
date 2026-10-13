@@ -4,9 +4,9 @@ layer_type = 2
 [open_air_tile]
 pack_id = "@self"
 resource_key = "grass"
-resource_type = 2
+resource_type = "tile"
 
 [underwater_tile]
 pack_id = "@self"
 resource_key = "sand"
-resource_type = 2
+resource_type = "tile"

@@ -6,9 +6,9 @@ name = "raw_iron"
 [name]
 pack_id = "@self"
 resource_key = "raw_iron"
-resource_type = 1
+resource_type = "strings"
 
 [texture]
 pack_id = "@self"
 resource_key = "materials/raw_iron"
-resource_type = 7
+resource_type = "texture"

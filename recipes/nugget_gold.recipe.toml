@@ -17,4 +17,4 @@ amount = 1
 [output.item]
 pack_id = "@self"
 resource_key = "nugget_gold"
-resource_type = 20
+resource_type = "material"

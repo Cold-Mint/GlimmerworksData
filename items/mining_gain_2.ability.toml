@@ -9,9 +9,9 @@ mining_efficiency = 1.2
 [name]
 pack_id = "@self"
 resource_key = "mining_gain_2"
-resource_type = 1
+resource_type = "strings"
 
 [texture]
 pack_id = "@self"
 resource_key = "items/data_module"
-resource_type = 7
+resource_type = "texture"

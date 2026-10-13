@@ -11,4 +11,4 @@ amount = 1
 [output.item]
 pack_id = "@self"
 resource_key = "furnace"
-resource_type = 2
+resource_type = "tile"

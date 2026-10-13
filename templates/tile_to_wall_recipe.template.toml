@@ -10,4 +10,4 @@ amount = 1
 [output.item]
 pack_id = "@self"
 resource_key = "{id}_wall"
-resource_type = 2
+resource_type = "tile"

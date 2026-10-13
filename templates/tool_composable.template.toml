@@ -5,9 +5,9 @@ max_durability = {dur}
 [name]
 pack_id = "@self"
 resource_key = "{id}"
-resource_type = 1
+resource_type = "strings"
 
 [texture]
 pack_id = "@self"
 resource_key = "items/{id}"
-resource_type = 7
+resource_type = "texture"

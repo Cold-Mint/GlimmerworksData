@@ -8,4 +8,4 @@ min = 1
 [mandatory.item]
 pack_id = "@self"
 resource_key = "oak_wood"
-resource_type = 2
+resource_type = "tile"

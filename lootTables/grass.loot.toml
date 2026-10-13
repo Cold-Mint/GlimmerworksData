@@ -7,4 +7,4 @@ min = 1
 [mandatory.item]
 pack_id = "@self"
 resource_key = "dirt"
-resource_type = 2
+resource_type = "tile"

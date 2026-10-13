@@ -18,7 +18,7 @@ locked = true
 [empty_hand_auto_use_item.ability_item_ref.item]
 pack_id = "@self"
 resource_key = "hand_mining"
-resource_type = 4
+resource_type = "ability"
 
 [[empty_hand_auto_use_item.ability_item_ref]]
 amount = 1
@@ -27,12 +27,12 @@ locked = true
 [empty_hand_auto_use_item.ability_item_ref.item]
 pack_id = "@self"
 resource_key = "ground_mining"
-resource_type = 4
+resource_type = "ability"
 
 [empty_hand_auto_use_item.item]
 pack_id = "@self"
 resource_key = "hand"
-resource_type = 3
+resource_type = "composable"
 
 [box2d_filter]
 category_bits = 1
@@ -85,12 +85,12 @@ y = -1.5
 [shape]
 pack_id = "@self"
 resource_key = "player_shape"
-resource_type = 11
+resource_type = "shape"
 
 [texture]
 pack_id = "@self"
 resource_key = "player"
-resource_type = 7
+resource_type = "texture"
 
 [texture_offset]
 x = -0.7

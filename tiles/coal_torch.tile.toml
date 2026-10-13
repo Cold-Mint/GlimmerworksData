@@ -6,40 +6,40 @@ resource_id = "coal_torch"
 [light_source]
 pack_id = "@self"
 resource_key = "coal_torch"
-resource_type = 16
+resource_type = "light_source"
 
 [back_light_mask]
 pack_id = "@core"
 resource_key = "medium"
-resource_type = 17
+resource_type = "light_mask"
 
 [side_light_mask]
 pack_id = "@core"
 resource_key = "high"
-resource_type = 17
+resource_type = "light_mask"
 
 [break_sfx]
 pack_id = "@self"
 resource_key = "sfx/wood_break"
-resource_type = 12
+resource_type = "audio"
 
 [name]
 pack_id = "@self"
 resource_key = "coal_torch"
-resource_type = 1
+resource_type = "strings"
 
 [place_sfx]
 pack_id = "@self"
 resource_key = "sfx/wood_place"
-resource_type = 12
+resource_type = "audio"
 
 [texture]
 pack_id = "@self"
 resource_key = "tiles/coal_torch"
-resource_type = 7
+resource_type = "texture"
 
 [pipeline]
 pack_id = "@core"
 resource_key = "glow"
-resource_type = 25
+resource_type = "pipeline"
 

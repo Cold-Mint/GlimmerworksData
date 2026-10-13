@@ -10,9 +10,9 @@ mining_efficiency = 0.4
 [name]
 pack_id = "@self"
 resource_key = "hand"
-resource_type = 1
+resource_type = "strings"
 
 [texture]
 pack_id = "@self"
 resource_key = "items/function_module"
-resource_type = 7
+resource_type = "texture"

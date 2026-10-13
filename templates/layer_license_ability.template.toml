@@ -9,9 +9,9 @@ mine_able_layer = {layer_val}
 [name]
 pack_id = "@self"
 resource_key = "{layer_name}_mining"
-resource_type = 1
+resource_type = "strings"
 
 [texture]
 pack_id = "@self"
 resource_key = "items/data_module"
-resource_type = 7
+resource_type = "texture"

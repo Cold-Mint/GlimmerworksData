@@ -6,9 +6,9 @@ name = "ingot_copper"
 [name]
 pack_id = "@self"
 resource_key = "ingot_copper"
-resource_type = 1
+resource_type = "strings"
 
 [texture]
 pack_id = "@self"
 resource_key = "materials/ingot_copper"
-resource_type = 7
+resource_type = "texture"
