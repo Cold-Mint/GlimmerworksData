@@ -24,7 +24,7 @@ resource_type = "light_mask"
 
 [side_light_mask]
 pack_id = "@core"
-resource_key = "medium"
+resource_key = "none"
 resource_type = "light_mask"
 
 [break_sfx]
