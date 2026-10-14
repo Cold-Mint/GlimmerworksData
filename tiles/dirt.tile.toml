@@ -1,10 +1,24 @@
 unit_hardness = 0.6
-layer_type = 2
+layer = 2
 physics_type = 1
 resource_id = "dirt"
 
+growth_min_ticks = 4800
+growth_max_ticks = 8400
+destroy_self_after_growth = false
+
 [[tags]]
 name = "dirt"
+
+[growth_target]
+pack_id = "@self"
+resource_key = "grass"
+resource_type = "tile"
+
+[[growth_conditions]]
+pack_id = "@self"
+resource_key = "dirt"
+resource_type = "growth_condition"
 
 [break_sfx]
 pack_id = "@self"

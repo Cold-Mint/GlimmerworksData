@@ -1,5 +1,5 @@
 unit_hardness = 0.8
-layer_type = 2
+layer = 2
 physics_type = 1
 resource_id = "sand"
 

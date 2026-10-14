@@ -1,11 +1,11 @@
 #橡树树苗
 resource_id = "oak_sapling"
 unit_hardness = 0.1
-layer_type = 2
+layer = 2
 physics_type = 0
 
-growth_min_ticks = 100
-growth_max_ticks = 600
+growth_min_ticks = 14400
+growth_max_ticks = 28800
 destroy_self_after_growth = false
 
 [growth_target]

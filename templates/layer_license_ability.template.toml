@@ -4,7 +4,7 @@ max_durability = {dur}
 resource_id = "{layer_name}_mining"
 
 [ability_config]
-mine_able_layer = {layer_val}
+mine_able_layer_mask = {layer_val}
 
 [name]
 pack_id = "@self"

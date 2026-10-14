@@ -1,5 +1,5 @@
 unit_hardness = 1.2
-layer_type = 2
+layer = 2
 physics_type = 1
 min_mining_efficiency = 0.5
 resource_id = "ore_iron"
