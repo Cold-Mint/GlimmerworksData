@@ -1,5 +1,5 @@
 resource_id = "dirt"
-required_tag = "air"
+required_tags = ["air","partial"]
 layer_mask = 2
 [offset]
 x = 0

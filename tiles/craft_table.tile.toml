@@ -3,7 +3,8 @@ layer = 2
 physics_type = 0
 resource_id = "craft_table"
 recipe_group = 1
-technology_level = 1 
+technology_level = 1
+partial = true
 
 [break_sfx]
 pack_id = "@self"
