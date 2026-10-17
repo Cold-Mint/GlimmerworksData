@@ -4,6 +4,9 @@ layer = 2
 physics_type = 1
 resource_id = "grass"
 
+[[tags]]
+name = "dirt"
+
 [break_sfx]
 pack_id = "@self"
 resource_key = "sfx/dirt_break"
