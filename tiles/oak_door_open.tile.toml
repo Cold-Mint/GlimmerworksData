@@ -1,0 +1,50 @@
+allow_chain_mining = false
+unit_hardness = 1.5
+layer = 2
+physics_type = 0
+resource_id = "oak_door_open"
+tile_height = 2
+
+[[tags]]
+name = "fuel"
+value = 4
+
+[primary_action_target]
+pack_id = "@self"
+resource_key = "oak_door_closed"
+resource_type = "tile"
+
+[light_source]
+pack_id = "@core"
+resource_key = "none"
+resource_type = "light_source"
+
+[back_light_mask]
+pack_id = "@core"
+resource_key = "low"
+resource_type = "light_mask"
+
+[side_light_mask]
+pack_id = "@core"
+resource_key = "low"
+resource_type = "light_mask"
+
+[break_sfx]
+pack_id = "@self"
+resource_key = "sfx/wood_break"
+resource_type = "audio"
+
+[name]
+pack_id = "@self"
+resource_key = "oak_door_open"
+resource_type = "strings"
+
+[place_sfx]
+pack_id = "@self"
+resource_key = "sfx/wood_place"
+resource_type = "audio"
+
+[texture]
+pack_id = "@self"
+resource_key = "tiles/oak_door_open"
+resource_type = "texture"

@@ -294,6 +294,15 @@ value = "手"
 resource_id = "dimension_overworld"
 value = "オーバーワールド"
 
+[[string]]
+resource_id = "oak_door_closed"
+value = "閉じた樫の扉"
+
+[[string]]
+resource_id = "oak_door_open"
+value = "開いた樫の扉"
+
+
 [[tag_string]]
 resource_id = "fuel"
 value = "燃料"

@@ -294,6 +294,14 @@ value = "手"
 resource_id = "dimension_overworld"
 value = "主世界"
 
+[[string]]
+resource_id = "oak_door_closed"
+value = "關閉的橡木門"
+
+[[string]]
+resource_id = "oak_door_open"
+value = "打開的橡木門"
+
 [[tag_string]]
 resource_id = "fuel"
 value = "燃料"

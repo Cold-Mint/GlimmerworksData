@@ -298,6 +298,14 @@ value = "Hand"
 resource_id = "dimension_overworld"
 value = "Over World"
 
+[[string]]
+resource_id = "oak_door_closed"
+value = "Closed Oak Door"
+
+[[string]]
+resource_id = "oak_door_open"
+value = "Open Oak Door"
+
 [[tag_string]]
 resource_id = "fuel"
 value = "Fuel"
