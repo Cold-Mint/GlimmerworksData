@@ -5,6 +5,8 @@ resource_id = "craft_table"
 recipe_group = 1
 technology_level = 1
 partial = true
+attachment_mask = 4
+attachment_tags = ["solid"]
 
 [break_sfx]
 pack_id = "@self"
