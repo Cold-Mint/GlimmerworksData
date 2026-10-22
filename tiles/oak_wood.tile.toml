@@ -1,6 +1,7 @@
 unit_hardness = 0.9
 layer = 2
 physics_type = 1
+solid = true
 resource_id = "oak_wood"
 
 [[tags]]

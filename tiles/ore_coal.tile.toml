@@ -1,6 +1,7 @@
 unit_hardness = 1.05
 layer = 2
 physics_type = 1
+solid = true
 min_mining_efficiency = 0.5
 resource_id = "ore_coal"
 allow_chain_mining = true

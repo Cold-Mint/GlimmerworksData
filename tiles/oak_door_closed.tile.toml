@@ -1,9 +1,13 @@
 allow_chain_mining = false
-unit_hardness = 1.5
+unit_hardness = 0.5
 layer = 2
 physics_type = 1
+solid = false
 resource_id = "oak_door_closed"
 tile_height = 2
+partial = true
+attachment_mask = 4
+attachment_tags = ["solid"]
 
 [[tags]]
 name = "fuel"
