@@ -1,6 +1,6 @@
 unit_hardness = 0.5
 layer = 2
-physics_type = 0
+collision_mask = 0
 resource_id = "coal_torch"
 partial = true
 attachment_mask = 30

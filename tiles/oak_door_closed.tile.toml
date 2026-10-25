@@ -1,7 +1,7 @@
 allow_chain_mining = false
 unit_hardness = 0.5
 layer = 2
-physics_type = 1
+collision_mask = 15
 solid = false
 resource_id = "oak_door_closed"
 tile_height = 2

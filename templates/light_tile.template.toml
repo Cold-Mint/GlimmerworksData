@@ -1,6 +1,6 @@
 unit_hardness = 0.1
 layer = 2
-physics_type = 0
+collision_mask = 0
 resource_id = "light_{level}"
 
 [back_light_mask]
