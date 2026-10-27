@@ -291,6 +291,10 @@ resource_id = "craft_table"
 value = "工作台"
 
 [[string]]
+resource_id = "chest"
+value = "箱子"
+
+[[string]]
 resource_id = "hand"
 value = "手"
 

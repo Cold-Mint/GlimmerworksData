@@ -291,6 +291,10 @@ resource_id = "craft_table"
 value = "Crafting Table"
 
 [[string]]
+resource_id = "chest"
+value = "Chest"
+
+[[string]]
 resource_id = "hand"
 value = "Hand"
 

@@ -1,0 +1,43 @@
+unit_hardness = 0.8
+layer = 2
+collision_mask = 15
+solid = true
+min_mining_efficiency = 0.5
+resource_id = "chest"
+container_capacity = 27
+container_max_stack = 64
+
+[break_sfx]
+pack_id = "@self"
+resource_key = "sfx/dirt_break"
+resource_type = "audio"
+
+[light_source]
+pack_id = "@core"
+resource_key = "none"
+resource_type = "light_source"
+
+[back_light_mask]
+pack_id = "@core"
+resource_key = "low"
+resource_type = "light_mask"
+
+[side_light_mask]
+pack_id = "@core"
+resource_key = "medium"
+resource_type = "light_mask"
+
+[name]
+pack_id = "@self"
+resource_key = "chest"
+resource_type = "strings"
+
+[place_sfx]
+pack_id = "@self"
+resource_key = "sfx/dirt_place"
+resource_type = "audio"
+
+[texture]
+pack_id = "@self"
+resource_key = "tiles/chest"
+resource_type = "texture"
