@@ -12,6 +12,11 @@ attachment_tags = ["solid"]
 name = "fuel"
 value = 4
 
+[primary_action_sfx]
+pack_id = "@self"
+resource_key = "sfx/door_close"
+resource_type = "audio"
+
 [primary_action_target]
 pack_id = "@self"
 resource_key = "oak_door_closed"

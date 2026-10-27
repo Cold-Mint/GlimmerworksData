@@ -25,6 +25,11 @@ pack_id = "@self"
 resource_key = "oak_door_open"
 resource_type = "tile"
 
+[primary_action_sfx]
+pack_id = "@self"
+resource_key = "sfx/open_door"
+resource_type = "audio"
+
 [light_source]
 pack_id = "@core"
 resource_key = "none"
