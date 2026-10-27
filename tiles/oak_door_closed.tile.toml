@@ -8,6 +8,13 @@ tile_height = 2
 partial = true
 attachment_mask = 4
 attachment_tags = ["solid"]
+[collision_box_offset]
+x = 0.75
+y = 0.0
+
+[collision_box_size]
+x = 0.25
+y = 1.0
 
 [[tags]]
 name = "fuel"
