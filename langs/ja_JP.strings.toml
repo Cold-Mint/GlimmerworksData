@@ -291,6 +291,10 @@ resource_id = "chest"
 value = "チェスト"
 
 [[string]]
+resource_id = "loot_chest"
+value = "戦利品チェスト"
+
+[[string]]
 resource_id = "hand"
 value = "手"
 

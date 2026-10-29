@@ -1,0 +1,52 @@
+resource_id = "loot_chest"
+rolls = 3
+empty_weight = 0
+
+[[mandatory]]
+min = 1
+max = 3
+
+[mandatory.item]
+pack_id = "@self"
+resource_key = "wooden_stick"
+resource_type = "material"
+
+[[pool]]
+weight = 30
+min = 1
+max = 5
+
+[pool.item]
+pack_id = "@self"
+resource_key = "coal"
+resource_type = "material"
+
+[[pool]]
+weight = 20
+min = 1
+max = 3
+
+[pool.item]
+pack_id = "@self"
+resource_key = "nugget_copper"
+resource_type = "material"
+
+[[pool]]
+weight = 15
+min = 1
+max = 2
+
+[pool.item]
+pack_id = "@self"
+resource_key = "ingot_iron"
+resource_type = "material"
+
+[[pool]]
+weight = 5
+min = 1
+max = 1
+
+[pool.item]
+pack_id = "@self"
+resource_key = "ingot_gold"
+resource_type = "material"

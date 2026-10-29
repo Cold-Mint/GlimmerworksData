@@ -1,0 +1,12 @@
+resource_id = "chest"
+
+[[input]]
+required_tag = "wood"
+required_weight = 8
+
+[output]
+amount = 1
+[output.item]
+pack_id = "@self"
+resource_key = "chest"
+resource_type = "tile"
