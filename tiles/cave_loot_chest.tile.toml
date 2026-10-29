@@ -3,13 +3,13 @@ layer = 2
 collision_mask = 15
 solid = true
 min_mining_efficiency = 0.5
-resource_id = "loot_chest"
+resource_id = "cave_loot_chest"
 container_capacity = 27
 container_max_stack = 64
 
 [container_loot_table]
 pack_id = "@self"
-resource_key = "loot_chest"
+resource_key = "cave_loot_chest"
 resource_type = "loot"
 
 [break_sfx]
@@ -34,7 +34,7 @@ resource_type = "light_mask"
 
 [name]
 pack_id = "@self"
-resource_key = "loot_chest"
+resource_key = "cave_loot_chest"
 resource_type = "strings"
 
 [place_sfx]

@@ -43,6 +43,12 @@ pack_id = "@self"
 resource_key = "cave_wall_fill"
 resource_type = "biome_decorator"
 
+[[decors]]
+pack_id = "@self"
+resource_key = "cave_loot_chest"
+resource_type = "biome_decorator"
+
+
 [[dimensions]]
 pack_id = "@self"
 resource_key = "overworld"

@@ -1,0 +1,115 @@
+# 洞穴宝箱掉落表
+# 权重为相对权重：某条目概率 = weight / (empty_weight + 所有 pool 权重之和)
+# 本表权重合计 100，因此权重值即对应百分比。
+resource_id = "cave_loot_chest"
+rolls = 3
+empty_weight = 0
+
+# 必掉：火把 1-2 个。开箱必有所得，洞穴照明刚需。
+[[mandatory]]
+min = 1
+max = 2
+
+[mandatory.item]
+pack_id = "@self"
+resource_key = "coal_torch"
+resource_type = "tile"
+
+# 30% 概率获取木棍 1-8 个。
+[[pool]]
+weight = 30
+min = 1
+max = 8
+
+[pool.item]
+pack_id = "@self"
+resource_key = "wooden_stick"
+resource_type = "material"
+
+# 20% 概率获取煤 1-6 个。
+[[pool]]
+weight = 20
+min = 1
+max = 6
+
+[pool.item]
+pack_id = "@self"
+resource_key = "coal"
+resource_type = "material"
+
+# 15% 概率获取粗铜 1-4 个。
+[[pool]]
+weight = 15
+min = 1
+max = 4
+
+[pool.item]
+pack_id = "@self"
+resource_key = "raw_copper"
+resource_type = "material"
+
+# 10% 概率获取粗铁 1-3 个。
+[[pool]]
+weight = 10
+min = 1
+max = 3
+
+[pool.item]
+pack_id = "@self"
+resource_key = "raw_iron"
+resource_type = "material"
+
+# 10% 概率获取铜粒 1-3 个。
+[[pool]]
+weight = 10
+min = 1
+max = 3
+
+[pool.item]
+pack_id = "@self"
+resource_key = "nugget_copper"
+resource_type = "material"
+
+# 8% 概率获取铁锭 1-2 个。
+[[pool]]
+weight = 8
+min = 1
+max = 2
+
+[pool.item]
+pack_id = "@self"
+resource_key = "ingot_iron"
+resource_type = "material"
+
+# 4% 概率获取粗金 1-2 个。
+[[pool]]
+weight = 4
+min = 1
+max = 2
+
+[pool.item]
+pack_id = "@self"
+resource_key = "raw_gold"
+resource_type = "material"
+
+# 2% 概率获取金锭 1 个（稀有）。
+[[pool]]
+weight = 2
+min = 1
+max = 1
+
+[pool.item]
+pack_id = "@self"
+resource_key = "ingot_gold"
+resource_type = "material"
+
+# 1% 概率获取红色玻璃 1-2 个（稀有装饰，无法合成）。
+[[pool]]
+weight = 1
+min = 1
+max = 2
+
+[pool.item]
+pack_id = "@self"
+resource_key = "glass_red"
+resource_type = "tile"

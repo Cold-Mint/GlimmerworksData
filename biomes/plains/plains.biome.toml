@@ -16,7 +16,7 @@ resource_type = "biome_decorator"
 
 [[decors]]
 pack_id = "@self"
-resource_key = "plains_surface"
+resource_key = "plains_replace"
 resource_type = "biome_decorator"
 
 [[decors]]

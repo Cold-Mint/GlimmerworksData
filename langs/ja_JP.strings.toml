@@ -291,8 +291,8 @@ resource_id = "chest"
 value = "チェスト"
 
 [[string]]
-resource_id = "loot_chest"
-value = "戦利品チェスト"
+resource_id = "cave_loot_chest"
+value = "洞窟の戦利品チェスト"
 
 [[string]]
 resource_id = "hand"

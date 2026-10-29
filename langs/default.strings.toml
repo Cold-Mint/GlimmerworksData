@@ -295,8 +295,8 @@ resource_id = "chest"
 value = "Chest"
 
 [[string]]
-resource_id = "loot_chest"
-value = "Loot Chest"
+resource_id = "cave_loot_chest"
+value = "Cave Loot Chest"
 
 [[string]]
 resource_id = "hand"

@@ -1,0 +1,23 @@
+resource_id = "plains_replace"
+layer = 2
+
+#如果顶部是空气地形，那么设置草方块。
+[[rules]]
+source_terrain_mask = 2
+[rules.target_tile]
+pack_id = "@self"
+resource_key = "grass"
+resource_type = "tile"
+[rules.offset]
+x = 0
+y = 1
+#如果顶部是水地形，那么设置沙子。
+[[rules]]
+source_terrain_mask = 4
+[rules.target_tile]
+pack_id = "@self"
+resource_key = "sand"
+resource_type = "tile"
+[rules.offset]
+x = 0
+y = 1
