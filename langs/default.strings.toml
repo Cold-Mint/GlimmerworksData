@@ -314,6 +314,10 @@ value = "Closed Oak Door"
 resource_id = "oak_door_open"
 value = "Open Oak Door"
 
+[[string]]
+resource_id = "loot_chest_force_mine_tip"
+value = "Destroying this chest will discard any unclaimed loot. Collect your loot first, then hold Shift to break it."
+
 [[tag_string]]
 resource_id = "fuel"
 value = "Fuel"

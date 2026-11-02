@@ -310,6 +310,10 @@ value = "關閉的橡木門"
 resource_id = "oak_door_open"
 value = "打開的橡木門"
 
+[[string]]
+resource_id = "loot_chest_force_mine_tip"
+value = "破壞此箱子將丟失尚未領取的戰利品，請先領取戰利品，再按住 Shift 進行破壞。"
+
 [[tag_string]]
 resource_id = "fuel"
 value = "燃料"

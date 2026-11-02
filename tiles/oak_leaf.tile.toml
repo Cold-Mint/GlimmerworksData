@@ -1,5 +1,5 @@
 allow_chain_mining = true
-custom_loot_table = true
+
 unit_hardness = 0.2
 layer = 2
 collision_mask = 0
@@ -31,7 +31,7 @@ pack_id = "@self"
 resource_key = "sfx/block_break"
 resource_type = "audio"
 
-[loot_table]
+[loot_target]
 pack_id = "@self"
 resource_key = "oak_leaf"
 resource_type = "loot"

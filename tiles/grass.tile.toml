@@ -1,4 +1,4 @@
-custom_loot_table = true
+
 unit_hardness = 0.82
 layer = 2
 collision_mask = 15
@@ -28,7 +28,7 @@ pack_id = "@core"
 resource_key = "fill"
 resource_type = "light_mask"
 
-[loot_table]
+[loot_target]
 pack_id = "@self"
 resource_key = "grass"
 resource_type = "loot"

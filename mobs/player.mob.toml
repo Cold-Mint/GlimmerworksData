@@ -12,7 +12,6 @@ amount = 1
 
 [[empty_hand_auto_use_item.ability_item_ref]]
 amount = 1
-locked = true
 
 [empty_hand_auto_use_item.ability_item_ref.item]
 pack_id = "@self"
@@ -21,7 +20,6 @@ resource_type = "ability"
 
 [[empty_hand_auto_use_item.ability_item_ref]]
 amount = 1
-locked = true
 
 [empty_hand_auto_use_item.ability_item_ref.item]
 pack_id = "@self"

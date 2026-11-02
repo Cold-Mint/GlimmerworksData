@@ -2,10 +2,14 @@ unit_hardness = 0.8
 layer = 2
 collision_mask = 15
 solid = true
-min_mining_efficiency = 0.5
 resource_id = "cave_loot_chest"
 container_capacity = 27
 container_max_stack = 64
+
+[loot_target]
+pack_id = "@self"
+resource_key = "chest"
+resource_type = "loot"
 
 [container_loot_table]
 pack_id = "@self"
@@ -46,3 +50,8 @@ resource_type = "audio"
 pack_id = "@self"
 resource_key = "tiles/chest"
 resource_type = "texture"
+
+[force_mine_require_tip]
+pack_id = "@self"
+resource_key = "loot_chest_force_mine_tip"
+resource_type = "strings"

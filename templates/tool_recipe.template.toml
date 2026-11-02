@@ -20,7 +20,6 @@ resource_type = "composable"
 
 [[output.ability_item_ref]]
 amount = 1
-locked = true
 
 [output.ability_item_ref.item]
 pack_id = "@self"
@@ -29,7 +28,6 @@ resource_type = "ability"
 
 [[output.ability_item_ref]]
 amount = 1
-locked = true
 
 [output.ability_item_ref.item]
 pack_id = "@self"

@@ -310,6 +310,9 @@ value = "閉じた樫の扉"
 resource_id = "oak_door_open"
 value = "開いた樫の扉"
 
+[[string]]
+resource_id = "loot_chest_force_mine_tip"
+value = "このチェストを破壊すると未回収の戦利品が失われます。先に戦利品を回収してから、Shiftキーを押したまま破壊してください。"
 
 [[tag_string]]
 resource_id = "fuel"
