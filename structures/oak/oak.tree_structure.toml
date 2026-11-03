@@ -8,8 +8,8 @@ leaf_radius = 3
 leaf_cluster_count = 1
 leaf_vertical_spacing = 1
 trunk_width = 1
-trunk_tile_layer = 2
-leaf_tile_layer = 2
+trunk_tile_layer = 4
+leaf_tile_layer = 4
 
 [[condition]]
 pack_id = "@self"

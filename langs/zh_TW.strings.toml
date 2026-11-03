@@ -91,6 +91,10 @@ resource_id = "ground_mining"
 value = "方塊挖掘授權"
 
 [[string]]
+resource_id = "decoration_mining"
+value = "裝飾拆除授權"
+
+[[string]]
 resource_id = "oak_wood"
 value = "橡木木闆"
 

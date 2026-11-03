@@ -3,7 +3,7 @@ require_surface = true
 seed_offset = 95435
 spawn_threshold = 0.01
 frequency = 0.1
-layer = 2
+layer = 4
 limit = 1
 [chest_tile]
 pack_id = "@self"

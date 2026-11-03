@@ -21,7 +21,7 @@ resource_key = "hut_height"
 resource_type = "structure_placement_conditions"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 0
@@ -33,7 +33,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 1
@@ -45,7 +45,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 2
@@ -57,7 +57,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 3
@@ -69,7 +69,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 4
@@ -81,7 +81,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 5
@@ -93,7 +93,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 6
@@ -105,7 +105,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 7
@@ -117,7 +117,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 8
@@ -129,7 +129,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 9
@@ -141,7 +141,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 10
@@ -153,7 +153,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 11
@@ -165,7 +165,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 12
@@ -177,7 +177,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 0
@@ -189,7 +189,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 1
@@ -201,7 +201,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 2
@@ -213,7 +213,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 3
@@ -225,7 +225,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 4
@@ -237,7 +237,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 5
@@ -249,7 +249,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 6
@@ -261,7 +261,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 7
@@ -273,7 +273,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 8
@@ -285,7 +285,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 9
@@ -297,7 +297,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 10
@@ -309,7 +309,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 11
@@ -321,7 +321,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 12
@@ -333,7 +333,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 0
@@ -345,7 +345,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 0
@@ -357,7 +357,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 0
@@ -369,7 +369,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 0
@@ -381,7 +381,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 0
@@ -393,7 +393,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 0
@@ -405,7 +405,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 0
@@ -417,7 +417,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 0
@@ -429,7 +429,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 0
@@ -441,7 +441,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 0
@@ -453,7 +453,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 0
@@ -465,7 +465,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 12
@@ -477,7 +477,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 12
@@ -489,7 +489,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 12
@@ -501,7 +501,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 12
@@ -513,7 +513,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 12
@@ -525,7 +525,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 12
@@ -537,7 +537,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 12
@@ -549,7 +549,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 12
@@ -561,7 +561,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 12
@@ -573,7 +573,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 12
@@ -585,7 +585,7 @@ resource_key = "oak_wood"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 12
@@ -599,7 +599,7 @@ resource_type = "tile"
 # Oak sapling in the center of the room.
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 6
@@ -613,7 +613,7 @@ resource_type = "tile"
 # Torches on the left and right of the sapling.
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 5
@@ -625,7 +625,7 @@ resource_key = "coal_torch"
 resource_type = "tile"
 
 [[tile_info]]
-layer = 2
+layer = 4
 
 [tile_info.position]
 x = 7

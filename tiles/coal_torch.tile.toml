@@ -1,5 +1,5 @@
 unit_hardness = 0.5
-layer = 2
+layer = 4
 collision_mask = 0
 resource_id = "coal_torch"
 partial = true

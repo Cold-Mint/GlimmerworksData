@@ -1,5 +1,5 @@
 unit_hardness = 0.6
-layer = 2
+layer = 4
 collision_mask = 15
 solid = true
 resource_id = "dirt"

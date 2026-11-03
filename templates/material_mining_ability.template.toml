@@ -4,7 +4,6 @@ resource_id = "{mat}_mining"
 max_durability = {dur}
 
 [ability_config]
-allow_mine_block = true
 mining_efficiency = {eff}
 
 [name]
