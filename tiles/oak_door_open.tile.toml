@@ -5,8 +5,8 @@ collision_mask = 0
 resource_id = "oak_door_open"
 tile_height = 2
 partial = true
-attachment_mask = 4
-attachment_tags = ["solid"]
+attachment_probe_mask = 4
+attachment_tag_filter = ["solid"]
 
 [[tags]]
 name = "fuel"

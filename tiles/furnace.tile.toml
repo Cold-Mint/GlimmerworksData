@@ -5,8 +5,8 @@ min_mining_efficiency = 0.5
 resource_id = "furnace"
 recipe_group = 2
 technology_level = 1
-attachment_mask = 4
-attachment_tags = ["solid"]
+attachment_probe_mask = 4
+attachment_tag_filter = ["solid"]
 
 [break_sfx]
 pack_id = "@self"

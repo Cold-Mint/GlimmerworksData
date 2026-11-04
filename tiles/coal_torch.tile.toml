@@ -3,8 +3,8 @@ layer = 4
 collision_mask = 0
 resource_id = "coal_torch"
 partial = true
-attachment_mask = 30
-attachment_tags = ["solid","wall"]
+attachment_probe_mask = 30
+attachment_tag_filter = ["solid","decoration","wall"]
 
 [light_source]
 pack_id = "@self"
@@ -45,4 +45,9 @@ resource_type = "texture"
 pack_id = "@core"
 resource_key = "glow"
 resource_type = "pipeline"
+
+[attachment_texture_right]
+pack_id = "@self"
+resource_key = "tiles/leaf_torch_right"
+resource_type = "texture"
 

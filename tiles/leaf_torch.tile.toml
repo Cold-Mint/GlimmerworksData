@@ -3,8 +3,8 @@ layer = 4
 collision_mask = 0
 resource_id = "leaf_torch"
 partial = true
-attachment_mask = 30
-attachment_tags = ["solid","wall"]
+attachment_probe_mask = 30
+attachment_tag_filter = ["solid","decoration","wall"]
 
 [light_source]
 pack_id = "@self"

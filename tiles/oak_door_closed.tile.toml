@@ -6,8 +6,8 @@ solid = false
 resource_id = "oak_door_closed"
 tile_height = 2
 partial = true
-attachment_mask = 4
-attachment_tags = ["solid"]
+attachment_probe_mask = 4
+attachment_tag_filter = ["solid"]
 [collision_box_offset]
 x = 0.75
 y = 0.0
