@@ -7,6 +7,14 @@ resource_id = "dataPacksDescription"
 value = "グリマーワークス公式コアデータパックです。ゲームの基本定義とコンテンツを提供します。"
 
 [[string]]
+resource_id = "sunny_day"
+value = "晴れた日"
+
+[[string]]
+resource_id = "many_hearts"
+value = "たくさんのハート"
+
+[[string]]
 resource_id = "dirt"
 value = "土"
 

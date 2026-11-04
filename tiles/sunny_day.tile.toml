@@ -1,0 +1,6 @@
+#@set(id,sunny_day)
+#@set(name,sunny_day)
+#@set(texture,art/sunny_day)
+#@set(height,2)
+#@set(width,2)
+#@insert_template(painting)

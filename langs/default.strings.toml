@@ -7,6 +7,14 @@ resource_id = "dataPacksDescription"
 value = "The official core data pack for GlimmerWorks, providing essential game definitions and content."
 
 [[string]]
+resource_id = "sunny_day"
+value = "Sunny Day"
+
+[[string]]
+resource_id = "many_hearts"
+value = "Many Hearts"
+
+[[string]]
 resource_id = "dirt"
 value = "Dirt"
 

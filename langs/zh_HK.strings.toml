@@ -7,6 +7,14 @@ resource_id = "dataPacksDescription"
 value = "微光工坊官方核心資料包，提供遊戲的基礎定義和內容。"
 
 [[string]]
+resource_id = "sunny_day"
+value = "晴天"
+
+[[string]]
+resource_id = "many_hearts"
+value = "很多愛心"
+
+[[string]]
 resource_id = "dirt"
 value = "泥土"
 

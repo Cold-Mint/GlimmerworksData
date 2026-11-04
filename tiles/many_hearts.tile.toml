@@ -1,0 +1,6 @@
+#@set(id,many_hearts)
+#@set(name,many_hearts)
+#@set(texture,art/many_hearts)
+#@set(height,2)
+#@set(width,2)
+#@insert_template(painting)

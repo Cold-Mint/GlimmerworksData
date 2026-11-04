@@ -1,0 +1,46 @@
+unit_hardness = 0.05
+layer = 2
+collision_mask = 0
+auto_hardness_scale = false
+resource_id = "{id}"
+tile_height = {height}
+tile_width = {width}
+partial = true
+attachment_reception_mask = 0
+attachment_probe_mask = 16
+attachment_tag_filter = ["wall"]
+
+[light_source]
+pack_id = "@core"
+resource_key = "none"
+resource_type = "light_source"
+
+[back_light_mask]
+pack_id = "@core"
+resource_key = "low"
+resource_type = "light_mask"
+
+[side_light_mask]
+pack_id = "@core"
+resource_key = "none"
+resource_type = "light_mask"
+
+[break_sfx]
+pack_id = "@self"
+resource_key = "sfx/wood_break"
+resource_type = "audio"
+
+[name]
+pack_id = "@self"
+resource_key = "{name}"
+resource_type = "strings"
+
+[place_sfx]
+pack_id = "@self"
+resource_key = "sfx/wood_place"
+resource_type = "audio"
+
+[texture]
+pack_id = "@self"
+resource_key = "{texture}"
+resource_type = "texture"

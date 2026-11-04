@@ -1,4 +1,4 @@
-unit_hardness = 0.1
+unit_hardness = 0.05
 layer = 4
 collision_mask = 0
 resource_id = "light_{level}"

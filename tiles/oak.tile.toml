@@ -1,5 +1,4 @@
 allow_chain_mining = true
-
 unit_hardness = 1.5
 layer = 4
 collision_mask = 0
