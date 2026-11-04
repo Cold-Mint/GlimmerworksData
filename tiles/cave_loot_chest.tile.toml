@@ -1,6 +1,6 @@
 unit_hardness = 0.8
 layer = 4
-collision_mask = 15
+collision_mask = 0
 solid = true
 resource_id = "cave_loot_chest"
 container_capacity = 27
