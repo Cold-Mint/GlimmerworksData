@@ -1,0 +1,48 @@
+unit_hardness = 0.8
+layer = 4
+collision_mask = 1
+solid = true
+resource_id = "oak_platform"
+attachment_reception_mask = 1
+[collision_box_offset]
+x = 0.0
+y = 0.75
+
+[collision_box_size]
+x = 1.0
+y = 0.25
+
+[break_sfx]
+pack_id = "@self"
+resource_key = "sfx/dirt_break"
+resource_type = "audio"
+
+[light_source]
+pack_id = "@core"
+resource_key = "none"
+resource_type = "light_source"
+
+[back_light_mask]
+pack_id = "@core"
+resource_key = "none"
+resource_type = "light_mask"
+
+[side_light_mask]
+pack_id = "@core"
+resource_key = "none"
+resource_type = "light_mask"
+
+[name]
+pack_id = "@self"
+resource_key = "oak_platform"
+resource_type = "strings"
+
+[place_sfx]
+pack_id = "@self"
+resource_key = "sfx/dirt_place"
+resource_type = "audio"
+
+[texture]
+pack_id = "@self"
+resource_key = "tiles/oak_platform"
+resource_type = "texture"

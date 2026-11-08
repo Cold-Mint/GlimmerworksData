@@ -330,6 +330,10 @@ value = "打开的橡木门"
 resource_id = "loot_chest_force_mine_tip"
 value = "破坏此箱子将丢失尚未领取的战利品，请先领取战利品，再按住 Shift 进行破坏。"
 
+[[string]]
+resource_id = "oak_platform"
+value = "橡木平台"
+
 [[tag_string]]
 resource_id = "fuel"
 value = "燃料"

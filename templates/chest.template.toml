@@ -5,6 +5,9 @@ solid = true
 resource_id = "{id}"
 container_capacity = 27
 container_max_stack = 64
+attachment_reception_mask = 0
+attachment_probe_mask = 4
+attachment_tag_filter = ["solid"]
 
 [break_sfx]
 pack_id = "@self"
