@@ -8,5 +8,5 @@ required_weight = 8
 amount = 1
 [output.item]
 pack_id = "@self"
-resource_key = "chest"
+resource_id = "chest"
 resource_type = "tile"

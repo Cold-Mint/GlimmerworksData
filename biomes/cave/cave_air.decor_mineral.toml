@@ -10,4 +10,4 @@ max_spawn_elevation = 1.0
 [ore]
 pack_id = "@core"
 resource_type = "tile"
-resource_key = "air"
+resource_id = "air"

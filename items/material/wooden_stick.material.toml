@@ -7,12 +7,12 @@ name = "wooden_stick"
 name = "fuel"
 value = 1
 
-[name]
+[display_name]
 pack_id = "@self"
-resource_key = "wooden_stick"
+resource_id = "wooden_stick"
 resource_type = "strings"
 
 [texture]
 pack_id = "@self"
-resource_key = "materials/wooden_stick"
+resource_id = "materials/wooden_stick"
 resource_type = "texture"

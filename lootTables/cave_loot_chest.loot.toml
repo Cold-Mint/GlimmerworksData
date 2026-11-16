@@ -12,7 +12,7 @@ max = 2
 
 [mandatory.item]
 pack_id = "@self"
-resource_key = "coal_torch"
+resource_id = "coal_torch"
 resource_type = "tile"
 
 # 30% 概率获取木棍 1-8 个。
@@ -23,7 +23,7 @@ max = 8
 
 [pool.item]
 pack_id = "@self"
-resource_key = "wooden_stick"
+resource_id = "wooden_stick"
 resource_type = "material"
 
 # 20% 概率获取煤 1-6 个。
@@ -34,7 +34,7 @@ max = 6
 
 [pool.item]
 pack_id = "@self"
-resource_key = "coal"
+resource_id = "coal"
 resource_type = "material"
 
 # 15% 概率获取粗铜 1-4 个。
@@ -45,7 +45,7 @@ max = 4
 
 [pool.item]
 pack_id = "@self"
-resource_key = "raw_copper"
+resource_id = "raw_copper"
 resource_type = "material"
 
 # 10% 概率获取粗铁 1-3 个。
@@ -56,7 +56,7 @@ max = 3
 
 [pool.item]
 pack_id = "@self"
-resource_key = "raw_iron"
+resource_id = "raw_iron"
 resource_type = "material"
 
 # 10% 概率获取铜粒 1-3 个。
@@ -67,7 +67,7 @@ max = 3
 
 [pool.item]
 pack_id = "@self"
-resource_key = "nugget_copper"
+resource_id = "nugget_copper"
 resource_type = "material"
 
 # 8% 概率获取铁锭 1-2 个。
@@ -78,7 +78,7 @@ max = 2
 
 [pool.item]
 pack_id = "@self"
-resource_key = "ingot_iron"
+resource_id = "ingot_iron"
 resource_type = "material"
 
 # 4% 概率获取粗金 1-2 个。
@@ -89,7 +89,7 @@ max = 2
 
 [pool.item]
 pack_id = "@self"
-resource_key = "raw_gold"
+resource_id = "raw_gold"
 resource_type = "material"
 
 # 2% 概率获取金锭 1 个（稀有）。
@@ -100,7 +100,7 @@ max = 1
 
 [pool.item]
 pack_id = "@self"
-resource_key = "ingot_gold"
+resource_id = "ingot_gold"
 resource_type = "material"
 
 # 1% 概率获取红色玻璃 1-2 个（稀有装饰，无法合成）。
@@ -111,5 +111,5 @@ max = 2
 
 [pool.item]
 pack_id = "@self"
-resource_key = "glass_red"
+resource_id = "glass_red"
 resource_type = "tile"

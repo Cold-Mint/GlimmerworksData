@@ -6,5 +6,5 @@ min = 1
 
 [mandatory.item]
 pack_id = "@self"
-resource_key = "raw_gold"
+resource_id = "raw_gold"
 resource_type = "material"

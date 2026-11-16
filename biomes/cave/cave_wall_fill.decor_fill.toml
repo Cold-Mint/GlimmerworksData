@@ -2,5 +2,5 @@ resource_id = "cave_wall_fill"
 layer = 1
 [tile]
 pack_id = "@self"
-resource_key = "stone_wall"
+resource_id = "stone_wall"
 resource_type = "tile"

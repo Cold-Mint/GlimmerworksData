@@ -3,12 +3,12 @@ can_use_alone = true
 resource_id = "area_marker"
 unbreakable = true
 
-[name]
+[display_name]
 pack_id = "@self"
-resource_key = "area_marker"
+resource_id = "area_marker"
 resource_type = "strings"
 
 [texture]
 pack_id = "@self"
-resource_key = "items/data_module"
+resource_id = "items/data_module"
 resource_type = "texture"

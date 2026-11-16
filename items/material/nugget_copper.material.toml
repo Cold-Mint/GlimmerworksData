@@ -3,12 +3,12 @@ resource_id = "nugget_copper"
 [[tags]]
 name = "nugget_copper"
 
-[name]
+[display_name]
 pack_id = "@self"
-resource_key = "nugget_copper"
+resource_id = "nugget_copper"
 resource_type = "strings"
 
 [texture]
 pack_id = "@self"
-resource_key = "materials/nugget_copper"
+resource_id = "materials/nugget_copper"
 resource_type = "texture"

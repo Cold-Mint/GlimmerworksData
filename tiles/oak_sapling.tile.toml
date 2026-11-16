@@ -12,7 +12,7 @@ destroy_self_after_growth = false
 
 [growth_target]
 pack_id = "@self"
-resource_key = "oak"
+resource_id = "oak"
 resource_type = "structure"
 
 [spawn_origin_offset]
@@ -21,40 +21,40 @@ y = -1
 
 [[growth_conditions]]
 pack_id = "@self"
-resource_key = "oak_sapling_time"
+resource_id = "oak_sapling_time"
 resource_type = "growth_condition"
 
 [light_source]
 pack_id = "@core"
-resource_key = "none"
+resource_id = "none"
 resource_type = "light_source"
 
 [back_light_mask]
 pack_id = "@core"
-resource_key = "low"
+resource_id = "low"
 resource_type = "light_mask"
 
 [side_light_mask]
 pack_id = "@core"
-resource_key = "none"
+resource_id = "none"
 resource_type = "light_mask"
 
 [break_sfx]
 pack_id = "@self"
-resource_key = "sfx/block_break"
+resource_id = "sfx/block_break"
 resource_type = "audio"
 
 [place_sfx]
 pack_id = "@self"
-resource_key = "sfx/block_place"
+resource_id = "sfx/block_place"
 resource_type = "audio"
 
-[name]
+[display_name]
 pack_id = "@self"
-resource_key = "oak_sapling"
+resource_id = "oak_sapling"
 resource_type = "strings"
 
 [texture]
 pack_id = "@self"
-resource_key = "tiles/oak_sapling"
+resource_id = "tiles/oak_sapling"
 resource_type = "texture"

@@ -2,5 +2,5 @@ resource_id = "oak_biome"
 
 [[target_biomes]]
 pack_id = "@self"
-resource_key = "plains"
+resource_id = "plains"
 resource_type = "biome"

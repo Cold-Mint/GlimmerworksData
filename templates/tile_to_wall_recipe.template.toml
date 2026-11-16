@@ -9,5 +9,5 @@ required_weight = 1
 amount = 1
 [output.item]
 pack_id = "@self"
-resource_key = "{id}_wall"
+resource_id = "{id}_wall"
 resource_type = "tile"

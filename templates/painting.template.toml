@@ -12,35 +12,35 @@ attachment_tag_filter = ["wall"]
 
 [light_source]
 pack_id = "@core"
-resource_key = "none"
+resource_id = "none"
 resource_type = "light_source"
 
 [back_light_mask]
 pack_id = "@core"
-resource_key = "low"
+resource_id = "low"
 resource_type = "light_mask"
 
 [side_light_mask]
 pack_id = "@core"
-resource_key = "none"
+resource_id = "none"
 resource_type = "light_mask"
 
 [break_sfx]
 pack_id = "@self"
-resource_key = "sfx/wood_break"
+resource_id = "sfx/wood_break"
 resource_type = "audio"
 
-[name]
+[display_name]
 pack_id = "@self"
-resource_key = "{name}"
+resource_id = "{name}"
 resource_type = "strings"
 
 [place_sfx]
 pack_id = "@self"
-resource_key = "sfx/wood_place"
+resource_id = "sfx/wood_place"
 resource_type = "audio"
 
 [texture]
 pack_id = "@self"
-resource_key = "{texture}"
+resource_id = "{texture}"
 resource_type = "texture"

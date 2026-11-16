@@ -12,40 +12,40 @@ name = "leaf"
 
 [light_source]
 pack_id = "@core"
-resource_key = "none"
+resource_id = "none"
 resource_type = "light_source"
 
 [back_light_mask]
 pack_id = "@core"
-resource_key = "low"
+resource_id = "low"
 resource_type = "light_mask"
 
 [side_light_mask]
 pack_id = "@core"
-resource_key = "none"
+resource_id = "none"
 resource_type = "light_mask"
 
 [break_sfx]
 pack_id = "@self"
-resource_key = "sfx/block_break"
+resource_id = "sfx/block_break"
 resource_type = "audio"
 
 [loot_target]
 pack_id = "@self"
-resource_key = "oak_leaf"
+resource_id = "oak_leaf"
 resource_type = "loot"
 
-[name]
+[display_name]
 pack_id = "@self"
-resource_key = "oak_leaf"
+resource_id = "oak_leaf"
 resource_type = "strings"
 
 [place_sfx]
 pack_id = "@self"
-resource_key = "sfx/block_place"
+resource_id = "sfx/block_place"
 resource_type = "audio"
 
 [texture]
 pack_id = "@self"
-resource_key = "tiles/oak_leaf"
+resource_id = "tiles/oak_leaf"
 resource_type = "texture"

@@ -11,5 +11,5 @@ required_weight = 4
 amount = 1
 [output.item]
 pack_id = "@self"
-resource_key = "oak_door_closed"
+resource_id = "oak_door_closed"
 resource_type = "tile"

@@ -16,5 +16,5 @@ exact_match = false
 amount = 1
 [output.item]
 pack_id = "@self"
-resource_key = "nugget_copper"
+resource_id = "nugget_copper"
 resource_type = "material"

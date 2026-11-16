@@ -12,5 +12,5 @@ required_weight = 3
 amount = 4
 [output.item]
 pack_id = "@self"
-resource_key = "leaf_torch"
+resource_id = "leaf_torch"
 resource_type = "tile"

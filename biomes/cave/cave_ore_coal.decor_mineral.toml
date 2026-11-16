@@ -10,4 +10,4 @@ max_spawn_elevation = 1.0
 [ore]
 pack_id = "@self"
 resource_type = "tile"
-resource_key = "ore_coal"
+resource_id = "ore_coal"

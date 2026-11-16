@@ -3,12 +3,12 @@ resource_id = "nugget_iron"
 [[tags]]
 name = "nugget_iron"
 
-[name]
+[display_name]
 pack_id = "@self"
-resource_key = "nugget_iron"
+resource_id = "nugget_iron"
 resource_type = "strings"
 
 [texture]
 pack_id = "@self"
-resource_key = "materials/nugget_iron"
+resource_id = "materials/nugget_iron"
 resource_type = "texture"

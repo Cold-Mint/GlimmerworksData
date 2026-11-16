@@ -6,12 +6,12 @@ max_durability = {dur}
 [ability_config]
 mining_efficiency = {eff}
 
-[name]
+[display_name]
 pack_id = "@self"
-resource_key = "{mat}_mining"
+resource_id = "{mat}_mining"
 resource_type = "strings"
 
 [texture]
 pack_id = "@self"
-resource_key = "items/function_module"
+resource_id = "items/function_module"
 resource_type = "texture"

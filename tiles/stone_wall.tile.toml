@@ -9,35 +9,35 @@ name = "stone_wall"
 
 [light_source]
 pack_id = "@core"
-resource_key = "none"
+resource_id = "none"
 resource_type = "light_source"
 
 [back_light_mask]
 pack_id = "@core"
-resource_key = "fill"
+resource_id = "fill"
 resource_type = "light_mask"
 
 [side_light_mask]
 pack_id = "@core"
-resource_key = "medium"
+resource_id = "medium"
 resource_type = "light_mask"
 
 [break_sfx]
 pack_id = "@self"
-resource_key = "sfx/stone_break"
+resource_id = "sfx/stone_break"
 resource_type = "audio"
 
-[name]
+[display_name]
 pack_id = "@self"
-resource_key = "stone_wall"
+resource_id = "stone_wall"
 resource_type = "strings"
 
 [place_sfx]
 pack_id = "@self"
-resource_key = "sfx/stone_place"
+resource_id = "sfx/stone_place"
 resource_type = "audio"
 
 [texture]
 pack_id = "@self"
-resource_key = "tiles/stone_wall"
+resource_id = "tiles/stone_wall"
 resource_type = "texture"

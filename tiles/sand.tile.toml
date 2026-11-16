@@ -9,35 +9,35 @@ name = "sand"
 
 [light_source]
 pack_id = "@core"
-resource_key = "none"
+resource_id = "none"
 resource_type = "light_source"
 
 [back_light_mask]
 pack_id = "@core"
-resource_key = "low"
+resource_id = "low"
 resource_type = "light_mask"
 
 [side_light_mask]
 pack_id = "@core"
-resource_key = "medium"
+resource_id = "medium"
 resource_type = "light_mask"
 
 [break_sfx]
 pack_id = "@self"
-resource_key = "sfx/block_break"
+resource_id = "sfx/block_break"
 resource_type = "audio"
 
-[name]
+[display_name]
 pack_id = "@self"
-resource_key = "sand"
+resource_id = "sand"
 resource_type = "strings"
 
 [place_sfx]
 pack_id = "@self"
-resource_key = "sfx/block_place"
+resource_id = "sfx/block_place"
 resource_type = "audio"
 
 [texture]
 pack_id = "@self"
-resource_key = "tiles/sand"
+resource_id = "tiles/sand"
 resource_type = "texture"

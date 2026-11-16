@@ -6,12 +6,12 @@ max_durability = 128
 [ability_config]
 chain_mining_radius = 3
 
-[name]
+[display_name]
 pack_id = "@self"
-resource_key = "chain_mining_1"
+resource_id = "chain_mining_1"
 resource_type = "strings"
 
 [texture]
 pack_id = "@self"
-resource_key = "items/data_module"
+resource_id = "items/data_module"
 resource_type = "texture"

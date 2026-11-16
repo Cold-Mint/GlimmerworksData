@@ -2,12 +2,12 @@ resource_id = "{id}"
 slot_size = {slot}
 max_durability = {dur}
 
-[name]
+[display_name]
 pack_id = "@self"
-resource_key = "{id}"
+resource_id = "{id}"
 resource_type = "strings"
 
 [texture]
 pack_id = "@self"
-resource_key = "items/{id}"
+resource_id = "items/{id}"
 resource_type = "texture"

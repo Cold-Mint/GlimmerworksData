@@ -6,9 +6,9 @@ time_flow_speed = 1.0
 initial_time = 0.0
 sea_level_y = 100
 
-[name]
-pack_id = "@self"
-resource_key = "dimension_overworld"
+[display_name]
+target_pack_id = "@self"
+resource_id = "dimension_overworld"
 resource_type = "strings"
 
 [continent_noise]
@@ -113,28 +113,28 @@ seed_offset = 400
 t = 0.0
 [back_light_keyframes.color]
 pack_id = "@self"
-resource_key = "morning_overworld_back"
+resource_id = "morning_overworld_back"
 resource_type = "fixed_color"
 
 [[back_light_keyframes]]
 t = 0.5
 [back_light_keyframes.color]
 pack_id = "@self"
-resource_key = "midnight_overworld"
+resource_id = "midnight_overworld"
 resource_type = "fixed_color"
 
 [[back_light_keyframes]]
 t = 1.0
 [back_light_keyframes.color]
 pack_id = "@self"
-resource_key = "morning_overworld_back"
+resource_id = "morning_overworld_back"
 resource_type = "fixed_color"
 
 [[sky_light_keyframes]]
 t = 0.0
 [sky_light_keyframes.color]
 pack_id = "@self"
-resource_key = "morning_overworld"
+resource_id = "morning_overworld"
 resource_type = "fixed_color"
 
 
@@ -142,12 +142,12 @@ resource_type = "fixed_color"
 t = 0.5
 [sky_light_keyframes.color]
 pack_id = "@self"
-resource_key = "midnight_overworld"
+resource_id = "midnight_overworld"
 resource_type = "fixed_color"
 
 [[sky_light_keyframes]]
 t = 1.0
 [sky_light_keyframes.color]
 pack_id = "@self"
-resource_key = "morning_overworld"
+resource_id = "morning_overworld"
 resource_type = "fixed_color"

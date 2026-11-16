@@ -6,7 +6,7 @@ layer = 4
 source_terrain_mask = 2
 [rules.target_tile]
 pack_id = "@self"
-resource_key = "grass"
+resource_id = "grass"
 resource_type = "tile"
 [rules.offset]
 x = 0
@@ -16,7 +16,7 @@ y = 1
 source_terrain_mask = 4
 [rules.target_tile]
 pack_id = "@self"
-resource_key = "sand"
+resource_id = "sand"
 resource_type = "tile"
 [rules.offset]
 x = 0

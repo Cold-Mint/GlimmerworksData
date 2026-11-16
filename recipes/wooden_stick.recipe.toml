@@ -9,5 +9,5 @@ required_tag = "wood"
 amount = 4
 [output.item]
 pack_id = "@self"
-resource_key = "wooden_stick"
+resource_id = "wooden_stick"
 resource_type = "material"

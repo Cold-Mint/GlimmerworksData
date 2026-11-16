@@ -8,4 +8,4 @@ limit = 1
 [chest_tile]
 pack_id = "@self"
 resource_type = "tile"
-resource_key = "cave_loot_chest"
+resource_id = "cave_loot_chest"

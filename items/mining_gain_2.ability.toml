@@ -6,12 +6,12 @@ max_durability = 96
 [ability_config]
 mining_efficiency = 1.2
 
-[name]
+[display_name]
 pack_id = "@self"
-resource_key = "mining_gain_2"
+resource_id = "mining_gain_2"
 resource_type = "strings"
 
 [texture]
 pack_id = "@self"
-resource_key = "items/data_module"
+resource_id = "items/data_module"
 resource_type = "texture"

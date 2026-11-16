@@ -6,30 +6,30 @@ strictness_temperature = 1.0
 
 [bgm]
 pack_id = "@self"
-resource_key = "bgm/biome_plains"
+resource_id = "bgm/biome_plains"
 resource_type = "audio"
 
 [[decors]]
 pack_id = "@self"
-resource_key = "plains_fill"
+resource_id = "plains_fill"
 resource_type = "biome_decorator"
 
 [[decors]]
 pack_id = "@self"
-resource_key = "plains_replace"
+resource_id = "plains_replace"
 resource_type = "biome_decorator"
 
 [[decors]]
 pack_id = "@self"
-resource_key = "plains_wall_fill"
+resource_id = "plains_wall_fill"
 resource_type = "biome_decorator"
 
 [[dimensions]]
 pack_id = "@self"
-resource_key = "overworld"
+resource_id = "overworld"
 resource_type = "dimension"
 
 [[dimensions]]
 pack_id = "@self"
-resource_key = "nether"
+resource_id = "nether"
 resource_type = "dimension"

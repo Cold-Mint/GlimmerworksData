@@ -8,46 +8,46 @@ attachment_tag_filter = ["solid","decoration","wall"]
 
 [light_source]
 pack_id = "@self"
-resource_key = "coal_torch"
+resource_id = "coal_torch"
 resource_type = "light_source"
 
 [back_light_mask]
 pack_id = "@core"
-resource_key = "medium"
+resource_id = "medium"
 resource_type = "light_mask"
 
 [side_light_mask]
 pack_id = "@core"
-resource_key = "none"
+resource_id = "none"
 resource_type = "light_mask"
 
 [break_sfx]
 pack_id = "@self"
-resource_key = "sfx/wood_break"
+resource_id = "sfx/wood_break"
 resource_type = "audio"
 
-[name]
+[display_name]
 pack_id = "@self"
-resource_key = "coal_torch"
+resource_id = "coal_torch"
 resource_type = "strings"
 
 [place_sfx]
 pack_id = "@self"
-resource_key = "sfx/wood_place"
+resource_id = "sfx/wood_place"
 resource_type = "audio"
 
 [texture]
 pack_id = "@self"
-resource_key = "tiles/coal_torch"
+resource_id = "tiles/coal_torch"
 resource_type = "texture"
 
 [pipeline]
 pack_id = "@core"
-resource_key = "glow"
+resource_id = "glow"
 resource_type = "pipeline"
 
 [attachment_texture_right]
 pack_id = "@self"
-resource_key = "tiles/leaf_torch_right"
+resource_id = "tiles/leaf_torch_right"
 resource_type = "texture"
 

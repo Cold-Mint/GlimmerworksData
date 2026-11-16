@@ -2,5 +2,5 @@ resource_id = "plains_fill"
 layer = 4
 [tile]
 pack_id = "@self"
-resource_key = "dirt"
+resource_id = "dirt"
 resource_type = "tile"

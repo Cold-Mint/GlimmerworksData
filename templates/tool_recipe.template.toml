@@ -15,7 +15,7 @@ amount = 1
 
 [output.item]
 pack_id = "@self"
-resource_key = "{tool}_{mat}"
+resource_id = "{tool}_{mat}"
 resource_type = "composable"
 
 [[output.ability_item_ref]]
@@ -23,7 +23,7 @@ amount = 1
 
 [output.ability_item_ref.item]
 pack_id = "@self"
-resource_key = "{mat}_mining"
+resource_id = "{mat}_mining"
 resource_type = "ability"
 
 [[output.ability_item_ref]]
@@ -31,5 +31,5 @@ amount = 1
 
 [output.ability_item_ref.item]
 pack_id = "@self"
-resource_key = "{layer_key}"
+resource_id = "{layer_key}"
 resource_type = "ability"

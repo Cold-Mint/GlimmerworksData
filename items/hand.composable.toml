@@ -3,12 +3,12 @@ slot_size = 2
 max_durability = 128
 unbreakable = true
 
-[name]
+[display_name]
 pack_id = "@self"
-resource_key = "hand"
+resource_id = "hand"
 resource_type = "strings"
 
 [texture]
 pack_id = "@self"
-resource_key = "items/hand"
+resource_id = "items/hand"
 resource_type = "texture"

@@ -3,12 +3,12 @@ resource_id = "raw_gold"
 [[tags]]
 name = "raw_gold"
 
-[name]
+[display_name]
 pack_id = "@self"
-resource_key = "raw_gold"
+resource_id = "raw_gold"
 resource_type = "strings"
 
 [texture]
 pack_id = "@self"
-resource_key = "materials/raw_gold"
+resource_id = "materials/raw_gold"
 resource_type = "texture"

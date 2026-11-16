@@ -15,7 +15,7 @@ amount = 1
 
 [empty_hand_auto_use_item.ability_item_ref.item]
 pack_id = "@self"
-resource_key = "hand_mining"
+resource_id = "hand_mining"
 resource_type = "ability"
 
 [[empty_hand_auto_use_item.ability_item_ref]]
@@ -23,12 +23,12 @@ amount = 1
 
 [empty_hand_auto_use_item.ability_item_ref.item]
 pack_id = "@self"
-resource_key = "ground_mining"
+resource_id = "ground_mining"
 resource_type = "ability"
 
 [empty_hand_auto_use_item.item]
 pack_id = "@self"
-resource_key = "hand"
+resource_id = "hand"
 resource_type = "composable"
 
 [tile_placement_forbidden_zone]
@@ -39,7 +39,7 @@ offset_x = 0
 
 [texture]
 pack_id = "@self"
-resource_key = "player"
+resource_id = "player"
 resource_type = "texture"
 
 [texture_offset]

@@ -3,12 +3,12 @@ resource_id = "ingot_iron"
 [[tags]]
 name = "ingot_iron"
 
-[name]
+[display_name]
 pack_id = "@self"
-resource_key = "ingot_iron"
+resource_id = "ingot_iron"
 resource_type = "strings"
 
 [texture]
 pack_id = "@self"
-resource_key = "materials/ingot_iron"
+resource_id = "materials/ingot_iron"
 resource_type = "texture"

@@ -14,35 +14,35 @@ y = 0.25
 
 [break_sfx]
 pack_id = "@self"
-resource_key = "sfx/dirt_break"
+resource_id = "sfx/dirt_break"
 resource_type = "audio"
 
 [light_source]
 pack_id = "@core"
-resource_key = "none"
+resource_id = "none"
 resource_type = "light_source"
 
 [back_light_mask]
 pack_id = "@core"
-resource_key = "none"
+resource_id = "none"
 resource_type = "light_mask"
 
 [side_light_mask]
 pack_id = "@core"
-resource_key = "none"
+resource_id = "none"
 resource_type = "light_mask"
 
-[name]
+[display_name]
 pack_id = "@self"
-resource_key = "oak_platform"
+resource_id = "oak_platform"
 resource_type = "strings"
 
 [place_sfx]
 pack_id = "@self"
-resource_key = "sfx/dirt_place"
+resource_id = "sfx/dirt_place"
 resource_type = "audio"
 
 [texture]
 pack_id = "@self"
-resource_key = "tiles/oak_platform"
+resource_id = "tiles/oak_platform"
 resource_type = "texture"
