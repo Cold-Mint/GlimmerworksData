@@ -1,4 +1,0 @@
-#@set(mat,wooden)
-#@set(dur,192)
-#@set(eff,0.6)
-#@insert_template(material_mining_ability)

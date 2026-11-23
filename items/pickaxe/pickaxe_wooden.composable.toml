@@ -1,4 +1,0 @@
-#@set(id,pickaxe_wooden)
-#@set(slot,2)
-#@set(dur,64)
-#@insert_template(tool_composable)

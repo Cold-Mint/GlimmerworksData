@@ -1,6 +1,0 @@
-#@set(tool,pickaxe)
-#@set(mat,stone)
-#@set(head_tag,stone)
-#@set(head_weight,3)
-#@set(layer_key,ground_mining)
-#@insert_template(tool_recipe)

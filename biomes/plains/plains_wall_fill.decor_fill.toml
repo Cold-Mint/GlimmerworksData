@@ -1,6 +1,0 @@
-resource_id = "plains_wall_fill"
-layer = 1
-[tile]
-pack_id = "@self"
-resource_id = "dirt_wall"
-resource_type = "tile"

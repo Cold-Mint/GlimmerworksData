@@ -1,4 +1,0 @@
-#@set(mat,iron)
-#@set(dur,320)
-#@set(eff,2.5)
-#@insert_template(material_mining_ability)

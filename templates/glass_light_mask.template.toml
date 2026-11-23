@@ -1,6 +1,0 @@
-resource_id = "glass_{color}"
-tint_factor = 0.7
-[light_mask_color]
-pack_id = "@self"
-resource_id = "glass_{color}"
-resource_type = "fixed_color"

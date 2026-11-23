@@ -1,6 +1,0 @@
-resource_id = "hut_biome"
-
-[[target_biomes]]
-pack_id = "@self"
-resource_id = "cave"
-resource_type = "biome"

@@ -1,5 +1,0 @@
-#@set(color,blue)
-#@insert_template(glass_fixed_color)
-r = 40
-g = 40
-b = 255

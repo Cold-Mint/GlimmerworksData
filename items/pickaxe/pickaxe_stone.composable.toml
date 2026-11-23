@@ -1,4 +1,0 @@
-#@set(id,pickaxe_stone)
-#@set(slot,2)
-#@set(dur,128)
-#@insert_template(tool_composable)

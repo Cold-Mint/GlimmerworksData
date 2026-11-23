@@ -1,24 +1,2 @@
-author = "Cold-Mint"
 id = "glimmerworks"
-min_game_version = 1
-res_pack = false
-version_name = "1.0"
-version_number = 1
-#Search for templates only in the "templates" folder.
-#只在templates文件夹下搜索模板。
-template_search_path = ["@root/templates"]
-
-[description]
-pack_id = "@self"
-resource_id = "dataPacksDescription"
-resource_type = "strings"
-
-[display_name]
-pack_id = "@self"
-resource_id = "dataPacksName"
-resource_type = "strings"
-
-[[pack_dependencies]]
-min_version = 1
-pack_id = "@core"
-
+min_game_version = 3

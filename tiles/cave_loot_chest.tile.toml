@@ -1,3 +1,0 @@
-#@set(id,cave_loot_chest)
-#@set(loot_chest,true)
-#@insert_template(chest)

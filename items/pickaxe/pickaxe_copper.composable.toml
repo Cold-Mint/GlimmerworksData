@@ -1,4 +1,0 @@
-#@set(id,pickaxe_copper)
-#@set(slot,3)
-#@set(dur,180)
-#@insert_template(tool_composable)

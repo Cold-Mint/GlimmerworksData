@@ -1,0 +1,7 @@
+﻿resource_id = "prime"
+allow_as_starting = true
+
+[display_name]
+target_pack_id = "@self"
+resource_id = "dimension_prime"
+resource_type = "strings"
